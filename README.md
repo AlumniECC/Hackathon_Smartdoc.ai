@@ -125,7 +125,7 @@ Le modèle YOLO permet une detection et extraction systématique sous forme d'im
 
 </details>
 
-
+---
 <details>
 <summary>Premiere partie (using  Llama Parser)</summary>
 
@@ -140,9 +140,79 @@ Vu les limites apparentes de la méthode d'extraction avec `Google Vision`, nous
 </details>
 
 
-
+---
 <details>
 <summary>Deuxieme partie</summary>
+
+## 🏗️ Architecture Technique Détaillée
+
+### Choix du Modèle de Langage (LLM)(voir [code](rag_architecture/response.py))
+
+La sélection de Google Generative AI (Gemini), et plus particulièrement de la version [1.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash), résulte d'une analyse approfondie des besoins spécifiques de notre cas d'usage. Ce modèle se distingue par sa capacité exceptionnelle à comprendre et à traiter des contextes financiers complexes. Sa maîtrise du français, combinée à des performances de pointe en analyse de documents techniques, en fait un choix stratégique.
+
+Les points forts de Gemini incluent sa capacité à :
+- Maintenir la cohérence dans l'interprétation de documents longs et techniques
+- Gérer efficacement les nuances du langage financier
+- Fournir des réponses structurées et professionnelles
+- S'adapter rapidement à différents styles de rapports financiers
+
+### Stratégie Avancée de Chunking(voir [code](rag_architecture/inital_vector.py))
+
+La méthode de découpage des documents (chunking) représente un élément crucial de notre architecture RAG. Utilisant RecursiveCharacterTextSplitter, nous avons développé une approche qui va au-delà du simple découpage mécanique des documents.
+
+Notre stratégie vise à :
+- Préserver l'intégrité sémantique des sections
+- Maintenir un contexte suffisamment large pour une compréhension profonde
+- Permettre une recherche de similarité précise
+- Minimiser la fragmentation des informations cruciales
+
+Avec des chunks de 100 000 caractères et un chevauchement de 200 caractères, nous garantissons une transition en douceur entre les segments, assurant qu'aucun détail important ne soit perdu lors de l'analyse.
+
+### Vectorisation Sémantique de Pointe(voir [code](rag_architecture/inital_vector.py))
+
+Le modèle d'embedding de Google (`models/embedding-001`) transforme chaque segment de texte en un vecteur mathématique riche en informations sémantiques. Cette transformation permet une recherche de similarité qui va bien au-delà des correspondances littérales, en capturant les nuances et les relations conceptuelles entre différentes parties du document.
+
+Les avantages de cette approche incluent :
+- Une compréhension contextuelle profonde
+- La capacité de relier des concepts financiers apparemment disparates
+- Une précision accrue dans la recherche de segments pertinents
+
+### Moteur de Recherche Vectoriel FAISS(voir [code](rag_architecture/inital_vector.py))
+
+FAISS (Facebook AI Similarity Search) représente la colonne vertébrale de notre système de recherche. Cette bibliothèque open-source développée par Facebook permet des recherches de similarité ultrarapides, même sur de très grands ensembles de données.
+
+Son implémentation nous permet de :
+- Indexer rapidement des milliers de pages de rapports financiers
+- Effectuer des recherches de similarité en quelques millisecondes
+- Gérer efficacement des volumes importants de données vectorisées
+
+## 🔍 Processus Intelligent de Recherche et Génération
+
+Notre chaîne de traitement intègre plusieurs étapes sophistiquées pour garantir des réponses de haute qualité :
+
+1. **Prétraitement Intelligent**: Découpage et vectorisation des documents
+2. **Recherche Sémantique**: Identification des segments les plus pertinents
+3. **Génération Contextualisée**: Production de réponses précises et professionnelles
+
+Le prompt engineering joue un rôle crucial, guidant le modèle avec des instructions détaillées pour :
+- Utiliser exclusivement le contexte fourni
+- Maintenir une structure de réponse professionnelle
+- Gérer explicitement les cas où l'information est incomplète ou absente
+
+
+
+## 📦 Écosystème Technologique
+
+- **Langages**: Python 3.8+
+- **Frameworks**: LangChain, Google GenerativeAI
+- **Bibliothèques**: FAISS, Transformers
+- **Infrastructure**: Compatible cloud et environnements locaux
+
+</details>
+
+---
+<details>
+<summary>Interface Streamlit Chatbot</summary>
 
 
 </details>
