@@ -218,7 +218,7 @@ Le prompt engineering joue un rôle crucial, guidant le modèle avec des instruc
 
 Voici une démonstration vidéo :
 
-<iframe src="https://www.loom.com/share/4d81a87a0dec47e982f27d2ec15ecb7b?sid=7aa29e2c-ac09-4e7f-85f9-b1bb8d3f52e0">
+<iframe src="https://www.loom.com/share/158c4b96c70c447685bd8416f31841e5?sid=b5102413-d26f-4136-b670-e049b11bcdfc">
 </iframe>
 
 
