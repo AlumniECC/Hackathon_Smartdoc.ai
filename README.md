@@ -75,8 +75,10 @@ Le fichier généré est produit à l'aide de la fonction suivante :
 
 
 ### Analyse :
+
 La labélisation a été faite selon des critères qu'il est difficile de généraliser.
 L'étape de labélisation, bien que fonctionnelle, présente certaines limites dues à la difficulté de définir des critères universels applicables à tous les types de rapports SFCR. En effet, les seuils définis pour la position verticale, la taille des caractères et le nombre de caractères sont basés sur des observations spécifiques, ce qui peut entraîner des erreurs ou des ambiguïtés dans certaines situations.
+
 ---
 
 ## Conclusion :
