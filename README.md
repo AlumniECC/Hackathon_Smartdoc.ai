@@ -8,15 +8,14 @@
 Ce projet a été réalisé dans le cadre du hackathon SmartDoc.ai, ayant pour objectif principal le traitement de documents financiers au format PDF pour en extraire uniquement les contenus pertinents à l'aide d'outils NLP. Voici une description des étapes réalisées lors des différentes parties cet exercice.
 
 ---
-<details>
-<summary>Premiere partie (using Google Vision API)</summary>
+# Premiere partie (using Google Vision API)
 
 ## 1. Traitement des Données OCR
 
 ### Fonctionnalités Utilisées :
 La fonction **`produce_brut()`** fournie dans le fichier `helper.py` (que l'on a gardé comme telle) a été utilisée telle quelle pour transformer les fichiers JSON obtenus à partir de l'OCR (Google Vision API) en un tableau Excel structurant les blocs textuels extraits des rapports SFCR. Cette fonction constitue la base des analyses effectuées dans les étapes suivantes.
 
----
+
 
 ## 2. Détection et Labélisation des Contenus
 
@@ -79,15 +78,15 @@ Le fichier généré est produit à l'aide de la fonction suivante :
 La labélisation a été faite selon des critères qu'il est difficile de généraliser.
 L'étape de labélisation, bien que fonctionnelle, présente certaines limites dues à la difficulté de définir des critères universels applicables à tous les types de rapports SFCR. En effet, les seuils définis pour la position verticale, la taille des caractères et le nombre de caractères sont basés sur des observations spécifiques, ce qui peut entraîner des erreurs ou des ambiguïtés dans certaines situations.
 
----
+
 
 ## Conclusion :
 Ces étapes ont permis d'établir une base solide pour l'analyse des rapports SFCR en filtrant efficacement le contenu utile. Les techniques de traitement et de labélisation développées ici préparent à la deuxième partie de l'exercice, centrée sur l'implémentation d'une architecture RAG.
 
----
+
 ## 3. Bonnus : Extraction lisible des informations des tableaux
 
----
+
 ### Objectif  
 L'objectif de cette partie était de détecter et extraire automatiquement les tableaux présents dans des fichiers PDF, puis de convertir leur contenu en texte structuré tout en préservant la disposition tabulaire. Le code a été devollopé dans ce [notebook](tables/table_detection_and_extraction.ipynb)
 
@@ -128,11 +127,10 @@ Cette méthodologie a permis :
 ### Analyse :
 Le modèle YOLO permet une detection et extraction systématique sous forme d'image de toutes les tables dans les différents PDF. La difficulté apparente se trouve au niveau de l'extraction des tables de ces images (dans le cas de l'utilisation de modèle lite non multimodale)
 
-</details>
 
 ---
-<details>
-<summary>Premiere partie (using  Llama Parser)</summary>
+
+# Premiere partie (using  Llama Parser)
 
 ## 1. Exctraction avec  LlamaParse
 Vu les limites apparentes de la méthode d'extraction avec `Google Vision`, nous avons effectué un benchmark qui a abouti à la solution de `LlamaCloud` : [Llama Parser](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/). LlamaParse est un parseur de documents sur le marché spécialement conçu pour les améliorer les RAG. Cette solution a permis d'extraire de manière fidèle les informations de divers PDF sous forme de `Markdown`. En utilisant `LlamaParse`, nous avons pu surmonter les défis liés à l'extraction de contenu complexe, tels que les tableaux, les diagrammes et l'ordre de lecture, en obtenant des résultats plus précis et mieux structurés que ceux offerts par les modèles multimodaux traditionnels. Grâce à son approche hybride, LlamaParse a réduit les erreurs d'extraction, tout en offrant une meilleure gestion du contenu visuel et textuel.
@@ -142,16 +140,16 @@ Vu les limites apparentes de la méthode d'extraction avec `Google Vision`, nous
 ## 2. Résulats
 ### ⚠️ L'on a [ici](llama_parser/markdown) 4 fichers `.md` de l'extraction des 4 [rappors PDF](data/pdfs) 
 
-</details>
+
 
 
 ---
-<details>
-<summary>Deuxieme partie</summary>
+
+# Deuxieme partie
 
 ## 🏗️ Architecture Technique Détaillée
 
-### Choix du Modèle de Langage (LLM)(voir [code](rag_architecture/response.py))
+### 1. Choix du Modèle de Langage (LLM)(voir [code](rag_architecture/response.py))
 
 La sélection de Google Generative AI (Gemini), et plus particulièrement de la version [1.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini#gemini-1.5-flash), résulte d'une analyse approfondie des besoins spécifiques de notre cas d'usage. Ce modèle se distingue par sa capacité exceptionnelle à comprendre et à traiter des contextes financiers complexes. Sa maîtrise du français, combinée à des performances de pointe en analyse de documents techniques, en fait un choix stratégique.
 
@@ -161,7 +159,7 @@ Les points forts de Gemini incluent sa capacité à :
 - Fournir des réponses structurées et professionnelles
 - S'adapter rapidement à différents styles de rapports financiers
 
-### Stratégie Avancée de Chunking(voir [code](rag_architecture/inital_vector.py))
+### 2. Stratégie Avancée de Chunking(voir [code](rag_architecture/inital_vector.py))
 
 La méthode de découpage des documents (chunking) représente un élément crucial de notre architecture RAG. Utilisant RecursiveCharacterTextSplitter, nous avons développé une approche qui va au-delà du simple découpage mécanique des documents.
 
@@ -173,7 +171,7 @@ Notre stratégie vise à :
 
 Avec des chunks de 100 000 caractères et un chevauchement de 200 caractères, nous garantissons une transition en douceur entre les segments, assurant qu'aucun détail important ne soit perdu lors de l'analyse.
 
-### Vectorisation Sémantique de Pointe(voir [code](rag_architecture/inital_vector.py))
+### 3. Vectorisation Sémantique de Pointe(voir [code](rag_architecture/inital_vector.py))
 
 Le modèle d'embedding de Google (`models/embedding-001`) transforme chaque segment de texte en un vecteur mathématique riche en informations sémantiques. Cette transformation permet une recherche de similarité qui va bien au-delà des correspondances littérales, en capturant les nuances et les relations conceptuelles entre différentes parties du document.
 
@@ -182,7 +180,7 @@ Les avantages de cette approche incluent :
 - La capacité de relier des concepts financiers apparemment disparates
 - Une précision accrue dans la recherche de segments pertinents
 
-### Moteur de Recherche Vectoriel FAISS(voir [code](rag_architecture/inital_vector.py))
+### 4. Moteur de Recherche Vectoriel FAISS(voir [code](rag_architecture/inital_vector.py))
 
 FAISS (Facebook AI Similarity Search) représente la colonne vertébrale de notre système de recherche. Cette bibliothèque open-source développée par Facebook permet des recherches de similarité ultrarapides, même sur de très grands ensembles de données.
 
@@ -191,7 +189,7 @@ Son implémentation nous permet de :
 - Effectuer des recherches de similarité en quelques millisecondes
 - Gérer efficacement des volumes importants de données vectorisées
 
-## 🔍 Processus Intelligent de Recherche et Génération
+## 🔍 Processus de Recherche et Génération
 
 Notre chaîne de traitement intègre plusieurs étapes sophistiquées pour garantir des réponses de haute qualité :
 
@@ -206,33 +204,23 @@ Le prompt engineering joue un rôle crucial, guidant le modèle avec des instruc
 
 
 
-## 📦 Écosystème Technologique
-
-- **Langages**: Python 3.8+
-- **Frameworks**: LangChain, Google GenerativeAI
-- **Bibliothèques**: FAISS, Transformers
-- **Infrastructure**: Compatible cloud et environnements locaux
-
-</details>
-
 ---
-<details>
-<summary>Interface Streamlit Chatbot</summary>
 
-# 🎥 Démo de mon projet
+# Interface Streamlit(voir [code](main.py))
+
+
+## 🎥 Démo de mon projet
 
 Voici une démonstration vidéo :
 
 <iframe src="https://www.loom.com/share/158c4b96c70c447685bd8416f31841e5?sid=b5102413-d26f-4136-b670-e049b11bcdfc">
 </iframe>
 
-</details>
+
 
 ---
-<details>
-<summary>Utilisation du code</summary>
 
-### Étapes pour utiliser ce projet : 
+# Étapes pour utiliser ce projet : 
 
 1. **Cloner le dépôt**  
    Téléchargez le projet sur votre machine en clonant le dépôt GitHub avec la commande suivante :  
@@ -283,4 +271,3 @@ Voici une démonstration vidéo :
    ```
 
 ---
-</details>
