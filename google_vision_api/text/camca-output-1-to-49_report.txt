@@ -1,0 +1,2553 @@
+
+Page 1
+Rapport sur la Solvabilité et la Situation Financière ( SFCR ) 
+
+
+Groupe CAMCA au 31 décembre 2022 
+
+Personne à contacter pour d'éventuels compléments d'information : 
+
+Fonction  Secrétaire Général Responsable Risques et Contrôles 
+
+CAMCA est une entité soumise au contrôle de l'Autorité de Contrôle Prudentiel et de Résolution ( ACPR ) 
+
+
+==================================================
+
+Page 2
+
+Sommaire 
+
+2.3 . FAITS MARQUANTS DE L'EXERCICE ET PERSPECTIVES .. 2.4 . OPERATIONS ET TRANSACTIONS AU SEIN DU GROUPE ... 2.5 . 
+
+PERFORMANCE ASSOCIEE AUX PORTEFEUILLES DE CONTRATS  PERFORMANCE ASSOCIEE AUX ACTIVITES DE PLACEMENTS 
+
+
+1.2 . SYSTEME DE GOUVERNANCE . 
+
+
+GESTION DES FONDS PROPRES 
+
+INFORMATIONS GENERALES SUR LE SYSTEME DE GOUVERNANCE INFORMATIONS RELATIVES A LA POLITIQUE DE REMUNERATION 
+
+PRINCIPALES CARACTERISTIQUES DES TRANSACTIONS SIGNIFICATIVES AVEC LES PARTIES LIEES SYSTEME DE GESTION DES RISQUES DONT ORSA . 
+
+
+3.9 . SOUS - TRAITANCE .... 
+
+
+4.6 . 4.7 . AUTRES RISQUES SIGNIFICATIFS .. 
+
+
+5.1 . INTRODUCTION 
+
+
+==================================================
+
+Page 4
+
+1. SYNTHESE 
+
+En application de la Directive Solvabilité 2 et plus spécifiquement dans le cadre du Pilier 3 relatif à la diffusion d'information au public , le rapport sur la solvabilité et la situation financière ( SFCR ) de CAMCA rend compte de l'exercice écoulé sur l'année 2022 . 
+
+Le rapport sur l solvabilité et la situation financière ( SFCR ) du Groupe CAMCA consiste à apporter une vision d'ensemble des activités d'assurance de l'entité en environnement Solvabilité 2. Ce rapport permet de présenter et d'apporter des explications sur lactivité et la performance de lentité , de démontrer le caractère approprié de son système de gouvernance , d'apprécier les écarts de valorisation de son bilan entre les normes locales et les normes Solvabilité 2 et d'évaluer sa solvabilité . Ce rapport a été présenté pour validation au Conseil d'Administration du 3 mai 2023 . 
+
+
+1.1 . Activité et résultats 
+
+Le Groupe CAMCA est une compagnie d'assurance au service du groupe Crédit Agricole et de ses clients , et est active dans quatre domaines d'expertise  les risques opérationnels Groupe , les garanties financières , le parabancaire et les assurances Immobilier et Construction . 
+
+Son chiffre d'affaires sétablit à 722 M  en 2022 , en progression de 46M € ( soit + 7 % ) par rapport à 2021 , principalement due à l'activité de Caution Habitat de CAMCA Assurance . 
+
+
+1.2 . Système de gouvernance 
+
+Le Conseil d'Administration détermine les orientations stratégiques de la compagnie , veille à leur mise en uvre et assume la responsabilité du respect des dispositions légales , réglementaires et administratives adoptées en vertu de la directive Solvabilité 2. Le Conseil d'Administration est en lien avec les dirigeants effectifs du Groupe CAMCA et les responsables des quatre Fonctions clés . 
+
+Ce système de gouvernance contribue à la réalisation des objectifs stratégiques du Groupe CAMCA et garantit une maitrise efficace de ses risques compte tenu de leur nature , de leur ampleur et de leur complexité . 
+
+Le Conseil d'Administration de CAMCA est composé des membres suivants au 31/12/2022 : 
+
+Monsieur Luc JEANNEAU , Président de la CRCAM Atlantique Vendée et Président de CAMCA , 
+
+ Monsieur Jean - Yves REMILLET , Président de la CRCAM Champagne Bourgogne et Vice - Président de CAMCA , 
+
+Monsieur Laurent CAZELLES , Directeur Général de la CRCAM Lorraine et Membre du Comité d'Audit et des Risques de CAMCA , 
+
+Monsieur Nicolas DENIS , Directeur Général de la CRCAM Normandie Seine et Membre du Bureau du Conseil d'Administration , 
+
+Monsieur Benoit FAYOL , Président de la CRCAM Charente Périgord , 
+
+ Madame Christine GANDON , Présidente de la CRCAM Nord - Est et Présidente du Comité d'Audit et des Risques du Groupe CAMCA , 
+
+ Monsieur Gérald GREGOIRE , Directeur Général de la CRCAM Alsace Vosges , 
+
+
+==================================================
+
+Page 5
+Monsieur Benoît LEDUC , Directeur Général de la CRCAM de Guadeloupe et Membre du Comité d'Audit et des Risques de CAMCA 
+
+Monsieur Guilhem NOUVEL - ALAUX , Responsable de la Direction des Relations avec les Caisses Régionales au sein de Crédit Agricole SA , 
+
+
+ 
+
+Monsieur Laurent ALLOPPE - CABART , représentant les salariés de CAMCA , 
+
+ Monsieur Jean - François DUPOUY , Directeur Général Adjoint de la FNCA , invité permanent . 
+
+Le Comité de Direction du Groupe CAMCA est composé comme suit au 31/12/2022 : 
+
+ Monsieur Thierry CORNILLE , Directeur Général et Dirigeant effectif , 
+
+
+ 
+
+Monsieur Olivier MOUTTE , Directeur Général Adjoint et Second Dirigeant effectif , 
+
+Monsieur Valéry CAUSSARIEU , Responsable du Département Solvabilité et Actuariat Groupe , Responsable de la Fonction clé Actuariat 
+
+ Monsieur Eric COSTA , Directeur de CAMCA Courtage , 
+
+Monsieur Olivier DENEL , Directeur des Systèmes d'Information 
+
+Madame Nathalie HUBERT , Directrice des Assurances de Biens et de Responsabilités , 
+
+Madame Muriel NAUD - BELOUARD , Secrétaire Générale , Responsable de la Fonction Gestion des Risques et de la Fonction Vérification de la Conformité 
+
+Monsieur Alain SIEGRIST , Administrateur délégué ( Dirigeant Agréé ) de CAMCA Assurance et de CAMCA Réassurance . 
+
+
+1.3 . Profil de risques 
+
+Les principaux risques du Groupe CAMCA sont les risques de souscription ( risques techniques sur la garantie Globale de Banque et Responsabilités Civiles Professionnelles Courtage et Caution Habitat ) et le risque financier ( risque de taux et risque souverain ) . Compte tenu de son profil de risques , la formule standard est adaptée au calcul du besoin en capital . Les risques qui ne peuvent pas être appréhendés en application de la formule standard ( notamment le risque de spread sur les souverains , le risque de réputation et celui de liquidité ) font l'objet d'un suivi dans le dispositif de maîtrise des risques permettant , le cas échéant , d'alerter la gouvernance . 
+
+
+1.4 . Valorisation du bilan prudentiel 
+
+Le bilan prudentiel de CAMCA est arrêté au 31 décembre 2022 . 
+
+Le principe général de valorisation du bilan prudentiel est celui d'une évaluation économique des actifs et passifs . 
+
+
+1.5 . Gestion des fonds propres 
+
+Au 31 décembre 2022 , les fonds propres éligibles s'élèvent à 911 millions d'euros ( M  ) et le besoin en capital ( SCR ) à 443 millions d'euros . A fin 2022 , le ratio de solvabilité de CAMCA est de 206 % . A compter de 2020 , le mécanisme d'atténuation des risques de la provision pour commission variable relative à la Caution habitat a été intégré dans le calcul du SCR . 
+
+
+==================================================
+
+Page 6
+Le Groupe CAMCA a pris en compte dans son calcul ORSA l'impact des exigences spécifiques à 'activité Caution Habitat à compter du er janvier 2018. La combinaison des scenarii extrêmes macroéconomique et technique y compris l'exigence spécifique de l'ACPR relative à la Caution Habitat aurait un impact significatif sur la couverture de l'exigence globale qui ne descendrait cependant pas en dessous de l'exigence totale . 
+
+
+==================================================
+
+Page 7
+
+2. ACTIVITE ET RESULTATS 
+
+
+2.1 . Périmètre 
+
+CAMCA est une société d'assurance mutuelle à cotisations variables , dont le siège social se situe au 53 rue la Boétie à Paris et administrée par un Conseil d'Administration , L'Autorité de contrôle chargée du contrôle financier de CAMCA est 'ACPR ( Autorité de Contrôle Prudentiel et de Résolution ) , sis 4 Place de Budapest 75436 Paris . 
+
+CAMCA Mutuelle , détenue par des sociétaires , au service des Caisses Régionales et des entités du Groupe Crédit Agricole , dispose d'un ensemble de filiales situées en France et au Luxembourg . L'ensemble de ces structures est appelé  Groupe CAMCA   dans le présent document . 
+
+Les entités reportent à leurs Conseils d'Administration respectifs . 
+
+
+ 
+
+
+Conseil d'administration 
+
+Souscripteurs : sociétaires Risques opérationnels Parabancaire 
+
+
+CAMCA Assurance ( SA ) 1997 
+
+
+Souscripteurs : clients Assurance Caution 
+
+Par ailleurs , les commissaires aux comptes de CAMCA sont : 
+
+ MAZARS sis 61 rue Henri Regnault à Paris La Défense , 
+
+ Fidorg Audit sis 62 rue de la Chaussée d'Antin à Paris . 
+
+
+Courtage généraliste Courtage de réassurance 
+
+Le Groupe CAMCA fait partie du périmètre de consolidation du Groupe Crédit Agricole ( Crédit Agricole S.A. 12 place des Etats Unis 92127 Montrouge Cedex ) . 
+
+La compagnie produit des comptes en normes françaises ( les modes et méthodes d'évaluation appliqués aux divers postes du bilan , du compte de résultat et de l'annexe , sont ceux définis dans le Code des assurances et à défaut ceux spécifiés dans le plan comptable général ) et , pour les besoins du Groupe Crédit Agricole , des comptes selon le référentiel FRS ( International Financial Reporting Standards ) . 
+
+
+==================================================
+
+Page 8
+
+2.2 . Présentation Générale et Activité 
+
+CAMCA est créée en 1946 , à l'initiative des Caisses Régionales du Crédit Agricole , dans l'objectif de se prémunir contre le vol et les autres risques opérationnels . Depuis , CAMCA a progressivement étendu son champ d'intervention à l'ensemble des risques opérationnels ( incendie , accidents et risques divers ) auxquels sont confrontés ses sociétaires , et au parabancaire . 
+
+Aujourd'hui , CAMCA est un groupe d'assurance au service du Groupe Crédit Agricole et de ses clients , actif dans les domaines d'expertise suivants . 
+
+CAMCA assure les risques opérationnels propres aux Caisses Régionales et aux filiales du Groupe Crédit Agricole ainsi que les comptes et / ou les moyens de paiement des clients des Caisses Régionales , de LCL , de BforBank et de Crédit Agricole Consumer Finance . 
+
+Deux autres entités d'assurance et de réassurance de droit Luxembourgeois viennent par ailleurs enrichir les offres de services délivrées aux diverses entités du Groupe Crédit Agricole  
+
+ CAMCA Assurance S.A.  créée en 1997 , la filiale permet d'assurer la clientèle du Groupe Crédit Agricole qui ne peut prendre le statut de sociétaire de la Mutuelle . La vocation première de 'entité est de traiter en Libre Prestation de Service ( LPS ) le cautionnement des prêts à 'habitat délivrés par le réseau . Avec cette offre particulière , CAMCA Assurance propose une alternative  'hypothèque . 
+
+CAMCA Rassurance S.A.  filiale créée en 1992 , la compagnie de réassurance constitue un outil de gestion des risques à long terme au service de CAMCA Mutuelle et de CAMCA Assurance . 
+
+CAMCA Courtage , filiale créée en 2000 , complète le champ d'intervention des sociétés précitées tant dans les domaines de l'assurance que de la réassurance . À ce titre , elle conoit des solutions assurantielles sur mesure pour le compte d'entreprises et de groupements , aussi bien pour certaines filiales du Groupe Crédit Agricole que pour des entités totalement indépendantes de ce dernier . Ainsi , elle apporte son expertise pour les assurances adossées par exemple aux activités Leasing , Énergies Renouvelables ou Immobilières exercées par le Groupe  elle intervient également pour le compte de grands opérateurs dans le domaine des jeux et paris disposant de réseaux de distribution très denses maillant l'ensemble du territoire national . 
+
+Aucune opération importante ou tout autre événement qui auraient pu avoir un impact important sur la société ne sont survenus en 2022 . 
+
+Le Groupe CAMCA a continué la structuration de son développement en étoffant ses compétences humaines . La structure compte ainsi un effectif moyen sur 2022 de 173 collaborateurs . 
+
+2.3 . Faits marquants de l'exercice et perspectives 
+
+CAMCA Mutuelle a poursuivi sur lexercice 2022 le développement de ses activités ( cotisations en progression de 5,7 % ) , sur lensemble des activités du parabancaire , des assurances liées au cartes et des risques opérationnels . De son coté , CAMCA Assurance a connu une forte croissance de son activité de Caution Habitat ( 382 M  contre 360 M € en 2021 ) avec une année 2022 en deux phases  un premier semestre exceptionnellement dynamique bénéficiant de taux encore très bas dans la continuité de 2021 , 
+
+
+==================================================
+
+Page 9
+suivi d'un second semestre en baisse compte - tenu de la remontée des taux Au global , le Groupe CAMCA a u son chiffre d'affaires consolidé progresser de 676 M € à 722 M € ( + 7 % ) du fait principalement de 'évolution de l'activité de caution Habitat . 
+
+Le résultat net part du groupe sétablit à 17 M € , en baisse de 21 M € par rapport à 2021 ( 38 M  ) , avec un résultat technique net de réassurance en diminution de 34 M  par rapport à 2021 , avec un exercice caractérisé par une hausse globale de la sinistralité sur outes les autres branches sauf les Risques opérationnels ( ratio S / P net passant de 25 %  29 % ) . CAMCA Mutuelle exerce ses activités de souscription en France Métropolitaine et dans les DROM uniquement . CAMCA Assurance exerce ses activités de ouscription en France Métropolitaine , dans les DROM , en Espagne , en Belgique et au Luxembourg . 
+
+Performance associée aux portefeuilles de contrats ( résultat technique ) Frais généraux associés aux portefeuilles de contrats 
+
+Performance associée aux activités de placements Frais généraux associés aux activités de placements 
+
+Dotation aux amortissements des écarts d'acquisititon Intérêts minoritaires 
+
+
+65 981 -36 472 
+
+
+Réel 2022 
+
+
+ORSA 2022 
+
+
+Rapport ORSA 2022 
+
+
+ORSA 2022 
+
+Les principales opérations internes au Groupe CAMCA sont des opérations de cession en réassurance entre , d'une part CAMCA Mutuelle et CAMCA Réassurance ( primes cédées de 31 M € ) et , d'autre part , entre CAMCA Assurance et CAMCA Réassurance ( primes cédées de 48 M € ) . Ces opérations sont éliminées au niveau des états financiers consolidés du Groupe CAMCA . 
+
+2.5 . Performance associée aux portefeuilles de contrats 
+
+Le résultat des opérations d'assurance ( résultat technique , hors frais généraux et produits financiers ) de CAMCA s'établit à près de 32 M € contre 66 M  en 2021 et 44 M € budgété ( selon rapport ORSA 2022 ) . 
+
+
+==================================================
+
+Page 10
+
+Résultat technique ( en K € ) 
+
+
+Primes acquises 
+
+
+Variation des autres provisions techniques 
+
+
+Résultat technique 
+
+
+Primes acquises ( K € ) 
+
+
+Protection du revenu 
+
+Le chiffre d'affaires ( primes acquises ) s'établit à 722 M  , en progression de 46 M  ( soit + 7 % ) par rapport  2021 et de 14 M € ( soit + 2 % ) par rapport au budget .  se décompose par ligne d'activité comme suit : 
+
+
+Auto mobile 
+
+Incendie et Respon dommages sabilité aux biens civile 
+
+
+676 306 -167 864 -391 075 -20 807 -30 579 
+
+
+721 816 -208 643 -416 142 -26 143 -39 011 
+
+
+Crédit et caution - pécuniaires 
+
+
+ORSA 2022 
+
+
+ORSA 2022 
+
+
+686 362 -268 462 -326 346 
+
+
+707 373 -256 824 
+
+La progression globale du chiffre d'affaires résulte essentiellement de l'activité Caution Habitat exercée par CAMCA Assurance ( +24 M € soit + 6 % avec une activité d'octroi de prêts à 'habitat par les Caisses régionales  record  , couplée à la progression du taux d'adossement de la Caution , passé de 48 % en 2021 à 53 % en 2022  le taux de prime de la Caution , quant à lui , demeure stable à 1,1 % du montant des prêts assurés ; l'encours de prêts cautionnés évolue de 151 milliards € à 167 milliards € . 
+
+Les produits parabancaires ( assurance des comptes et moyens de paiement ) sont classés en  Incendie et dommages aux biens  pour les produits de type  SécuriCOMPTE  ( perte et vol des moyens de paiement ) , en  Protection du revenu  pour les produits de type  SécuriDECOUVERT  ( capital en cas de décès accidentel ) et en  Pertes pécuniaires diverses  pour les produits de type  SécuriEB  ( garantie des achats en ligne ) , 
+
+Les assurances de cartes ( pertes de bagages , annulation de voyage , accidents de ski , etc. ) sont classées principalement en  Pertes pécuniaires diverses  , 
+
+Les assurances des risques opérationnels des Caisses Régionales sont classées dans les lignes d'activité suivantes :  Automobile , Incendie et dommages aux biens , Responsabilité civile , Crédit et cautionnement  . Le produit Globale de banque est réparti entre  Incendie et dommages aux biens  ( vol , attaques des distributeurs , etc. ) et  Pertes pécuniaires diverses  ( détournement , escroquerie , etc. ) , 
+
+
+==================================================
+
+Page 11
+ Outre l'activité Caution Habitat , la progression du chiffre d'affaires entre 2021 et 2022 provient de la poursuite du développement de l'ensemble des activités notamment des risques opérationnels du parabancaire et des assurances liées aux cartes . 
+
+ L'activité est globalement supérieure au budget sur la quasi - totalité des activités notamment la caution habitat et les risques opérationnels . 
+
+La charge de sinistres s'établit à environ 209 M  contre 168 M € en 2021 , avec une sinistralité globale orientée à la hausse ( 24 % ) de manière différenciée selon les branches d'activité . Le ratio S / P s'établit à 29 % contre 25 % en 2021. La charge de sinistres s'établit comme suit : 
+
+
+Charge des sinistres ( K € ) 
+
+
+Protection du revenu 
+
+
+Auto mobile 
+
+Incendie et Respon dommages sabilité aux biens civile 
+
+
+Crédit et Pertes caution- pécuniaires 
+
+Les Risques opérationnels connaissent une sinistralité plus favorable qu'en 2021 . 
+
+La hausse de la charge de sinistres brute de la branche Caution Habitat résulte de la constitution de provisions pour sinistres non encore manifestés sur les prêts de la génération 2022 et le rythme moins soutenu de dégagement de boni sur les générations anciennes par rapport à 2021 ; 
+
+La charge des branches cartes et parabancaire connaît une hausse en 2022 s'expliquant , d'une part , par une survenance 2022 en hausse significative ( par rapport à une année 2021 marquée par la crise sanitaire Covid - 19 et une faible fréquence de sinistres « voyages » liée au confinement et aux restrictions des déplacements et des voyages ) avec une augmentation du nombre de dossiers ouverts de 37 % , et d'autre part , par de moindres dégagements de boni sur le parabancaire  
+
+ L'accumulation d'événements climatiques exceptionnels ( notamment grêle ) survenus en mai et juin 2022 a donné lieu à un provisionnement de 5,4 M € sur les acceptations en réassurance ; 
+
+Le total des commissions et des participations bénéficiaires atteint 416 M € pour 2022. Les commissions et participations bénéficiaires versées aux Caisses Régionales au titre des produits parabancaires s'élèvent  161 M € , en hausse de 4 M  par rapport à 2021 corrélativement à la hausse de cotisations enregistrée en 2021. Les commissions versées aux Caisses Régionales au titre de la Caution Habitat s'élèvent à 102 M  , en hausse de 6 M € par rapport à 2021 du fait de la progression de cette activité . Les autres commissions concernent essentiellement les assurances des cartes et des biens financés en crédit - bail . 
+
+Le résultat des cessions en réassurance s'établit à 26 M € en faveur des réassureurs contre 21 M € en 2021 , une variation liée à la hausse de l'activité du Groupe CAMCA et à l'absence de cessions de sinistres significatives en 2022 . 
+
+
+==================================================
+
+Page 12
+Au final , les variations du résultat technique net de cessions en réassurance par ligne d'activité entre 2021 et 2022 sont les suivantes : 
+
+
+Résultat technique ( K € ) 
+
+
+Titres de participation Obligations d'Etat 
+
+
+Autres obligations 
+
+
+Autres placements 
+
+
+Protection du revenu 
+
+
+Auto mobile 
+
+
+Incendie et dommages aux biens 
+
+Encours des placements ( valeur nette comptable , en K € ) 
+
+
+Respon sabilité 
+
+
+Crédit et caution- pécuniaires 
+
+
+1 085 270 1 473 358 77 531 631 145 35 151 
+
+2.6 . Performance associée aux activités de placements 
+
+Le portefeuille de placements est composé principalement d'obligations . A part les titres de participations ( toutes éliminées en consolidation , sauf la participation de 2 M  dans Crédit Agricole Grands Crus ) , il nest détenu qu'un portefeuille non significatif ( 67 M € en prix de revient ) . Enfin , le Groupe CAMCA compte un portefeuille immobilier constitué principalement d'un immeuble haussmannien situé dans le quartier central des affaires parisien , de l'ancien siège des entités luxembourgeoises et de parts dans des SC et SCPI .  n'est effectué aucun investissement dans des titrisations ou des produits dérivés . 
+
+
+1 600 865 122 188 629 682 66 657 
+
+Les éléments chiffrés relatifs à la performance des placements sont détaillés ci - dessous . 
+
+Le résultat des placements atteint environ 39 M  ( contre 86 M  en 2021 ) soit une diminution de 47 M € ous l'effet de plus - values réalisées en 2021 non récurrentes ( 54 M  ) , et une baisse du taux de rendement comptable du portefeuille obligataire à 1,2 % contre 1,4 % en 2021 . 
+
+Fin 2022 , le stock de moins - values latentes s'élève à 359 M  contre des plus - values latentes de 226 M  au 31 décembre 2022 sous l'effet de l'évolution des taux obligataires sur la période ( soit une baisse de 585 M  ) . 
+
+
+==================================================
+
+Page 13
+
+Revenus obligataires 
+
+
+Plus et moins - values de cession obligataires 
+
+
+Autres revenus et charges des placements 
+
+
+Résultat des placements 
+
+
+2.7 . Performance associée à d'autres activités 
+
+
+31 426 53 733 
+
+
+1 283 -222 
+
+
+2.8 . Autres informations 
+
+Nous n'avons pas d'autre information importante à ajouter . 
+
+
+-232 916 
+
+
+ORSA 2022 
+
+
+ORSA 2022 
+
+
+ 32 949 
+
+
+600  
+
+Les frais généraux s'établissent à 38 M  nets de refacturation . Ils connaissent une baisse de 1,8 M € sur 2022 du fait de l'arrêt du projet informatique en 2021 , ayant entraîné une hausse des charges informatiques sur l'exercice 2021 de 6 M  , en lieu et place d'une activation en immobilisations incorporelles . Retraité de cette variation , le reste des frais généraux a connu une augmentation liée au développement de la structure ( hausse des effectifs et de la surface de bureaux ) . Le ratio frais généraux ( hors impôts et taxes ) ramené aux cotisations acquises reste néanmoins stable par rapport à 2021 à 6 % . 
+
+
+ 31 635  600  
+
+Aprs un résultat exceptionnel de +8 M € s'expliquant principalement par des indemnités diverses de 4,3 M  et des reprises de provisions pour risques et charges pour 3,5 M € , le résultat avant impôts et intérêts minoritaires s'établit à 42 M  ( 82 M € en 2021 ) . 
+
+Après déduction de la part des intérêts minoritaires , le résultat net après impôts s'établit à 17 M € en baisse de 21 M  par rapport à 2021 ( 38 M € ) . 
+
+Aucun profit ou perte n'a été comptabilisé directement en fonds propres . 
+
+
+==================================================
+
+Page 14
+
+3. SYSTEME DE GOUVERNANCE 
+
+3.1 . Informations générales sur le système de gouvernance 
+
+La gouvernance peut se résumer par le graphique suivant : 
+
+
+VALIDATION 
+
+
+COORDINATION 
+
+Présidence  Président de Caisse régionale de Crédit Agricole Administrateurs : 10 DG / Présidents de Caisses régionales du Crédit Agricole  
+
+
+  
+
+
+  
+
+Présidence : Administrateur CAMCA , Président de Caisse régionale Membres : Administrateurs CAMCA , DG ou Président de Caisse régionale 
+
+Composition : DG  CODIR + Fonctions cls  Personnes cls en fonction du thme trait + reprsentants Fonctions cls Groupe Crédit Agricole : Inspections Générale , Direction de la Conformité Groupe , Direction des Risques Groupe 
+
+Directeur Général de CAMCA , premier dirigeant effectif Directeur Gnéral Adjoint de CAMCA , second dirigeant effectif 
+
+3.1.1.rganisation générale du système de gouvernance 
+
+Le Groupe CAMCA a mis en place un système de gouvernance adapté à son activité et à sa structure .  contribue à la réalisation de ses objectifs stratégiques et garantit une gestion saine et prudente de ses risques . 
+
+La gouvernance du Groupe CAMCA implique plusieurs acteurs : 
+
+ Les Administrateurs composant le Conseil d'Administration  ils représentent les sociétaires et actionnaires et valident les objectifs stratégiques en termes de risques et de rentabilité , 
+
+La Direction générale : elle définit les politiques de risques pour atteindre les objectifs stratégiques valids par le Conseil d'Administration . 
+
+Ce système de gouvernance est organisé en trois niveaux . 
+
+
+Niveau 3  organes dadministration 
+
+Le Conseil d'Administration est chargé de superviser la gestion des risques et les rôles et responsabilités qui en découlent . 
+
+Le Conseil d'Administration se compose actuellement de 12 administrateurs occupant des fonctions de Directeur général ou de Président au sein des Caisses Régionales , un administrateur représentant les salariés , et le Directeur des Relations avec les Caisses Régionales de Crédit Agricole SA ( CAsa ) , ainsi quun représentant de la Fédération Nationale du Crédit Agricole ( FNCA ) en qualité dinvité permanent . 
+
+
+==================================================
+
+Page 15
+Le Conseil d'Administration a constitué un bureau composé du Président du Conseil d'Administration , du Vice - Président et de 2 Directeurs Généraux de Caisses Régionales dont le rôle est d'orienter les travaux du Conseil d'Administration . 
+
+Les fonctions du Président du Conseil d'Administration sont dissociées de celles exercées par le Directeur général non administrateur qui , notamment , représente la société dans ses rapports avec les iers . Ce principe est appliqué dans toutes les entités . 
+
+Le Conseil d'Administration de CAMCA est régulièrement informé de la marche de la société , de sa situation financière et du niveau de maîtrise de ses risques . l valide , chaque année , les politiques risques applicables aux activités . 
+
+Le Conseil d'Administration se réunit à minima à 4 reprises pour CAMCA . Le bureau de CAMCA se réunit également chaque trimestre . Les règles de fonctionnement des conseils sont décrites dans les statuts . 
+
+Niveau 2 : le Comité d'Audit et des Risques Groupe CAMCA 
+
+ est institué transversalement pour l'ensemble des entités du Groupe CAMCA et il comprend au moins trois personnes désignées par le Conseil d'Administration parmi ses membres . Les membres du Comité d'Audit et des Risques Groupe CAMCA occupent des fonctions de Président ou Directeur général au sein des Caisses Régionales , banques régionales de plein exercice . Par conséquent , ils disposent de toutes les compétences nécessaires en matière comptable , financière et de gestion des risques . Ce Comité d'Audit et des Risques Groupe CAMCA se réunit quatre fois par an ou plus en cas de besoin . Le Comité d'Audit et des Risques Groupe CAMCA invite les personnes de son choix ( en interne ou en externe ) pour mener à bien ses travaux . 
+
+Le comité rend compte de ses travaux lors du Conseil d'Administration . Il est chargé de la mise en uvre opérationnelle des politiques risques validés par le Conseil d'Administration . 
+
+
+Niveau 1 : comités métiers et opérationnels 
+
+Le comité est constitué du Directeur Général , du Directeur Général Adjoint , du Directeur des Assurances de Biens et Responsabilités ( ABR ) , du Directeur Financier , du Directeur des Systèmes d'information , du Directeur de CAMCA Courtage , de 'Administrateur délégué ( Dirigeant Agréé ) des entités Luxembourgeoises , du Responsable du Département Solvabilité et Actuariat et du Secrétaire Général , Responsable des Fonctions Gestion des Risques et Vérification de la Conformité . 
+
+ se réunit en moyenne une fois par semaine afin de mettre en uvre la stratégie de la compagnie , suivre les performances et les résultats et ajuster , si nécessaire , les politiques Risques . 
+
+
+Comité des Risques Groupe CAMCA 
+
+Le comité est constitué du Directeur général , des Fonctions clés du Groupe CAMCA et des représentants des fonctions de contrôle du Groupe CA ( Direction de la Conformité , Inspection Générale et Direction des Risques du Groupe CA ) . I peut être élargi à toute personne clé en fonction des thèmes traités . Afin de s'assurer de la correcte coordination et transversalité entre les métiers et entités , les membres du Comité de Direction sont également invités afin de challenger les hypothèses de suivi des risques . Il se réunit trimestriellement . 
+
+
+==================================================
+
+Page 16
+Le comité est constitué du Directeur Général , du Directeur financier de CAMCA , du Directeur délégué des entités luxembourgeoises , du Secrétaire Général Responsable des Fonctions Gestion des Risques et Vérification de la Conformité , du chargé de relations avec les Caisses Régionales et les entités CAMCA chez Amundi Paris et du gérant ( obligataire ) chez Amundi Paris ( société de gestion du Groupe Crédit Agricole ) . 
+
+Le comité est chargé de suivre la performance et le comportement du portefeuille investi et aussi d'évaluer , en fonction des conditions de marché , des opportunités d'investissement pour le trimestre à venir . 
+
+Le Comité financier se réunit a minima 3 fois par an et rapporte sur l'application de la stratégie arrêtée par le Conseil d'Administration . 
+
+L'attribution des Fonctions clés est effectuée par le Directeur Général sur la base des exigences de compétence , dhonorabilité et de disponibilité détaillées dans la Section 3.3 . 
+
+Les Fonctions de Gestion des Risques et Vérification de la Conformité sont effectuées par le Secrétaire Gnéral du Groupe CAMCA . La Fonction Actuarielle est assurée par le Responsable du Département Solvabilité et Actuariat du Groupe CAMCA . La Fonction Audit Interne est exercée par le Responsable de 'Audit Interne . 
+
+
+La Fonction Gestion des Risques 
+
+Les principes d'organisation et de fonctionnement du dispositif de contrôle des risques de CAMCA ont été établis à partir des normes internes du Groupe Crédit Agricole . Ils ont été adaptés et complétés afin d'y intégrer les risques inhérents au métier de l'assurance et les exigences découlant de la directive Solvabilité 2 . 
+
+
+Rles et responsabilités de la fonction 
+
+La Fonction Gestion des Risques du Groupe CAMCA vise à répondre aux enjeux suivants  disposer d'une stratégie des risques en lien avec le cadre d'appétit pour le risque validé par le Conseil d'Administration , mettre en place et animer un système de maîtrise des risques ( détection , mesure , dispositif d'alerte , contrôle , déclaration des risques et suivi des plans dactions ) , répondre aux besoins de pilotage et de communication , rendre compte à la gouvernance de l'exposition aux risques , de son évolution et des éléments de maîtrise . 
+
+Organisation de la fonction , rattachement et lien avec les autres directions et entités 
+
+Le Secrétaire Général incarne la Fonction de Gestion des Risques de CAMCA au sens de l'article n  44 de la directive Solvabilité 2.  est rattaché hiérarchiquement au Directeur général . 
+
+ contribue au système de gestion des risques de l'entité pour la qualité de la gouvernance et des processus de gestion et la qualité du contrôle des risques . l élabore et met en uvre un système de contrôle interne adapté . Dans le cadre de ses missions , la Fonction de Gestion des Risques de CAMCA s'appuie sur la contribution des autres Fonctions clés , notamment la Fonction Actuarielle sur les risques techniques , et l'analyse de l'ORSA . A cet égard , le Comité des Risques Groupe de CAMCA est l'instance de coordination des quatre Fonctions clés . 
+
+
+==================================================
+
+Page 17
+
+Rôles et responsabilités de la fonction 
+
+Le responsable de la Fonction clé Actuarielle au sens de l'article n  48 de la directive Solvabilité 2  
+
+contribue au système de gestion des risques de lentité pour la quantification des risques . 
+
+Les principales missions de la Fonction Actuarielle sont : 
+
+Emettre un avis sur le calcul des Provisions Techniques  
+
+
+ Coordonner le calcul des provisions techniques  
+
+Vérifier le caractère approprié des méthodes et hypothèses appliquées au portefeuille de CAMCA Mutuelle pour le calcul des provisions techniques ; 
+
+Vérifier la qualité des données disponibles utilisées ; 
+
+
+ 
+
+Comparer les Best Estimate aux données tirées de l'expérience ; 
+
+ Analyser la fiabilité et l'adéquation du calcul et les sources de données . 
+
+ La suffisance des primes à acquérir pour couvrir les sinistres et dépenses à venir , compte tenu notamment des risques sous - jacents ( y compris les risques de souscription ) ; 
+
+ Les effets de l'inflation , du risque juridique , de l'évolution de la composition du portefeuille de 'entreprise  
+
+ La tendance progressive d'un portefeuille de contrats d'assurance à attirer ou à retenir des assurés présentant un profil de risque comparativement plus élevé ( anti - sélection ) . 
+
+Emettre un avis sur les dispositions prises en matière de réassurance : 
+
+ Adéquation avec le profil de risque et politique de souscription de l'entreprise  
+
+
+ Qualité des réassureurs  
+
+ Couverture qu'elle peut attendre dans le cadre de scénarios de crise  
+
+Contribuer à la mise en uvre effective du système de gestion des risques , en particulier pour ce qui concerne la modélisation des risques sous - tendant le calcul des exigences de capital . 
+
+Les principes d'organisation de la Fonction Vérification de la Conformité du Groupe CAMCA s'inscrivent dans ceux de la ligne métier Conformité du Groupe Crédit Agricole S.A. et les exigences découlant de Solvabilité 2 . 
+
+
+Rles et responsabilités de la fonction 
+
+La Fonction Vrification de la Conformité de CAMCA vise à répondre aux enjeux suivants : 
+
+ Prémunir l'entité contre les risques de non - conformité aux lois et aux règlements applicables à ses activités incluant également les domaines relevant de la conformité tels que définis par la ligne métier du groupe Crédit Agricole S.A. , 
+
+
+==================================================
+
+Page 18
+Organisation de la Fonction Vérification de la Conformité 
+
+La Fonction clé Vérification de la Conformité est assurée par le Secrétaire Général . 
+
+Pour exercer sa vigilance sur le respect de la réglementation , la Fonction Vérification de la Conformité est informé par les responsables opérationnels des projets et situations nécessitant de mettre en uvre des dispositifs pour pouvoir respecter la réglementation . 
+
+Déployer des dispositifs concourant à la maîtrise des risques de non - conformité et assurer la communication associée à des missions auprès de la gouvernance . 
+
+Son périmètre est celui de l'ensemble du Groupe CAMCA , en s'appuyant sur les Fonctions clés et dispositifs de contrôle de chaque entité ainsi que sur les équipes en charge de la Vérification de la Conformité du Groupe CAMCA . 
+
+La Fonction Audit Interne est placée sous la responsabilité du Responsable d'Audit Interne de CAMCA . Elle intervient sur l'ensemble du périmètre de contrôle interne ( qui comprend CAMCA Mutuelle , CAMCA Courtage , CAMCA Assurance , CAMCA Réassurance ainsi que les externalisations d'activités ou fonctions importantes ou critiques du Groupe CAMCA ) . Dans le cadre de la réalisation de ses missions , la Fonction Audit Interne s'appuie sur les Fonctions clés et dispositifs de contrôle de chaque entité . 
+
+
+Rles et responsabilités de la fonction 
+
+Les missions de l'Audit interne ont pour objet de s'assurer : 
+
+ De la correcte mesure et maîtrise des risques liés à l'exercice des activités de CAMCA , 
+
+De l'adéquation et de l'efficacité des dispositifs de gestion des risques et de contrôle , 
+
+ D'évaluer la qualité et l'efficacité du fonctionnement général de l'organisation . 
+
+Elles permettent de fournir une opinion professionnelle et indépendante sur le fonctionnement et le contrôle interne des entités du Groupe CAMCA : 
+
+Au Directeur Général et aux Directeurs de chaque filiale  
+
+ Aux Conseils d'Administration , aux dirigeants et organes délibérants des entités auditées , 
+
+  'Inspection Générale du Groupe Crédit Agricole SA . 
+
+
+Organisation de la Fonction Audit interne 
+
+La responsabilité de la Fonction Clé Audit interne est assurée par le Responsable de l'Audit interne de CAMCA . 
+
+L'indépendance et l'efficacité de la Fonction d'Audit interne sont garanties par : 
+
+L'absence d'implication dans la gestion opérationnelle de l'entreprise du responsable d'Audit interne , renforcée le rattachement hiérarchique à la Direction Générale ainsi que par un rattachement fonctionnel à la Ligne Métier Audit Inspection du Groupe , 
+
+
+==================================================
+
+Page 19
+La mise à disposition de moyens nécessaires à la réalisation de la mission  le responsable de 'Audit interne doit répondre aux exigences de compétences et d'honorabilité (   Fit and Proper  ) de la Directive Solvabilité 2 . 
+
+Afin de ouvrir l'intégralité de son périmètre de contrôle interne , la Fonction Audit Interne de CAMCA a opté pour un cycle d'audit de quatre ans . Le plan d'audit est élaboré à partir d'une cartographie des risques qui comprend l'ensemble des activités de CAMCA Mutuelle et son système de gouvernance .  prend également en compte l'évolution attendue des activités . Le plan d'audit est proportionné à la nature , à l'ampleur et à la complexité des activités de CAMCA Mutuelle . La mise en œuvre du plan d'audit pluriannuel vise une revue complète des activités sur une durée maximale de 4 ans ( la fréquence de d'audit pouvant être plus courte pour certains risques ) . Elaboré en début de cycle pluri - annuel , le plan d'audit peut faire lobjet dajustements documentés et validés en Comité d'Audit et des Risques Groupe CAMCA et approuvés par le Conseil d'Administration , en cours d'année ou durant les années suivantes . Des missions spéciales peuvent également être conduites afin de répondre à une demande ponctuelle de la Direction Générale de CAMCA ou du Régulateur . La mise en uvre du plan d'audit ( conclusions des missions , recommandations émises , état d'avancement des plans d'actions correctifs ) fait l'objet de reportings aux instances de gouvernance du Groupe CAMCA a minima deux fois par an ( Comité des Risques Groupe CAMCA , Comité d'Audit et des Risques Groupe CAMCA , Conseils d'Administration des entités juridiques ) . 
+
+Pour chacune des recommandations formulées à l'issue des missions d'audit , un dispositif de suivi est mis en place afin de s'assurer de l'avancement des actions correctrices programmées mises en uvre selon un calendrier défini , en fonction de leur niveau de priorité . 
+
+Les activités de la Fonction Audit Interne sont exercées conformément à la politique d'Audit Interne de CAMCA  Celle - ci est révisée chaque année et présentée pour approbation au Conseil d'Administration de CAMCA . Les principes de la politique d'Audit Interne CAMCA sont en cohérence avec les standards établis par la Ligne Métier Audit Inspection du Groupe Crédit Agricole . 
+
+3.1.3.Changements importants du système de gouvernance survenus au cours de la période de référence 
+
+A compter de 2018 , des fonctions de contrôle du groupe CA ( Direction de la Conformité , Inspection Générale et Direction des Risques du Groupe CA ) sont intégrées au Comité des Risques Groupe . Plusieurs changements au sein de la gouvernance ont été opérés : 
+
+Ratification / renouvellement de mandats au cours de l'exercice 2022 : 
+
+Nomination de Monsieur Laurent CAZELLES en qualité d'Administrateur , en remplacement de Monsieur Christian VALETTE , le 08/06/2022 , 
+
+Nomination de Monsieur Guilhem NOUVEL - ALAUX en qualité d'Administrateur , en remplacement de Madame Catherine GALVEZ , le 08/06/2022 . 
+
+Monsieur Jean - Jacques BRUNON a fait valoir ses droits à la retraite à compter de février 2022 . 
+
+
+==================================================
+
+Page 20
+3.2 . Informations relatives à la politique de rémunération 3.2.1.Gouvernance de la politique de rémunération du personnel 
+
+La politique de rémunération de CAMCA est proposée par le Directeur Général Adjoint , dans le cadre de ses responsabilités de Directeur des Ressources Humaines ( DRH ) , au Directeur Général , en cohérence avec les principes établis par le Groupe Crédit Agricole . 
+
+Le niveau de rémunération de chaque salarié à l'embauche est déterminé conjointement par le management et le responsable des ressources humaines en fonction des salaires du marché pour le poste occupé , des grilles de rémunération interne , de lexpérience individuelle et des compétences ( y compris les diplômes et formations ) . La complexité de lactivité confiée ainsi que la gestion des risques liés sont également pris en compte dans le profil , notamment pour les Fonctions et personnes clés . 
+
+Une revue formelle annuelle des rémunérations et des compétences est conduite par le Comité de Direction pour chaque salarié , ce dispositif tient lieu aussi de comité de gestion des carrières et de rémunération . Les salaires peuvent être ajustés en fonction des conditions locales du marché , de augmentation individuelle des compétences et / ou de l'élargissement du périmètre de responsabilité . 
+
+La rémunération des membres du Comité de Direction relevant de la convention collective des sociétés d'assurances est validée par le Directeur Général Adjoint et le Directeur Général qui s'assurent qu'elle est conforme à notre politique risque . Quant à la rémunération des Cadres de Direction relevant de la Convention Collective Nationale des Cadres de Direction de Caisse Régionale du Crédit Agricole ( CCN CD CRCA ) , elle fait lobjet dune information pour les Directeurs et d'un avis pour le Directeur Général auprès de la Commission Nationale de Rémunération des Cadres de Direction . 
+
+3.2.2 . Principales caractéristiques de la politique de rémunération 
+
+a rémunération des collaborateurs s'appuie majoritairement sur des éléments fixes ( politique de rémunération standard ) . 
+
+Chaque année en fonction des contraintes internes , des éléments de marché externes et des accords signés par la FNCA , un budget alloué aux augmentations générales et individuelles est négocié avec les partenaires sociaux , à défaut la Direction met en place des mesures unilatérales . 
+
+Les résultats de ces négociations sont ensuite présentés à l'ensemble du Comité de Direction avant information des collaborateurs . 
+
+La politique de rémunération est intégrée dans un dispositif global d'appréciation des collaborateurs . 
+
+Un dispositif de rémunération variable ( intéressement ) vient compléter le dispositif de rémunération fixe des collaborateurs de CAMCA : cette rémunération variable est définie contractuellement avec un montant plafond . Ces primes variables sont sans lien avec le développement du chiffre d'affaires . 
+
+Pour les Cadres de Direction relevant de la CCN CD CRCA , la rémunération variable est encadrée par rapport à cette dernière . 
+
+3.2.3 . Informations relatives aux rémunérations des membres de l'organe exécutif et des personnes dont les activités professionnelles ont une incidence significative sur le profil de risque de l'entreprise 
+
+
+==================================================
+
+Page 21
+
+Rémunération du Conseil d'Administration 
+
+Les administrateurs de CAMCA ne peroivent aucune rémunération . 
+
+
+ Rémunération du Directeur Général 
+
+Les évolutions du salaire fixe et la fixation du variable annuel sont soumises par le Directeur Général Adjoint au président du Conseil d'Administration . Ce dernier les propose aux administrateurs membres du Bureau dudit Conseil d'Administration et l'information est remontée pour avis à la Commission Nationale de Rémunération des Cadres de Direction . 
+
+Rémunération des Fonctions clés ( hors président du Comité dAudit et des Risques Groupe CAMCA qui n'est pas rémunéré ) 
+
+La rémunération des Fonctions clés est incluse dans la politique de rémunération standard et à ce titre ne comporte pas de part variable . 
+
+Rémunération des membres du Comité de Direction , personnes clés 
+
+Ces rémunérations comportent des variables sans lien exclusif avec le développement du chiffre d'affaires et à ce titre ne donne pas lieu à une information spécifique . 
+
+3.2.4 . Transparence et contrôle de la politique de rémunération 
+
+L'objectif de maîtrise des risques est suivi grâce à 3 dispositifs  
+
+Le Secrétaire Général a accès à la revue annuelle des rémunérations et des compétences .  est donc en mesure de s'assurer du respect de la politique de rémunération de l'entreprise et de la maîtrise des risques relatives à ce sujet , 
+
+Le service des Ressources Humaines s'assure au quotidien du respect des normes relatives à la gestion des ressources humaines , veille à la correcte information des instances représentatives du personnel et autres partenaires sociaux , alerte sa Direction et le responsable des Risques et Contrôles en cas de dysfonctionnement , 
+
+ Le plan de contrôle local qui mesure les risques est opérationnel . 
+
+
+3.3 . Exigences de Compétence et d'Honorabilité 
+
+3.3.1.Présentation du système prouvant la compétence et lhonorabilité 
+
+La politique  compétence et honorabilité  est commune à l'ensemble des entités du Groupe CAMCA et vise à s'assurer que les personnes qui  dirigent effectivement l'entreprise ou qui occupent d'autres fonctions  satisfont à tout moment aux exigences de compétence , dhonorabilité et de disponibilité fixées par lentreprise , et ce conformément aux obligations définies à l'article 42 de la « Directive Solvabilité 2    
+
+En interne , les acteurs concernés sont les administrateurs , le dirigeant effectif et les personnes occupant les Fonctions clés . En externe , ces exigences d'honorabilité et de compétence s'appliquent aux responsables et aux opérationnels employés par les sous - traitants pour accomplir les missions sous traitées . 
+
+
+==================================================
+
+Page 22
+
+3.3.2.Conformité aux exigences d'honorabilité 
+
+L'appréciation de l'honorabilité des administrateurs , des dirigeants effectifs et des responsables des Fonctions clés nécessite de vérifier que les personnes concernées n'ont pas fait 'objet de condamnations , de sanctions judiciaires ou pénales pouvant remettre en cause leur honorabilité ( vérification du casier judiciaire ) . 
+
+À ce titre , une déclaration sur l'honneur est demandée à l'ensemble de la population concernée . Les règles à respecter en matière d'honorabilité sont précisées aux items  à V de l'article L. 322-34 du Code des assurances . 
+
+L'évaluation et le suivi des respects des exigences d'honorabilité sont réalisés à lentrée du poste et en suivi permanent . 
+
+
+3.3.3.Conformité aux exigences de compétence 
+
+Le critère  compétence et expérience  sapprécie individuellement pour les personnes qui assurent la direction effective de l'entreprise ou qui occupent des Fonctions clés et collectivement pour les membres du Conseil d'Administration . 
+
+
+Appréciation individuelle 
+
+Afin d'être en mesure d'agir conformément à leurs responsabilités , toutes les personnes qui dirigent effectivement l'entreprise , ou qui occupent des Fonctions clés , satisfont à une exigence de qualifications , connaissances et expériences professionnelles , propres à permettre une gestion saine et prudente de CAMCA . 
+
+Appréciation collective  les membres du Conseil d'Administration 
+
+Les membres du Conseil d'Administration de CAMCA disposent de la compétence nécessaire pour exercer les missions qui sont les leurs . La compétence de ces membres est collective . Son appréciation est basée sur un questionnaire individuel , en cohérence avec les exigences légales et réglementaires d'une part ( code des assurances : Articles L 322-2 V e R 322-11-6 ) et avec les lignes directrices édictées par le Groupe Crédit Agricole d'autre part ( Politique « Compétence et honorabilité des entités assurances du groupe Crédit Agricole S.A. » ) . 
+
+Les résultats de l'appréciation collective sont communiqués au Conseil d'Administration et servent de référence pour l'établissement du plan de formation des administrateurs . 
+
+CAMCA s'assure de l'existence au sein de son Conseil d'Administration d'une diversité appropriée des profils ( qualifications , connaissances et expériences ) , garantissant que la société est contrôlée de façon professionnelle . 
+
+Une formation régulière des administrateurs a été mise en place sur le pilotage des risques , les nouveautés en matière réglementaire , les risques émergents , etc. 
+
+3.4 . Principales caractéristiques des transactions significatives avec les parties liées 
+
+Les seules transactions significatives avec les parties liées sont les cessions e réassurance effectuées auprès de la société CAMCA Réassurance , qui fait partie du pool de réassureurs de CAMCA Mutuelle et 
+
+
+==================================================
+
+Page 23
+de CAMCA Assurance . Le programme de réassurance de CAMCA Mutuelle n'a pas connu d'évolution significative entre 2021 et 2022 . 
+
+
+3.5 . Système de gestion des risques dont ORSA 
+
+
+3.5.1.Dispositif de gestion des risques 
+
+Pour mener à bien ses orientations stratégiques , en maîtrisant et encadrant de façon appropriée ses risques , le Groupe CAMCA se fixe un cadre d'appétit pour le risque . Celui - ci s'articule autour de trois dimensions  solvabilité , résultat et valeur , lesquelles se déclinent en indicateurs clés par nature de risques , qui constituent le socle de la stratégie risques . 
+
+Afin de sécuriser la réalisation de ses objectifs , le Groupe CAMCA formalise dans sa stratégie risques le dispositif d'encadrement et de surveillance des différents risques auxquels l'expose la mise en uvre de sa stratégie métiers ( risques techniques assurance et réassurance risques financiers et risques opérationnels ) , et notamment l'ensemble des limites et seuils d'alerte afférents . La stratégie risques est revue au moins annuellement et est soumise pour approbation au Directeur Général . Elle est validée , ainsi que le cadre d'appétit pour le risque , par le Conseil d'Administration de l'entité . Tout dépassement d'une limite ou franchissement d'un seuil d'alerte , ainsi que les mesures correctives associées sont notifiés  la Direction Générale de CAMCA , voire à la Direction des Risques du Groupe Crédit Agricole S.A. , sagissant de limites de leur ressort . Ce dispositif de gestion des risques est complété par le dispositif d'évaluation interne des risques et de la solvabilité ( ORSA ) comme présenté ci - dessous . 
+
+La cartographie des risques constitue l'outil permettant d'identifier et d'évaluer les risques auxquels chaque entité du Groupe CAMCA est exposée . Elle est actualisée une fois par an et intègre les résultats des contrôles permanents , la collecte des incidents et des pertes opérationnelles , les constats des missions d'audit . 
+
+Au - delà de l'identification des principales expositions aux risques , le Secrétaire Général , Responsable de la Fonction Gestion des Risques exerce , en lien avec les autres Directions métiers et les service juridique , une veille permanente sur les risques relatifs aux activités d'assurance . Cette veille s'alimente de nombreuses sources ( études internes et externes , provenant de cabinets de conseil ou publiées par EOPA , 'ACPR ou encore la Fédération Française des Assurances ... ) . 
+
+
+3.5.2.RSA 
+
+Le processus de lOwn Risk and Solvency Assessment ( ORSA ) est mené de manière à produire les rapports solos et groupe à l'ACPR . 
+
+Le dispositif d'évaluation interne des risques et de la solvabilité ( ORSA ) est placé sous la responsabilité de la Fonction Gestion des Risques avec une contribution des membres du Comité de Direction . 
+
+La démarche ORSA est intégrée au fonctionnement de l'entreprise et s'inscrit dans les processus décisionnels en place . 
+
+e processus se décline de manière cohérente dans les différentes entités qui composent le Groupe CAMCA . Cette cohérence est assurée par lintervention du Comité des Risques Groupe CAMCA aux étapes clés du processus , ainsi que par l'intervention du Comité d'Audit et des Risques Groupe CAMCA . 
+
+L'horizon sur lequel s'appuie l'ORSA est un horizon à 3 ans qui correspond à la durée moyenne des engagements de l'entreprise , et à l'horizon de planification des activités . 
+
+
+==================================================
+
+Page 24
+Les résultats produits lors de l'établissement du business plan sont les résultats et bilans comptables , ainsi que les fonds propres et provisions prudentielles , les besoins de marge de solvabilité . Les calculs de projections sont réalisés sur la base de plusieurs scénarios déterministes ( 'entreprise n'utilise aucune simulation stochastique )  un scénario central et plusieurs scénarios adverses permettant de tester les protections en matière de risque ainsi que la résistance de l'entreprise . 
+
+L'ORSA est réalisé annuellement mais peut être actualisé en cas de changement significatif de 'environnement ou du profil de risques . l est présenté chaque année au Comité d'Audit et des Risques Groupe CAMCA ainsi qu'au Conseil dAdministration . 
+
+Les risques techniques les plus importants sont les risques de la garantie Globale de Banque et de la Responsabilité Civile ( RC ) Professionnelle Courtage compte tenu de la volatilité des sinistres couverts . Ces risques sont atténués par la mise en place de couvertures de réassurance visant à protéger le Groupe CAMCA en cas de survenance de sinistres importants tant en montant qu'en cas de dérapage de la fréquence . 
+
+Les risques financiers majeurs reenus sont le risque de taux et le risque de spread en raison des placements réalisés principalement en instruments de taux . Le risque de concentration est également considéré comme un risque majeur , en raison notamment de l'apport de liquidités au Crédit Agricole qui est la contrepartie la plus représentée dans le portefeuille . 
+
+
+3.6 . Système de Contrôle Interne 
+
+
+3.6.1.Description du système de contrôle interne 
+
+Le dispositif de contrôle interne est défini , au sein du groupe Crédit Agricole , comme l'ensemble des dispositifs visant à la maîtrise des activités et des risques de toute nature et permettant la régularité , la sécurité et l'efficacité des opérations . 
+
+Le Groupe CAMCA s'assure de l'existence d'un dispositif adéquat de contrôle interne dont l'organisation répond aux principes communs suivants : 
+
+
+ 
+
+Couverture exhaustive des activités et des risques et responsabilité des acteurs , la Direction Générale étant directement impliquée dans l'organisation et le fonctionnement du dispositif de contrôle interne , 
+
+Définition claire des tâches , séparation effective des fonctions d'engagement et de contrôle , processus de décision fondés sur des délégations formalisées et à jour , 
+
+Système de contrôle comprenant des contrôles permanents intégrés dans le traitement des opérations ( 1r degré ) ou effectués par des opérationnels n'ayant pas engagé les opérations contrôlées ( 2me degré  1er niveau ) , ou réalisés par des collaborateurs dédiés ( 2ème degré  2me niveau ) , et des contrôles périodiques ( 3ème degré ) réalisés par l'Inspection générale ou l'audit , Information de l'organe délibérant sur la stratégie risques et le suivi de son application ( dont les limites fixées et leur utilisation ) , les résultats du contrôle interne et la mise en œuvre des actions associées , dans une démarche corrective . 
+
+Le contrôle des risques de conformité est intégré à l'ensemble du dispositif de Contrôle Permanent : cartographie des risques , plan de contrôle local et consolidé , rapports d'activité . Ces éléments contribuent à une bonne interaction . Des liens réguliers existent également avec l'audit interne lors de la préparation des missions , et lors de la estitution , les constats et recommandations émis alimentant les plans d'actions et étant utilisés , en tant que de besoin , pour actualiser la cartographie des risques . 
+
+
+==================================================
+
+Page 25
+Enfin , le Comité des Risques Groupe CAMCA constitue l'instance de coordination des Fonctions Gestion des Risques , Vérification de la Conformité , Actuariat et Audit Interne . 
+
+La Fonction Vérification de la Conformité couvre , dans l'ensemble des domaines de la Conformité encadrés au niveau du Groupe Crédit Agricole par le corpus FIDES , ceux qui sont applicables à 'Assurance , et plus spécifiquement dans chacune des entités ceux applicables à ses propres activités . 
+
+
+3.7 . Fonction Audit Interne 
+
+
+3.7.1 . Principe général 
+
+La Fonction Audit Interne est placée sous la responsabilité du Responsable d'Audit Interne du groupe CAMCA . Son périmètre dintervention couvre le périmètre de contrôle interne ( CAMCA Mutuelle , CAMCA Courtage , CAMCA Assurance et CAMCA Réassurance ) et les externalisations des activités ou fonctions importantes ou critiques du Groupe CAMCA . Dans le cadre de la réalisation de ses missions , la Fonction Audit Interne s'appuie sur les Fonctions clés et dispositifs de contrôle de chaque entité . 
+
+
+3.7.2.Missions de la Fonction Audit Interne 
+
+Depuis le 1er juillet 2020 , CAMCA a recruté un Responsable de la Fonction Clé Audit interne pour les quatre entités juridiques du groupe CAMCA ( CAMCA Mutuelle , CAMCA Courtage , CAMCA Assurance et CAMCA Réassurance ) . En cas daudits nécessitant des compétences techniques spécifiques , une externalisation ponctuelle de travaux d'audit peut être réalisée ( N.B . La Fonction Audit Interne de CAMCA conserve l'entière responsabilité du respect des obligations qui lui incombe même lors de la sous - traitance de travaux et / ou missions d'audit interne ) . 
+
+Afin de couvrir l'intégralité de son périmètre de contrôle interne et ses externalisations critiques ou importantes , la Fonction Audit Interne de CAMCA a opté pour un cycle d'audit de quatre ans . Lélaboration du plan daudit annuel repose sur une cartographie des risques auditables tenant compte de la totalité des activités et de l'ensemble du système de gouvernance , ainsi que de l'évolution attendue des activités . Le plan d'audit est proportionné à la nature , à l'ampleur et à la complexité des activités du Groupe CAMCA et est établi selon une approche par les risques formalisée ( découpage et évaluation des risques auditables du périmètre du Groupe CAMCA . La mise en uvre du plan d'audit pluriannuel vise une revue complète des activités sur une durée maximale de 4 ans ( la fréquence de revue pouvant être plus courte selon lévaluation des risques ) . Elaboré en début de cycle pluri - annuel , le plan d'audit peut faire l'objet d'ajustements documentés et validés en Comité d'Audit et des Risques Groupe CAMCA et approuvés par le Conseil d'Administration , en cours d'année ou durant les années suivantes . La mise en œuvre du plan d'audit ( conclusions des missions , recommandations émises , état d'avancement des plans d'actions correctifs ) fait l'objet de reportings aux instances de gouvernance du groupe CAMCA a minima deux fois par an ( Comité des Risques Groupe CAMCA , Comité d'Audit et des Risques Groupe CAMCA , Conseils d'Administration des entités juridiques ) . 
+
+
+3.7.3 . Principe général 
+
+La Fonction Audit Interne est placée sous la responsabilité du Responsable d'Audit Interne de CAMCA . Dans le cadre de la réalisation de ses missions , la fonction Audit Interne sappuie sur les Fonctions clés et dispositifs de contrôle de chaque entité . 
+
+
+==================================================
+
+Page 26
+
+3.7.4.Missions de la Fonction Audit Interne 
+
+La Fonction Audit Interne mène des missions d'audit sur pièces et sur place . Elle intervient sur l'ensemble du périmètre de contrôle interne du Groupe CAMCA ( incluant notamment les entités juridiques CAMCA Mutuelle , CAMCA Courtage , CAMCA Assurance , CAMCA Réassurance ainsi que leurs prestataires de services critiques ou importants ) . Les missions d'audit effectuées correspondent à des missions dassurance au sens des normes professionnelles . En cas daudits nécessitant des compétences techniques spécifiques , une externalisation ponctuelle de travaux d'audit peut être réalisée ( N.B. : La Fonction Audit Interne de CAMCA conserve 'entière responsabilité du respect des obligations qui lui incombe même lors de la sous - traitance de travaux et / ou missions d'audit interne ) . 
+
+
+3.8 . Fonction Actuarielle 
+
+A cours de l'année , la Fonction Actuarielle a effectué une revue actuarielle qui n'a pas relevé de point d'attention dans les analyses et les suivis des risques . 
+
+La revue annuelle du processus détablissement des provisions et donne son avis sur le niveau d'incertitude des provisions et la conformité des méthodes appliquées , 
+
+
+ 
+
+Son avis sur la politique globale de souscription et de réassurance , 
+
+ Son avis sur les scenarii de stress choisis dans le cadre de l'ORSA et l'évaluation des impacts en termes de solvabilité concernant les risques techniques et les effets de la réassurance , 
+
+Son avis sur les méthodes de projections des provisions techniques et du SCR dans le cadre des évaluations ORSA , 
+
+Ses recommandations sur la manière de remédier aux limites identifiées ainsi qu'un suivi des plans d'actions . 
+
+
+3.9 . Sous - traitance 
+
+3.9.1.Description de la politique de sous - traitance et d'externalisation 
+
+La politique de sous - traitance et d'externalisation de CAMCA a pour objectif de  
+
+ Définir le périmètre relevant de la sous - traitance , notamment au regard des obligations liées à Solvabilité 2 , 
+
+Dfinir les critères permettant de qualifier une activité ou une fonction externalisée d'importante u critique ( PC ) , au regard de la directive européenne Solvabilité 2 , 
+
+Fixer les principes généraux et les étapes principales qui s'appliquent au processus de ous - traitance pour CAMCA , en identifiant les responsabilités associées et en décrivant le dispositif de suivi et de contrôle associé à la sous - traitance ainsi qu'à la gestion et au suivi des Risques . CAMCA Mutuelle peut être conduite amener à recourir à des prestations externes pour l'ensemble de ses activités . Le recours à des prestataires , totalement ou en partie , peut être dictée en particulier par des considérations industrielles , économiques ou d'ordre sécuritaire dans le cadre de la politique de gestion des risques , afin de diversifier les intervenants , les sites de production ou les approvisionnements , ou lorsque les compétences ou l'expertise nécessaires ne sont pas disponibles en interne . Lorsqu'il est 
+
+
+==================================================
+
+Page 27
+décidé de recourir à un ( ou des ) prestataire ( s ) extérieur ( s ) pour la réalisation de prestations de services essentielles ( critiques ou importantes ) , les processus en place au sein de CAMCA Mutuelle doivent permettre de s'assurer que le ( ou les ) prestataire ( s ) choisi ( s ) présente ( nt ) toutes les garanties nécessaires particulièrement en termes de compétence technique et de solidité financière . 
+
+La politique de sous - traitance est révisée chaque année et fait l'objet d'une validation par le Conseil d'Administration . Le renforcement des exigences introduit à l'occasion de la révision des directives de EBA et des normes du Groupe Crédit Agricole mises à disposition fin 2021 ont été intégrées au corps procédural de CAMCA en 2022 . 
+
+
+3.9.2.Cas des activités critiques ou importantes 
+
+En 2022 , la liste des prestations est présentée a minima une fois par an aux instances de gouvernance du Groupe CAMCA . Le Groupe CAMCA a ainsi recensé les prestations critiques ou importantes ( PCI ) suivantes : 
+
+Prestation de gestion des sinistres concernant les prestataires les plus importants bénéficiant d'une délégation de règlement ( délégations hors Groupe à SDGAC , Finaxy et Garantie Privée ) ; 
+
+ Prestation de services financiers ( délégation Groupe à AMUNDI )  
+
+ Prestation informatique ( délégation Groupe à CAAS et hors Groupe à Anténia ) ; 
+
+ Prestations d'archivage ( délégation hors Groupe à SGA ) ; 
+
+ Distribution des contrats d'assurance ainsi que le pilotage global du programme mis en place pour l'activité cartes et la mise à jour du parc de cartes ( délégation Groupe à CAMCA Courtage ) . 
+
+Lanalyse des fonctions ou activités externalisées critiques ou importantes ( PC ) ne met pas en exergue de risque majeur . 
+
+
+3.10 . 
+
+
+Evaluation et autres informations 
+
+
+==================================================
+
+Page 28
+
+4. PROFIL DE RISQUE 
+
+
+4.1 . Introduction 
+
+En application de la Directive Solvabilité 2 , et du dispositif appliqué par le Groupe Crédit Agricole sur le contrôle interne et la maitrise des risques , CAMCA Mutuelle a mis en place une cartographie des risques . 
+
+Des entretiens ont été menés avec les responsables de risques et le Comité de direction a été consulté afin d'identifier les risques matériels et les scénarios de stress associés . 
+
+
+4.2 . Risque de souscription 
+
+Le profil de risque du Groupe CAMCA est très spécifique en raison de la nature des garanties souscrites . Les activités d'assurance exposent le Groupe CAMCA à des risques concernant principalement la ouscription Non - Vie , 'évaluation des provisions et le processus de réassurance . 
+
+ En assurance dommages ou pour les garanties non - vie incluses dans les contrats d'assurance , les risques résident dans la sélection , 'insuffisance de tarification , la gestion des sinistres ainsi que le cumul ou le risque de catastrophe . Ils sont maîtrisés par le déploiement de la politique de ouscription de CAMCA . Le rapport entre les sinistres déclarés et les primes acquises constitue l'indicateur essentiel de suivi du risque et est comparé au ratio cible , 
+
+ La politique de provisionnement contribue par ailleurs à la maîtrise du risque technique , 
+
+
+ 
+
+La politique de réassurance établie vise à protéger ses fonds propres en cas de survenance d'évènements systémiques ou exceptionnels et à contenir la volatilité du résultat . Elle intgre les standards définis par le Groupe Crédit Agricole ( solidité financière minimum des réassureurs , par exemple ) . 
+
+Les autres branches présentent des risques plus faibles , soit en raison du volume , soit en raison de leur nature . 
+
+Concernant le risque technique , le principe est que le Groupe CAMCA puisse répondre à tous les besoins exprimés par les Caisses Régionales . Pour ce faire , elle fixe en amont des limites à ces garanties , adapte la tarification en fonction du niveau de risque afin de pouvoir faire face à ses engagements ( ratio de sinistralité en deçà de 100 % ) . 
+
+Contribution du risque de souscription non - vie au SCR 31/12/2021 
+
+Contribution du risque de souscription non - vie au SCR 
+
+
+==================================================
+
+Page 29
+
+4.3 . Risques de marché 
+
+Le risque de taux est une des expositions significatives du Groupe CAMCA en raison du décalage entre les cash - flows de ses engagements et ceux des instruments de marchés souscrits , et en raison du placement de ses fonds propres principalement dans des instruments de taux ( obligations ) . 
+
+Le risque de spread est une des expositions significatives du Groupe CAMCA , particulièrement expliqué par la structure de ses placements investis à près de 50 % dans les obligations d'entreprises . 
+
+Le risque souverain est un risque significatif pour les entités du Groupe CAMCA du fait de la part significative de lallocation des fonds propres dans cette classe d'actif . Le principal moyen de maîtrise réside dans le choix des états et des durées des titres , ainsi que la surveillance régulière des évolutions des signatures . Ces choix sont faits au cours des comités financiers . 
+
+Le risque de concentration est également considéré comme un risque majeur . En effet la contrepartie de la prudence est la concentration du portefeuille sur quelques émetteurs ou secteurs . Tel est le cas de 'apport de liquidités au Crédit Agricole qui est la contrepartie la plus représentée dans le portefeuille . Le principal moyen de maîtrise de ce risque est la surveillance régulière au cours des comités financiers des volutions des signatures et l'application de seuils maximum par contrepartie . 
+
+La gestion des investissements des entités du Groupe CAMCA se veut prudente de manière à pouvoir faire face aux engagements vis à vis de ses clients et est encadrée par une politique financière et des risques financiers . 
+
+Contribution du risque de taux au SCR de marché 31/12/2021 
+
+Contribution du risque de spread au SCR de marché 31/12/2021 
+
+Contribution du risque de taux au SCR de marché 31/12/2022 
+
+
+Risque de taux 
+
+Contribution du risque de spread au SCR de marché 31/12/2022 
+
+
+==================================================
+
+Page 30
+
+4.4 . Risques de contrepartie 
+
+Le risque de contrepartie n'apparait pas comme un risque majeur . Le programme de réassurance ainsi que la politique de réassurance sont validés annuellement par le Conseil d'Administration . 
+
+Chaque société a instauré , en sus , une limite globale , sauf cas particulier , sur le rating minimum ( A- ) des réassureurs retenus dans le placement des traités . 
+
+Chaque entité calibre ses programmes de réassurance de manière à optimiser le niveau de la rétention et le coût de la protection en cas d'évènement exceptionnel , 'objectif étant de limiter la volatilité du résultat et de protéger les fonds propres . 
+
+
+4.5 . Autres Risques 
+
+Le risque de liquidité n'apparait pas comme un risque majeur . L'impact d'un sinistre majeur serait faible . 
+
+Les autres risques financiers ( immobilier , change ) sont d'impact plus limité ou nul , en raison de la politique d'investissement actuellement suivie . 
+
+Lappétit pour le risque que s'est fixé le Groupe CAMCA se traduit par la fixation d'une allocation par type dactif financier validée annuellement par le Conseil d'Administration . 
+
+La prudence souhaitée en matière de risques financiers se traduit par l'exclusion de plusieurs classes d'actif , comme les actions ( sauf participations stratégiques pour CAMCA Mutuelle ) , les nouveaux investissements dans des obligations entreprises et dans certains états européens . Les investissements immobiliers sont soumis systématiquement au Conseil d'Administration . 
+
+
+4.6 . Risque opérationnel 
+
+Les risques opérationnels incluent les risques de non - conformité , les risques juridiques et également les risques générés par le recours à des prestataires ( dont les Prestations critiques ou importantes  PC ) . Is sont suivis  travers les dispositifs de cartographie , de collecte trimestrielle des incidents et des pertes complétées par une procédure d'alerte . 
+
+Pour couvrir indisponibilité des systèmes d'informations , des sites opérationnels et du Personnel , le Groupe CAMCA a établi leur plan de continuité de l'activité ( PCA ) , centré sur les activités essentielles . 
+
+La sécurité des systèmes d'information repose , pour sa part , sur les politiques de sécurité Groupe CA. Un programme triennal de chantiers sécuritaires ( dont habilitations , tests d'intrusion , déploiement des scénarios d'indisponibilité logique du SI ) a été engagé . 
+
+Les risques de non - conformité constituent également un enjeu majeur , dans un contexte de renforcement de la réglementation . Ils comprennent ant la lute contre le blanchiment et le financement du errorisme que la protection de la clientèle ( traitement des réclamations ) . Le Responsable Conformité qui est en charge de l'élaboration des procédures , s'appuie sur le corpus émis par la Direction de la Conformité de Crédit Agricole S.A. , impulse les actions de formations et définit le dispositif de contrôle . 
+
+Le Groupe CAMCA répertorie l'ensemble des risques opérationnels et procède à leur évaluation . 
+
+Le Groupe CAMCA a mis en place une procédure d'alerte sur les  risques opérationnels sensibles  , notamment ceux dont le montant est supérieur à 0,5 % des fonds propres ou ayant un impact significatif 
+
+
+==================================================
+
+Page 31
+sur la maîtrise des risques . Ainsi , en cas d'événement majeur et dépassement de ces limites , une information à la gouvernance du Groupe CAMCA et au Groupe Crédit Agricole est réalisée . 
+
+
+4.7 . Autres risques significatifs 
+
+Aucun autre risque significatif n'a été identifié . 
+
+Des précisions sont à apporter sur trois dispositifs intragroupes . 
+
+En vision Groupe en effet , l'éventuelle intervention de CAMCA Réassurance n'est pas prise en compte dans l'évaluation du besoin de solvabilité , ni dans le calcul du SCR . 
+
+Par ailleurs , en raison de l'appartenance au Groupe Crédit Agricole , l'apport de liquidité apporté à ce titre atteint son maximum légal . Le risque de concentration au niveau du Groupe est plus important que la somme des risques de concentration pour chaque entité ( maison mère et filiales ) . Cet élément est pris en compte lors de la déclinaison de l'appétit au risque par entité . 
+
+Enfin est à souligner la solidarité financière entre les différentes entités constituant le Groupe CAMCA . En cas d'évènements graves touchant 'une des filiales , compte tenu de la solvabilité et de la solidité financière solo , chacune des entités pourrait intervenir par l'apport de fonds propre pour soutenir une autre entité . Ces mécanismes sont décrits dans le rapport sur la gouvernance du Groupe . 
+
+Ces risques intragroupes ne nécessitent pas dajout de capital supplémentaire , étant correctement pris en compte dans l'évaluation du SCR et du besoin de solvabilité . 
+
+
+4.8 . Autres informations 
+
+L'analyse de sensibilité aux risques présentés ci - dessus est conduite annuellement dans le cadre du processus ORSA , qui est résumé ci - desso . 
+
+A fin 2022 , le Groupe CAMCA couvre son besoin en capital dans le référentiel Solvabilité 2  hauteur de 2,1 fois . 
+
+ Dans une vision prospective , CAMCA satisfait aux exigences réglementaires ( couverture du SCR et du MCR ) notamment en cas de situation adverse . Pour ce faire , le besoin en capital a été projeté selon les prévisions à moyen terme . Les fonds propres réglementaires demeurent à un niveau favorable 959 M  en 2023 et 1 031 M  en 2024 ( vs 911 M  en 2022 ) . Les ratios de solvabilité restent également relativement stables à 1,9 en 2023 et en 2024 ( vs 2,1 en 2022 ) . Quelques scenarii défavorables possibles ont été définis , appropriés à l'activité de CAMCA , et les impacts sur la solvabilité en ont été calculés . La combinaison des scenarii extrêmes macroéconomique ( portant essentiellement sur les risques de marché ) et technique ( portant essentiellement sur les risque de souscription ) a un impact non négligeable sur la couverture du SCR , qui reste cependant supérieur au minimum requis par la réglementation à 1,6 fois le SCR en 2023 . 
+
+
+ Solvency Capital Requirement 
+
+
+==================================================
+
+Page 32
+
+5.1 . Introduction 
+
+Le bilan prudentiel est établi conformément aux principes de valorisation énoncés aux articles 75  89 de la directive 2009 / 138 / CE .  est établi à partir des états financiers des comptes annuels au 31 décembre 2022 ( ci - après  Bilan Solvabilité 1 » ou « Bilan S1 » ) de la société d'assurance CAMCA . 
+
+Le tableau ci - dessous présente de façon synthétique la valeur des actifs et des passifs au 31 décembre 2022 des Bilans S1 et S2 ( en K € ) . 
+
+
+Trésorerie et équivalent Autres actifs 
+
+
+mpôts différés passifs Dettes Autres passifs 
+
+
+Comptes consolidés ( Bilan S1 ) 
+
+
+8 229 131 059 
+
+
+Reclassements 
+
+
+Rvaluation immobilier 
+
+
+Rvaluation participations 
+
+
+Révaluation obligations 
+
+
+Réévaluation OPCVM 
+
+
+Evaluation des provisions techniques 
+
+
+en BE 
+
+
+Annulation provision d'égalisation 
+
+
+Constitution marge de risque 
+
+
+Annulation PNA / FAR 
+
+
+Annulation incorporels 
+
+
+Impôts différés 
+
+
+intérêts minoritaires S1 
+
+
+Transfert 
+
+
+en fonds propres 
+
+
+Total revalorisations S2 
+
+
+Bilan prudentiel 
+
+
+consolidé ( Bilan S2 ) 
+
+
+-2 828 131 059 185 141 4 002 
+
+Les retraitements réalisés pour l'élaboration du bilan prudentiel concernent les postes suivants :  Valorisation des placements en valeur de marché : 
+
+Rattachement des intérêts courus non échus aux titres en principal , 
+
+Extourne des écritures de compte de régularisation des surcotes / décotes , 
+
+Réévaluation des titres de participation dans des entreprises d'assurance soumises à Solvabilité 2 selon la méthode de la mise en équivalence , 
+
+ Réévaluation des autres placements à la valeur de marché , 
+
+Evaluation des provisions techniques selon les règles S2 : 
+
+Evaluation des provisions techniques en  Best Estimate  ( brute et cédée ) , en distinguant les Best Estimate de prime et les Best Estimate de provision , 
+
+
+Elimination des provisions d'égalisation , 
+
+
+==================================================
+
+Page 33
+Elimination des non valeurs ( immobilisations incorporelles , frais d'acquisition reportés ) , 
+
+ Détermination des bases d'impôts différés ( écarts entre évaluation Solvabilité 1 et Solvabilité 2 ) et calcul d'impôts différés par application du taux d'imposition en vigueur , 
+
+Reclassement des intérêts minoritaires 1 en Fonds propres , les Fonds propres du Bilan 2 incluant les intérêts minoritaires . 
+
+Aucun retraitement spécifique n'a été réalisé sur les écritures de bas de bilan , la vision comptable ayant été considérée comme la meilleure estimation économique des créances et des dettes ( absence d'effet d'actualisation compte tenu de leur horizon à court terme ) . 
+
+
+5.2 . Actifs 
+
+
+5.2.1.Placements immobiliers 
+
+Les placements immobiliers sont réévalués à la valeur de réalisation déterminée lors des expertises annuelles des immeubles . La valeur de réalisation des placements immobiliers figure dans l'annexe aux comptes sociaux au 31 décembre 2022 ( état détaillé des placements ) . 
+
+
+5.2.2 . Placements mobiliers 
+
+Le portefeuille de placements mobiliers ( obligations cotées , OPCVM monétaires et obligataires ) est réévalué comme suit : 
+
+ Rattachement des intérêts courus non échus aux itres en principal ; 
+
+ Extourne des écritures des comptes de régularisation des surcotes / décotes  
+
+ Passage de la valeur nette comptable à la valeur de marché , la valeur de marché étant fournie par le dépositaire des titres . 
+
+La valeur de marché des placements mobiliers figure dans l'annexe aux comptes sociaux au 31 décembre 2022 ( état détaillé des placements ) . 
+
+
+5.2.3.Actifs incorporels et frais reportés 
+
+Les actifs incorporels ( principalement constitués de logiciels ) sont valorisés à zéro dans le bilan prudentiel . 
+
+Les frais d'acquisition reportés sont constitués par la fraction imputable aux exercices ultérieurs des commissions versées aux intermédiaires et des frais internes d'acquisition , tels qu'ils ressortent de la répartition des charges par destination , comptabilisée en charge de l'exercice en cours . Il n'y a pas de frais d'acquisition reportés au 31 décembre 2022 . 
+
+
+5.2.4 . Provisions techniques cédées 
+
+Les règles de valorisation des provisions echniques cédées sont présentées dans la partie sur les provisions techniques . 
+
+
+==================================================
+
+Page 34
+
+5.2.5.Trésorerie et équivalents de trésorerie 
+
+Dans le bilan prudentiel , la trésorerie et les équivalents de trésorerie sont évalués à la juste valeur . La trésorerie comprend les fonds en caisse et les dépôts à vue . En pratique , compte tenu du caractère de court terme de ces instruments , juste valeur et cot amorti sont des montants jugés proches . 
+
+ n'y a donc pas de réévaluation dans le bilan prudentiel . 
+
+
+5.2.6.mpts différés 
+
+
+Voir la section  autres passifs  ci - dessous . 
+
+
+5.3 . Provisions techniques 
+
+
+5.3.1.Synthèse 
+
+En application de la première méthode prévue par la Directive Solvabilité 2 ( cf. Art 230 ) , les provisions techniques en  Best Estimate  du bilan prudentiel du Groupe CAMCA sont établies à partir du bilan consolidé ( normes françaises ) du Groupe CAMCA au 31 décembre 2022 , en sappuyant sur les retraitements opérés dans les bilans prudentiels des entités du Groupe CAMCA . 
+
+
+La démarche est la suivante : 
+
+ Somme des provisions techniques en  Best Estimate  ( BE ) brutes et nettes de chacune des entités consolidées au 31 décembre 2022 ; 
+
+
+Elimination des cessions internes au Groupe . 
+
+Les méthodes et options retenues sont décrites dans le rapport narratif de CAMCA Mutuelle au 31 décembre 2022 et les documents équivalents établis par les autres entités consolidées . 
+
+L'évaluation des provisions techniques sous Solvabilité 2 diffère en fonction des garanties considérées et de leurs proportions ( principe de proportionnalité ) . 
+
+ n'y a pas d'évolution des hypothèses actuarielles sur le niveau des provisions techniques entre 2021 et 2022  par ailleurs , il est fait 'hypothèse de la permanence dans les futures décisions de gestion ainsi que le comportement des preneurs . 
+
+
+Provisions techniques ( en K € ) 
+
+Provisions pour sinistres  Best estimate de primes et sinistres Provisions d'égalisation 
+
+Provisions pour sinistres cédées Autres provisions techniques cédées 
+
+
+Variation S2 / S1 
+
+
+-3 809 138 019 
+
+
+==================================================
+
+Page 35
+Les provisions pour participation aux bénéfices ( essentiellement la provision pour commissions variables au titre de la Caution habitat de CAMCA Assurance ) sont reclassées au bilan S2 au titre des Best Estimate de primes . 
+
+Les  autres provisions  sont constituées de provisions pour commissions variables relatives aux produits parabancaires de CAMCA Mutuelle à verser aux distributeurs des contrats en mars N + 1 . Dans le bilan S2 , elles ont été considérées comme des dettes d'assurance envers les distributeurs et ne figurent donc pas parmi les provisions techniques . 
+
+La ventilation des provisions techniques brutes et cédées par ligne d'activité est la suivante : 
+
+Incendie et Respon Auto - mobile dommages sabilité aux biens civile 
+
+
+Crédit et caution- pécuniaires nement diverses 
+
+
+Provisions techniques ( K € ) 
+
+
+Protection du revenu 
+
+
+-2 494 749 
+
+
+12 792 1 836 
+
+
+63 773 40 906 
+
+Au 31/12/2022 , les provisions techniques brutes de réassurance sont en baisse de 268 M € , en lien essentiellement à une remontée des taux d'intérêt en 2022 . 
+
+
+5.3.2 . Principes de valorisation 
+
+L'article 77 alinéa 1 de la directive prévoit que la valeur des provisions techniques sous Solvabilité 2 corresponde à la somme des meilleures estimations (   BE  u Best Estimate ) des provisions et de la marge de risque (   RM   Risk Margin ) . 
+
+La meilleure estimation brute de réassurance est calculée comme la valeur actuelle des flux futurs probables des prestations envers les assurés ainsi que des frais d'administration et de gestion de ces engagements jusquà leur erme , diminués des primes à acquérir au titre des contrats en portefeuille . 
+
+
+La meilleure estimation est calculée : 
+
+ En cohérence avec les informations de marché disponibles à la date de l'évaluation , 
+
+
+ En adoptant une approche objective et fiable , 
+
+ En utilisant des méthodes actuarielles et statistiques adéquates , applicables et pertinentes , 
+
+ En respectant le cadre réglementaire Solvabilité 2 , y compris les spécificités des superviseurs nationaux . 
+
+Les BE bruts de réassurance et les BE cédés sont valorisés séparément . 
+
+La marge de risque correspond à un montant de provision complémentaire à la meilleure estimation , calculée de manière à ce que le montant total de provisions inscrit au bilan corresponde à celui qu'exigerait une entité agréée pour pratiquer des opérations d'assurance ou de réassurance pour honorer les engagements à la charge de l'assureur . Elle est calculée nette de réassurance . 
+
+
+==================================================
+
+Page 36
+Enfin , 'évaluation des provisions techniques sous Solvabilité 2 se distingue de celles en normes françaises par l'actualisation systématique des flux de trésorerie . Par ailleurs , il est fait l'hypothèse de la permanence dans les futures décisions de gestion ainsi que le comportement des preneurs . 
+
+
+5.3.3.Segmentation 
+
+L'assignation d'un engagement d'assurance à une ligne d'activité reflète la nature des risques relatifs à cet engagement . La forme juridique de l'engagement n'est pas nécessairement déterminante pour la nature du risque . Si une police couvre des engagements d'assurance sur plusieurs lignes d'activités , 'assignation à chaque ligne d'activité n'est pas requise si une seule des lignes d'activité est matérielle . 
+
+
+5.3.4.Comptabilisation initiale 
+
+Les engagements sont reconnus sur la base de l'engagement de l'assureur , soit parce que le contrat est signé , soit parce que le contrat ne pourra pas être dénoncé par l'assureur . 
+
+5.3.5.Principes généraux dévaluation de la meilleure estimation 
+
+
+Granularité des projections 
+
+Les contrats sont analysés sur une base unitaire puis regroupés en groupes de risques homogènes pour les modélisations . 
+
+Les groupes de risques définis pour l'évaluation des provisions techniques sont homogènes sur la base notamment des critères suivants : 
+
+
+La nature de la garantie , 
+
+ La base temporelle de la garantie ( par exemple , gestion en base survenance / déclaration ) , 
+
+Le type d'activité ( affaires directes de l'entité , acceptations , etc. ) . 
+
+La date  frontière » du contrat se définit comme la première des dates à laquelle : 
+
+ L'assureur a pour la première fois le droit unilatéral de mettre fin au contrat , 
+
+ L'assureur a pour la première fois le droit unilatéral de refuser les primes , 
+
+ L'assureur a pour la première fois le droit unilatéral de modifier les primes ou les garanties de manière à ce que les primes versées reflètent totalement le risque . 
+
+Les primes versées après la date « frontière  d'un contrat d'assurance / de réassurance et les engagements associés ne sont pas pris en compte dans le calcul de la meilleure estimation . 
+
+La projection des flux de trésorerie utilisée pour calculer la meilleure estimation tient compte de 'ensemble des frais suivants : 
+
+
+ Les frais d'acquisition des contrats , 
+
+
+ Les frais de gestion des sinistres , 
+
+ Les frais relatifs à la gestion des investissements . 
+
+Les frais généraux encourus pour la gestion des engagements d'assurance sont pris en compte . Les frais sont alloués au niveau des groupes de risques homogènes . 
+
+
+==================================================
+
+Page 37
+Les frais exceptionnels ainsi que tout autre retraitement justifiable sont déduits de l'assiette de frais utilisée . Le niveau de commissionnement retenu pour les calculs reflète l'ensemble des accords de commissionnement en vigueur à la date d'évaluation . 
+
+La courbe des taux de référence est la courbe des taux swaps : elle correspond à la courbe des taux de référence ajustée d'un risque de crédit , appelé ajustement pour risque de crédit (   CRA  ) .  permet de prendre en compte le risque de crédit lié à la jambe variable du taux swap . 
+
+La courbe des taux sans risque utilisée pour la projection et l'actualisation des flux de trésorerie est basée sur la courbe des taux sans risque précédente augmentée d'un ajustement de volatilité ( « VA  ) tel que défini dans 'article R. 351-6 du Code des assurances : 
+
+Taux d'actualisation  ( Taux swap de marché  CRA ) + VA 
+
+Le VA o Volatility Adjustment est une prime contra - cyclique qui permet d'ajuster le taux sans risque des variations des spreads corporate et govies .  permet de réduire l'impact des variations des spreads sur la volatilité du ratio de solvabilité . 
+
+Les impacts de son utilisation sont présentés dans le tableau suivant : 
+
+
+Volume ( k  ) 
+
+
+Provisions techniques brutes 
+
+
+Fonds Propres 
+
+
+2 260 410 911 316 442 834 206 % 
+
+
+2 272 797 902 304 
+
+Le ratio de solvabilité du Groupe CAMCA est peu impacté en cas d'annulation de la correction pour volatilité . 
+
+Pour plus d'informations sur l'impact du VA sur les provisions techniques ainsi que sur les fonds propres et le besoin réglementaires en capital , se référer au QRT S.22.01.22 en annexe du présent document . 
+
+L'ajustement égalisateur ainsi que les autres mesures transitoires proposées dans le cadre de Solvabilité 2 sur la courbe des taux ne sont pas utilisés par le Groupe CAMCA . 
+
+
+5.3.6.Valorisation des cessions 
+
+La meilleure estimation est initialement calculée brute , sans déduction des créances découlant des contrats de réassurance et des véhicules de titrisation . Le montant de ces créances est calculé séparément , conformément à l'article R. 351-12 du Code des Assurances , permettant de déduire la meilleure estimation nette de réassurance . 
+
+La valorisation de la meilleure estimation cédée suit les mêmes principes de valorisation que ceux énoncés pour la meilleure estimation brute . Les flux de trésorerie futurs cédés sont calculés dans les limites des contrats d'assurance auxquels ils se rapportent . Les flux de trésorerie futurs cédés sont calculés séparément pour les provisions pour primes et les provisions pour sinistres . 
+
+
+5.3.7.Ajustement pour défaut des contreparties 
+
+Le calcul de la meilleure estimation est ajusté afin de tenir compte des pertes probables pour défaut de chaque contrepartie . Cet ajustement est fondé sur une évaluation de la probabilité de défaut de chaque contrepartie et de la perte moyenne en résultant , soit la perte en cas de défaut . 
+
+
+==================================================
+
+Page 38
+
+5.3.8.Marge de risque 
+
+La marge de risque correspond au coût du capital immobilisé pour une tierce partie qui reprendrait les engagements d'assurance de CAMCA . 
+
+La marge de risque est évaluée en actualisant le coût ( prime de risque ) annuel généré par 'immobilisation d'un capital équivalent au SCR de référence tel que défini par la réglementation sur la durée de vie résiduelle des engagements utilisés pour le calcul de la meilleure estimation . Le coût du capital est réglementairement fixé à 6 % par an . 
+
+
+5.3.9.Ecarts de valorisation 
+
+Les provisions techniques en norme 1 se déclinent selon la manière suivante . 
+
+
+Provisions techniques ( en K  ) 
+
+Provisions pour sinistres  Best estimate de primes et sinistres Provisions d'égalisation 
+
+Provisions pour participation aux bénéfices ( hors parabancaire ) Autres provisions 
+
+Provisions pour sinistres cédées Autres provisions techniques cédées 
+
+
+-8 229  
+
+Les écarts de valorisation des provisions techniques sous Solvabilité 2 sont les suivants : 
+
+Constitution d'un BE primes et d'une marge de risque en normes prudentielles , 
+
+ Elimination de la marge de prudence sur le BE sinistres et actualisation des flux de trésorerie futurs en normes prudentielles , 
+
+
+ Annulation de la provision d'égalisation , 
+
+Les autres provisions sont constituées d'un solde de commissions variables à verser aux distributeurs des contrats en mars N + 1 . Dans le bilan S2 , elles ont été considérées comme des dettes d'assurance envers les distributeurs et ne figurent donc pas parmi les provisions techniques . 
+
+Les écarts de valorisation sont présentés ci - dessous par ligne d'activité : 
+
+
+==================================================
+
+Page 39
+Principes de valorisation des provisions techniques brutes ( K € ) 
+
+
+Assurance de Protection du responsabilité 
+
+
+5.4 . Autres passifs 
+
+
+civile automobile 
+
+
+Incendie et Auto - mobile dommages aux biens 
+
+
+5.6 . Autres informations 
+
+Aucune autre information importante n'est à ajouter . 
+
+
+Respon Crédit et sabilité civile caution - nement 
+
+
+5.5 . Méthodes alternatives de valorisation 
+
+
+Pertes pécuniaires diverses 
+
+Les différentes étapes de l'évaluation des impôts différés sont les suivants : 
+
+ Pour chaque poste d'actif et de passif , détermination d'une base d'impôts différés égale à la différence entre valorisations 1 et S2 ; 
+
+ Exclusion de la base d'impôts différés des différences permanentes et des éléments déjà fiscalisés ( par exemple les plus - values latentes des OPCVM ) ; 
+
+Application du taux d'imposition applicable au 31 décembre 2022 ( 25,83 % en France et 24,94 % au Luxembourg ) à la base d'impôts différés , en l'absence de détermination de la date de retournement des différences de valorisation S1 - S2 ( plus - values latentes sur les actifs et différence d'évaluation 1 - S2 des engagements techniques ) . 
+
+La réévaluation des titres de participation en valeur S2 selon la méthode de la mise en équivalence a été considérée comme une plus - value à long terme relevant du régime mère - fille ; le taux retenu pour la détermination des impôts différés est le taux de 12 % applicable dans le cadre de ce régime . 
+
+
+==================================================
+
+Page 40
+
+6. GESTION DES FONDS PROPRES 
+
+
+6.1 . Fonds propres 
+
+La gestion des fonds propres est mise en uvre de manière à : 
+
+respecter les exigences prudentielles de capital de solvabilité de la société face à un niveau de capital requis évalué sous les règles Solvabilité 2 ; 
+
+optimiser la structure des fonds propres afin de limiter le coût de financement tout en maintenant une flexibilité financière suffisante . 
+
+Elle découle des résultats de solvabilité et notamment des résultats de l'ORSA et des règles d'appétence . Ceux - ci fournissent une vision prospective des besoins de capitaux propres de chaque entité et au niveau consolidé en fonction des objectifs exprimés en termes de taux de couverture " cible " , et permet donc de les anticiper . L'exercice permet également de simuler les conséquences liées aux différents moyens de gérer le capital disponible . 
+
+En cas d'évènement significatif mettant en danger les fonds propres , la politique de mise en uvre de ORSA prévoit que celle - ci soit réactualisée et qu'une information soit envoyée au contrôleur de l'entité ou du Groupe . 
+
+Les fonds propres de base sont constitués du capital social versé ainsi que des reports à nouveau et autres réserves . 
+
+
+CAMCA n'a pas de fonds propres auxiliaires . 
+
+L'évolution des fonds propres S2 de CAMCA est la suivante : 
+
+
+Fonds propres S2 ( en K € ) 
+
+
+Fonds propres S1 
+
+
++ Values latentes sur placements immobiliers 
+
+
++ Values latentes sur placements mobiliers 
+
+
+Marge de risque 
+
+
+Impts différés 
+
+
+Fonds propres bilan S2 ( FP disponibles ) 
+
+
+Dividendes à payer 
+
+
+Fonds propres éligibles S2 
+
+
+226 520 350 571 -97 870 
+
+
+984 583 972 990,618 
+
+
+-358 642 884 192 -107 817 
+
+
+==================================================
+
+Page 41
+
+6.1.1.Les fonds propres disponibles 
+
+CAMCA ouvre son besoin réglementaire en capital par des réserves comptables . Tous les éléments de fonds propres sont libellés en euros . 
+
+Les fonds propres disponibles au 31 décembre 2022 s'élèvent à 973 M € . ls sont constitués du fonds d'établissement ( 0,4 M € ) , de la réserve de réconciliation ( 803 M € ) et des intérêts minoritaires ( 169 M € ) . 
+
+La réserve de réconciliation est constituée principalement des réserves comptables S1 ( +503 M € ) , de la réévaluation des actifs financiers ( -317 M  ) , des provisions techniques nettes ( +776 M  ) , de l'annulation des actifs incorporels ( -13 M  ) , de la constitution des impôts différés ( -107 M  ) et de la constatation d'intérêts minoritaires sur ces retraitements ( -38 M € ) . 
+
+La réserve de réconciliation synthétise les différences entre les fonds propres 1 et les fonds propres disponibles S2 . Le détail de ce passage des fonds propres évalués sous 1 et sous S2 est présenté ci dessous : 
+
+rts minoritaires admissibles Intérêts minoritaires non admissibles Dettes subordonnées 
+
+
+Comptes consolidés 
+
+
+Evaluation des placements 
+
+
+en valeur de march 
+
+
+Evaluation des provisions 
+
+
+  
+
+
+n BE + MR 
+
+
+Autres ajustements de valeur 
+
+Autres créations d'actifs et de pcifiques S2 passifs 
+
+
+Reconnaissance des impots 
+
+
+Transfert des intérêts minoritaires 
+
+
+en fonds propres 
+
+
+Reclassement des intérêts 
+
+
+minoritaires S2 
+
+
+Autres reclassements 
+
+
+Total passage du Bilan 1 au 
+
+
+Bilan S2 
+
+
+Excédent d'Actifs sur Passifs S2 ( Bilan S2 ) 
+
+
+Dividendes prévus et distribution 
+
+
+Investissement dans les 
+
+
+tablissements de crdit 
+
+
+Position nette active 'impts 
+
+
+Exclusion s d intrts 
+
+
+non admissibles 
+
+
+Autres ajustements et déductions 
+
+
+Total ajustements de la 
+
+
+rserve de réconciliation 
+
+
+propres S2 ( Fonds propres 
+
+
+disponibles  
+
+
+6.1.2.Les fonds propres éligibles 
+
+Les fonds propres éligibles s'élèvent à 911 M € au 31 décembre 2022 et sont constitués des fonds propres disponibles ( 973 M € ) et de prêts subordonnés ( 3 M € ) , sous déduction des éléments non admissibles ( intérêts minoritaires de 60 M € et distributions prévues de dividendes de 4 M  ) . Le groupe CAMCA couvre son besoin rglementaire en capital exclusivement par des fonds propres de niveau 1 non restreints . 
+
+Les fonds propres disponibles et éligibles pour couvrir le capital de solvabilité requis ( SCR ) et pour couvrir le minimum de capital requis ( MCR ) sont identiques . 
+
+Les fonds propres sont constitués exclusivement d'éléments de niveau 1 . 
+
+
+6.2 . SCR et MCR 
+
+
+6.2.1.Méthode et options retenues 
+
+L'approche retenue par CAMCA pour le calcul du SCR et du MCR ( Minimum de Capital Requis ) est 'approche standard . Cette approche est prise en compte dans les calculs effectués par un progiciel 
+
+
+==================================================
+
+Page 42
+actuariel dédié , permettant de calculer la formule standard conformément au règlement délégué du 10 octobre 2014 . 
+
+CAMCA n'a pas recours au sous - module  risque sur actions  fondé sur la durée . 
+
+Les calculs s'appuient sur la courbe de taux publiée par l'EIOPA début 2023 . 
+
+Le Groupe CAMCA détermine , pour les besoins du calcul du SCR et du MCR , les primes acquises et les primes restant à acquérir de l'activité Caution Habitat de CAMCA Assurance comme suit : 'activité Caution Habitat étant tarifiée et facturée en prime unique couvrant le risque de défaut de l'emprunteur durant toute la durée du prêt , il convient de répartir la prime unique sur l'ensemble de la période de garantie . Afin de refléter au mieux , à travers la répartition de la prime , l'évolution de l'engagement de 'assureur sur la durée des prêts et donc l'évolution de son profil de risque , la prime unique est répartie sur la base de l'amortissement du capital restant d ( CRD ) des prêts de chaque génération . 
+
+Toujours concernant la branche Caution Habitat , il convient de noter que celle - ci dispose d'un mécanisme de commissions variables constituant un amortisseur de la dégradation éventuelle du résultat technique . 
+
+A compter du 31 décembre 2020 , le Groupe CAMCA établit le calcul des composantes du SCR relatives à l'activité Caution comme suit : 
+
+ Le SCR de primes et de réserves s'appuie sur un volume de primes déterminé selon l'article 116 du Règlement délégué ( UE ) 2015/35 de la Commission européenne du 10 octobre 2014 ; notamment , ce calcul intégrait les coefficients mis à jour à compter du 1er janvier 2020 relatif à la Ligne d'activité Crédit / Caution ; à ce montant est déduite l'atténuation des pertes à hauteur de la contribution de la provision pour commission variable à la couverture de l'exigence de robustesse Caution à laquelle est soumise réglementairement le Groupe CAMCA ; 
+
+Le SCR Cat Crédit / Caution est , pour le risque de récession , égal à 100 % des primes acquises de la Ligne d'activité Crédit  Caution , au cours des 12 mois à venir ( prévision de primes acquises de l'exercice 2023 ) , sans déduction des montants recouvrables au titre des contrats de réassurance et après déduction de l'atténuation des pertes par la provision pour commissions variables de la Caution . 
+
+6.2.2.Capacité d'absorption des pertes par les impôts différés 
+
+La capacité d'absorption des pertes futures de chaque entité consolidée par les impôts différés ( crédits d'impôts ) a été retenue à hauteur des impôts différés passifs nets inscrits au bilan prudentiel ( hors impôts différés à taux réduit ) de chacune des entités consolidées . 
+
+
+6.2.3.Solvabilité au 31 décembre 2022 
+
+Le tableau ci - dessous présente le résultat des calculs du SCR et du MCR au 31 décembre 2022 ainsi que 'évolution par rapport au 31 décembre 2021 ( en K € ) .  convient de noter que le MCR est évalué en appliquant la borne supérieure du " corridor proportionnel au SCR " au calcul du SCR , du fait d'un MCR linéaire plus élevé que cette borne supérieure . 
+
+
+==================================================
+
+Page 43
+
+Solvabilité ( en K € ) 
+
+
+Risque de souscription Non Vie 
+
+
+Risque de souscription Santé 
+
+
+Risque de défaut de contrepartie Risque de marché 
+
+
+Risque opérationnel 
+
+Capacité d'absorption des provisions techniques Capacité d'absorption des impôts différés 
+
+
+Solvency Capital Requirement ( SCR ) 
+
+
+Fonds propres éligibles S2 
+
+
+6.3 . Autres Informations 
+
+Aucune autre information importante nest à ajouter . 
+
+
+787 832 
+
+Le profil de risque de CAMCA demeure par ailleurs stable entre 2021 et 2022 , ne générant pas d'évolution significative du SCR . 
+
+Le ratio de couverture du SCR demeure à un niveau très élevé ( 206 % au 31 décembre 2022 contre 210 % au 31 décembre 2021 ) . 
+
+
+==================================================
+
+Page 44
+
+7. Annexes 
+
+représentation de contrats en unités de compte et indexés ) 
+
+Biens immobiliers ( autres que détenus pour usage propre ) 
+
+Détentions dans des entreprises liées , y compris participations 
+
+Montants recouvrables au titre des contrats de réassurance 
+
+Non - vie et santé similaire à la non - vie Non - vie hors santé 
+
+Vie et santé similaire à la vie , hors santé , UC et indexés 
+
+Créances nées d'opérations d'assurance et montants à recevoir d'intermédiaires 
+
+Actions propres auto - détenues ( directement ) léments de fonds propres ou fonds initial appelé ( s ) , mais non encore payé ( s ) Trésorerie et équivalents de trésorerie Autres actifs non mentionnés dans les postes ci dessus 
+
+
+R100 R110 
+
+Actifs en représentation de contrats en unités de compte et indexés 
+
+
+R0230 R0240 
+
+
+Vale ur Solvabilité II 0010 
+
+Provisions techniques calculées comme un tout Meilleure estimation 
+
+Provisions techniques santé ( similaire à la non vie ) 
+
+
+Provisions techniques calculées comme un tout 
+
+Provisions techniques vie ( hors UC et indexs ) Provisions techniques santé ( similaire à la vie ) Provisions techniques calculées comme un 
+
+Provisions techniques vie ( hors santé , UC et indexés ) 
+
+Dépôts des réassureurs Passifs d'impôts différés Produits dérivés 
+
+
+R0520 R0530 
+
+Dettes financières autres que celles envers les établissements de crédit 
+
+Dettes nées d'opérations d'assurance et montants dus aux intermédiaires 
+
+Dettes nées d'opérations de réassurance Autres dettes ( hors assurance ) 
+
+Passifs subordonnés non inclus dans les fonds propres de base 
+
+Passifs subordonnés inclus dans les fonds propres de base 
+
+Autres dettes non mentionnées dans les postes ci - dessus 
+
+
+Valeur Solvabilité II 
+
+
+-2 494 749 
+
+
+==================================================
+
+Page 45
+
+R110 R120 
+
+
+R0130 
+
+
+R140 
+
+
+R200 
+
+
+R210 
+
+
+R220 
+
+
+R0230 
+
+
+R0240 
+
+
+R0310 
+
+
+R320 
+
+
+R0330 
+
+
+R0340 
+
+
+R0400 
+
+
+R0410 
+
+
+R420 
+
+
+R0430 
+
+
+R0440 
+
+
+R500 
+
+
+R550 
+
+
+R1200 R1300 
+
+Ligne d'activité pour  engagements d'assurance et de réassurance non - vie ( assurance directe et réassurance proportionnelle acceptée ) 
+
+
+0010 
+
+
+C020 
+
+
+40 594 
+
+
+39 963 
+
+
+40 594 
+
+
+39 963 
+
+
+3011 
+
+
+2 956 
+
+
+33 615 
+
+
+C030 
+
+
+C0040 
+
+
+1421 
+
+
+1142 
+
+
+1421 
+
+
+1142 
+
+
+2943 
+
+
+2842 
+
+
+C0050 
+
+
+6 949 
+
+
+6 609 
+
+
+6 949 
+
+
+6 609 
+
+
+3 718 
+
+
+3 600 
+
+
+2 701 
+
+
+C0060 
+
+
+Assurance incendie et autres 
+
+
+C0070 
+
+
+196 846 646 
+
+
+21 323 
+
+
+176 168 
+
+
+196 781 
+
+
+21 398 
+
+
+176 129 
+
+
+43 924 
+
+
+1275 
+
+
+45 195 
+
+
+930 147 663 
+
+
+C080 
+
+
+19 574 
+
+
+3 901 
+
+
+15 673 
+
+
+19 393 
+
+
+3 896 
+
+
+15 497 
+
+
+9 104 
+
+
+2 262 
+
+
+6 842 
+
+
+2 146 
+
+
+C0090 
+
+
+392 396 
+
+
+364 392 031 
+
+
+391 695 
+
+
+391 401 
+
+
+122 768 
+
+
+122 764 
+
+
+167 933 
+
+
+167 933 
+
+
+119 631 
+
+Ligne d'activité pour : engagements d'assurance et de réassurance non - vie ( assurance directe et réassurance proportionnelle acceptée ) 
+
+
+100 
+
+
+110 
+
+
+C120 
+
+
+62 822 
+
+
+2414 
+
+
+61 123 
+
+
+62 820 
+
+
+2414 
+
+
+61 121 
+
+
+18633 
+
+
+1644 
+
+
+16988 
+
+
+14 249 
+
+Ligne d'activité pour : réassurance non proportionnelle acceptée 
+
+
+C0130 
+
+
+0140 
+
+
+C0150 
+
+
+C160 
+
+
+4144 
+
+
+4144 
+
+
+Total 
+
+
+C0200 
+
+
+720 603 
+
+
+1361 700 
+
+
+29 254 
+
+
+693 410 
+
+
+719 655 
+
+
+1462 
+
+
+29 254 
+
+
+692 563 
+
+
+204 099 
+
+
+4144 
+
+
+2909 
+
+
+205 330 
+
+
+167 933 
+
+
+167 002 
+
+
+320572 
+
+
+3 057 323 629 
+
+
+==================================================
+
+Page 46
+Impact des mesures relatives aux garanties de long terme et des mesures transitoires Données en K  
+
+Montant avec mesures relatives aux garanties de long 
+
+
+terme et mesures transitoires 
+
+
+Impact des 
+
+
+transitoires sur les provisions techniques 
+
+
+transitoires sur les taux d'intérêt 
+
+Impact d'une correction pour volatilité fixée à zéro 
+
+
+ajustement égalisateur fixé à zéro 
+
+
+==================================================
+
+Page 47
+Fonds propres de base avant déduction pour participations dans d'autres secteurs financiers 
+
+Capital en actions ordinaires appelé non versé non disponible au niveau du groupe Compte de primes d'émission li au capital en actions ordinaires 
+
+Fonds initial , cotisations des membres ou élément de fonds propres de base équivalent Comptes mutualistes subordonnés 
+
+Comptes de primes d'émission lis aux actions de préférence , non disponibles au niveau Réserve de réconciliation 
+
+Montant égal à la valeur des actifs d'impôts différés nets non disponibles au niveau du Autres éléments approuvés par l'autorité de contrôle en tant que fonds propres de base Fonds propres non disponibles relatifs à d'autres éléments de fonds propres approuvés Intérêts minoritaires ( non déclarés dans le cadre d'un autre élément de fonds propres ) Intérêts minoritaires non disponibles au niveau du groupe 
+
+Fonds propres issus des états financiers qui ne devraient pas être inclus dans la réserve de réconciliation et qui ne respectent pas les critères de fonds propres de Solvabilité II 
+
+Fonds propres issus des états financiers qui ne devraient pas être inclus dans la réserve Déductions 
+
+Dductions pour participations dans d'autres entreprises financières , y compris des dont déduites conformément à l'article 228 de la directive 2009 / 138 / CE Dductions pour les participations lorsque les informations sont indisponibles ( article 229 ) Déduction pour les participations incluses par déduction et agrégation lorsqu'une 
+
+Capital en actions ordinaires non libéré et non appelé , appelable sur demande Fonds initial , cotisations des membres ou élément de fonds propres de base équivalents , 
+
+Actions de préférence non libérées et non appelées , appelables sur demande Engagements juridiquement contraignants de souscrire et de payer des passifs subordonnés sur demande 
+
+Lettres de crédit et garanties relevant de l'article 96 , paragraphe 2 , de la directive 2009 / 138 / CE 
+
+Lettres de crédit et garanties ne relevant pas de l'article 96 , paragraphe 2 , de la directive 2009 / 138 / CE 
+
+Rappels de cotisations en vertu de l'article 96 , point 3 , de la directive 2009 / 138 / CE Rappels de cotisations ne relevant pas de l'article 96 , paragraphe 3 , premier alinéa , de la Fonds propres auxiliaires non disponibles au niveau du groupe 
+
+Établissements de crédit , entreprises d'investissement , établissements financiers , gestionnaires de fonds d'investissement alternatifs , sociétés de gestion d'OPCVM Institution de retraite professionnelle 
+
+Fonds propres en cas de recours à la méthode de déduction et d'agrégation , soit Fonds propres agrégés en cas d'utilisation de la déduction et agrégation ou d'une Fonds propres agrégés en cas d'utilisation de la déduction et agrégation ou d'une Total des fonds propres disponibles servant à couvrir le capital de solvabilité requis du Total des fonds propres disponibles pour couvrir le minimum de capital de solvabilité Total des fonds propres éligibles servant à couvrir le capital de solvabilité requis du Total des fonds propres éligibles pour couvrir le minimum de capital de solvabilité requis Capital de solvabilité requis du groupe sur base consolide Minimum de capital de solvabilité requis du groupe sur base consolidée Ratio fonds propres éligibles sur capital de solvabilité requis du groupe sur base Ratio fonds propres éligibles sur minimum de capital de solvabilité re quis du Total des fonds propres éligibles servant à couvrir le capital de solvabilité requis Capital de solvabilité requis pour les entreprises incluses par déduction et Capital de solvabilité requis du groupe 
+
+Ajustement pour les éléments de fonds propres restreints relatifs aux portefeuilles sous Autres fonds propres non disponibles 
+
+
+R190 R0200 R210 
+
+
+R0230 R0240 
+
+
+R0270 R0280 R0290 
+
+
+R0570 R0590 R0610 
+
+
+R0650 R0660 
+
+
+R0700 R0710 
+
+
+60 650 60 650 
+
+
+442 834 199 275 205,79 % 457,31 % 911 316 
+
+
+442 834 205,79 % 
+
+
+Niveau 1 - non restreint 
+
+
+169 223 60 650 
+
+
+Niveau 1 - restreint 
+
+
+==================================================
+
+Page 48
+Capital de solvabilité requis  pour les entreprises qui utilisent la formule standard Données en K  
+
+
+Risque de marché 
+
+
+Risque de souscription en santé 
+
+Risque de souscription en non - vie Diversification 
+
+
+Capital de solvabilité requis de base 
+
+Capacité d'absorption des pertes des provisions techniques 
+
+Capacité d'absorption de pertes des impôts différés 
+
+
+Capital requis pour les activités exercées 
+
+Capital de solvabilité requis à l'exclusion des exigences de capital supplémentaire 
+
+Exigences de capital supplémentaire déjà définies Capital de solvabilité requis 
+
+Capital requis pour le sous - module risque sur actions fondé sur la durée 
+
+Total du capital de solvabilité requis notionnel pour la part restante 
+
+Total du capital de solvabilité requis notionnel pour les fonds cantonnés 
+
+Total du capital de solvabilité requis notionnel pour les portefeuilles sous ajustement égalisateur Effets de diversification dus à l'agrégation des nSCR des FC selon l'article 304 
+
+Minimum de capital de solvabilité requis du groupe sur base consolidée 
+
+Capital requis pour les autres secteurs financiers ( capital requis hors assurance ) 
+
+Capital requis pour les autres secteurs financiers ( capital requis hors assurance )  Établissements de Capital requis pour les autres secteurs financiers ( capital requis hors assurance )  Institutions de Capital requis pour les autres secteurs financiers ( capital requis hors assurance )  capital requis pour Capital requis pour les exigences relatives aux participations ne donnant pas le contrôle 
+
+
+Capital requis pour entreprises résiduelles 
+
+
+SCR global 
+
+SCR pour les entreprises incluses par déduction et agrégation 
+
+
+Capital de solvabilité requis brut 
+
+
+==================================================
+
+Page 49
+
+Type de code d'identification de 'entreprise 
+
+
+1 - LEI 
+
+
+Nom juridique de entreprise 
+
+
+CAMCA Mutuelle 
+
+
+1 - LEI 1 - LEI 1 - LEI 
+
+CAMCA Assurance CAMCA Courtage CAMCA Réassurance SCI 32 Liberté SCI Haussman 122 2 - Code spécifique SCI LA Boétie 65 
+
+
+1 - LEI 
+
+
+1 - LEI 
+
+
+1 - LEI 
+
+
+SCI Ségur 2 
+
+
+Type d'entreprise 
+
+2 - Entreprise d'assurance non - vie 2- Entreprise d'assurance non - vie 99 - Autre 
+
+Entreprise d'assurance non - vie 99 - Autre 99 - Autre 99 - Autre 99 - Autre 
+
+
+Forme juridique 
+
+Société d'assurance mutuelle Société anonyme Société anonyme Société anonyme Société de droit commun Socité de droit commun Socété de droit commun Société de droit commun 
+
+
+Catégorie ( mutuelle / non mutuelle ) 
+
+
+1- Mutuelle 
+
+
+Autorité de contrôle 
+
+
+Autorité de contrôle prudentiel et de résolution 
+
+2- Non mutuelle Commissariat aux assurances 2- Non mutuelle 
+
+2- Non mutuelle Commissariat aux assurances 2- Non mutuelle 2- Non mutuelle 2- Non mutuele 2- Non mutuelle 
+
+
+% utilisé pour 
+
+
+de vote 
+
+% de part de 'établissement % des droits capital des comptes consolidés 
+
+
+100,00 % 
+
+
+66,00 % 
+
+
+100,00 % 
+
+
+95,00 % 
+
+
+100,00 % 
+
+
+10000 % 
+
+
+10000 % 
+
+
+7634 % 
+
+
+100,00 % 
+
+
+100,00 % 
+
+
+100,00 % 
+
+
+100,00 % 
+
+
+Critères d'influence 
+
+
+10000 % 
+
+
+10000 % 
+
+
+10000 % 
+
+
+100,00 % 
+
+
+100,00 % 
+
+
+66,00 % 100,00 % 95,00 % 
+
+
+100,00 % 100,00 % 
+
+
+100,00 % 76,34 % 
+
+
+Autres Degré critères d'influence 
+
+
+Dominante 
+
+Dominante Dominante Dominante Dominante Domnante Domnante Domante 
+
+
+Part proportionnelle 
+
+
+utilisée pour le 
+
+
+calcul de la solvabilité du groupe 
+
+
+Inclusion dans le contrôle de groupe 
+
+
+Oui / Non 
+
+
+100,00 %  Incluse dans le contrôle du groupe 
+
+64,35 % 1- Incluse dans le contrôle du groupe 1- Incluse dans le contrôle du groupe 95,00 % 1 - Incluse dans le contrôle du groupe 1 Incluse dans le contrôle du groupe 
+
+
+ Incluse dans le contrôle du groupe 
+
+
+1- Incluse dans le contrôle du groupe 
+
+
+1- Incluse dans le contrôle du groupe 
+
+
+Date de la décision si 'article 214 s'applique 
+
+
+Calcul de solvabilité du groupe 
+
+Méthode utilisée et , en cas d'utilisation de la première méthode , traitement de 'entreprise 
+
+
+1 Première méthode ; Consolidation Intégrale 
+
+
+ Première méthode ; Consolidation Intégrale 
+
+
+1- Première méthode  Consolidation Intégrale 
+
+
+1- Première méthode ; Consolidation Intégrale 
+
+
+1- Première méthode  Consolidation Intégrale 
+
+
+1- Première méthode  Consolidation Intégrale 
+
+
+ Première méthode ; Consolidation Intégrale 
+
+
+1- Première méthode ; Consolidation Intégrale 
+

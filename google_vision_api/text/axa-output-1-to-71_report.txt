@@ -1,0 +1,2275 @@
+
+Page 1
+
+AA 
+
+
+AXA SA 
+
+
+Rapport 
+
+
+sur la Solvabilité 
+
+
+et la Situation Financière 
+
+
+2022 
+
+
+==================================================
+
+Page 2
+
+A. ACTIVITÉ ET RÉSULTATS 
+
+
+/ Informations générales 
+
+
+/ Informations sur la Société . 
+
+
+/ Opérations importantes et autres évènements 
+
+
+A.2 Résultats de souscription ... 
+
+
+/ Résultat de souscription agrégé 
+
+
+/ Résultat de souscription par ligne dactivité .. 
+
+
+B.2 Exigences de compétence et d'honorabilité . 
+
+
+/ Système de gestion des risques 
+
+/ Évaluation du risque propre et de la solvabilité ( ORSA ) .. 
+
+
+B.4 Système de contrôle interne . 
+
+ Pertes et profits directement comptabilisés en fonds propres ... 
+
+
+/ Contrats de location 
+
+
+B. SYSTÈME DE GOUVERNANCE . 
+
+B.1 Informations générales sur le système de gouvernance  
+
+
+/ Informations préliminaires .. 
+
+
+/ Évaluation du capital de Solvabilité  requis . 
+
+
+C.1 Risque de souscription ... 
+
+
+/ Exposition au risque d'assurance .. 
+
+
+/ Contrôle et atténuation .. 
+
+
+==================================================
+
+Page 3
+
+/ Contrôle et atténuation . 
+
+
+C.3 Risque de crédit  
+
+
+/ Exposition au risque de crédit 
+
+/ Contrôle et atténuation . C.4 Risque de liquidité 
+
+
+C.5 Risque opérationnel .. 
+
+
+/ Principes généraux  
+
+
+C.6 Autres risques importants ...... 
+
+
+/ Risque de Réputation .... 
+
+
+/ Risques Emergents 
+
+
+/ Valorisation à la juste valeur ...... 
+
+
+/ Actifs incorporels  
+
+
+/ Impôts différés 
+
+
+ mmobilisations corporelles pour usage propre 
+
+
+/ Placements et prêts . 
+
+
+/ Créances nées d'opération d'assurance . 
+
+/ Actifs détenus pour des fonds indexés et des fonds en unités de compte .. 
+
+
+/ Gains et pertes de change non réalisés 
+
+
+/ Autres actifs ... 
+
+
+D.2  Provisions techniques .. 
+
+
+/ Principes généraux 
+
+Déclaration sur l'utilisation des mesures transitoires pour les provisions 
+
+
+/ Marge de risque 
+
+ Part des réassureurs dans les provisions techniques 
+
+
+/ Changements importants des hypothèses en 2022 . 
+
+
+D.3- Autres passifs .... 
+
+/ Provisions autres que les provisions techniques ..... 
+
+
+==================================================
+
+Page 4
+
+/ Dettes financières ... 
+
+
+/ Dettes et dépôts des réassureurs 
+
+
+/ Autres dettes 
+
+
+E.1 Fonds propres 
+
+
+/ Objectifs de la gestion du capital . 
+
+
+ Information sur la structure du capital .. 
+
+
+ Variation des ressources en capital en 2022 
+
+
+/ Analyse du capital par niveau . 
+
+/ Réconciliation avec les capitaux propres statutaires 
+
+E.2 Capital de solvabilité requis et minimum de capital requis . .. / Principes généraux 
+
+ Capital de solvabilité requis ( Solvency Capital Requirement - SCR ) . 
+
+/ Minimum de capital requis ( Minimum Capital Requirement - MCR ) E.4 Différences entre la formule standard et tout modèle interne utilisé  E.6 Autres informations 
+
+
+Annexe  Modèles de déclaration quantitative .. 
+
+
+==================================================
+
+Page 5
+Le présent rapport constitue le Rapport sur la Solvabilité et la Situation Financière ( Solvency and Financial Condition Report   SFCR » ) d'AXA SA au 31 décembre 2022 ( le « Rapport » ) , établi conformément à l'article 51 de la Directive 2009 / 138 / CE ( la  Directive  ) et aux articles 290 à 298 du Règlement Délégué 2015/35 ( le  Règlement » et , avec la Directive , le « Règlement Solvabilité I » ) . Le Rapport a été préparé conformément à la Réglementation Solvabilité  régissant les rapports de réassurance et aux directives de l'Autorité Européenne des Assurances et des Pensions Professionnelles et de l'Autorité de Contrôle Prudentiel et de Résolution ( ACPR ) , et a pour seul objectif de répondre aux exigences de cette réglementation . Les informations pertinentes sur les activités d'AXA sont fournies dans le Document de Référence Universel d'AXA pour l'exercice clos le 31 décembre 2022 ( le " Document de Référence Universel " ) , qui est disponible sur le site Internet d'AXA ( www.axa.com ) . Conformément à l'article 51 de la Directive , certaines informations contenues dans ce Rapport sont incorporées par référence au Document d'Enregistrement Universel . Aucune information , document ou matériel provenant du site Internet de la Société ou de toute autre source ne fera partie du présent Rapport , à moins que cette information , ce document ou ce matériel ne soit expressément incorporé par référence dans le présent Rapport . Il existe toutefois certaines exigences spécifiques du SFCR qui n'ont pas encore été rendues publiques ailleurs et qui sont spécifiquement incluses dans le présent Rapport . 
+
+Avertissement relatif aux déclarations prospectives 
+
+Le présent Rapport peut contenir des déclarations portant sur des événements futurs , des tendances , des projets , des attentes ou des objectifs ainsi que d'autres déclarations prospectives portant sur l'activité future , la situation financière , les résultats , la performance et la stratégie du Groupe . Les déclarations prospectives n'énoncent pas des faits historiques et peuvent contenir les termes  peut » ,  va » , « devrait » , « continue  ,  vise   ,  estime  ,  projette  ,  croit  ,  envisage » ,  attend  ,  prévoit  ,  cherche  ou « anticipe  ou des termes de sens similaire . Ces déclarations se fondent sur les opinions et hypothèses formulées à ce jour par la Direction et comportent , par nature , des risques et des incertitudes , identifiés ou non ; par conséquent , il convient de ne pas y accorder une importance excessive . La situation financière , les résultats , la performance ou les événements réellement observés peuvent différer significativement de ceux indiqués dans ou induits par ces déclarations prospectives , en raison d'un certain nombre de facteurs , comprenant notamment 'environnement économique et politique et la situation concurrentielle , les conditions de marché et leur évolution , notamment la fluctuation des taux de change et des taux d'intérêt , la fréquence et la gravité des sinistres assurés et laugmentation des frais de sinistres , le niveau et lévolution de la mortalité et de la morbidité , les niveaux de rétention des portefeuilles de contrats , les changements en matière législative , réglementaire et normative , limpact des acquisitions et des cessions , y compris les problématiques d'intégration et les mesures de réorganisation y afférentes et , dune manière générale , les facteurs de compétitivité , dans chacun des cas , à léchelle locale , régionale , nationale et / ou mondiale . La survenance d'événements catastrophiques , en ce compris les catastrophes liées aux conditions météorologiques , aux pandémies , aux actes de terrorisme ou aux actes de guerre , pourrait avoir comme conséquence d'accroître 'occurrence et / ou l'impact de certains de ces facteurs . Une description de certains facteurs , risques et incertitudes importants susceptibles d'influer sur les activités et / ou les résultats du Groupe figure en Partie 5  Facteurs de risque et gestion des risques » du Document d'Enregistrement Universel . AXA ne s'engage en aucune façon à publier une mise à jour ou une révision de ces déclarations prospectives , que ce soit pour refléter de nouvelles informations , des événements ou circonstances futurs ou pour toute autre raison , sous réserve des exigences législatives et réglementaires applicables . 
+
+CERTAINES INFORMATIONS PRÉLIMINAIRES CONCERNANT CE RAPPORT SFCR 
+
+Transformation dAXA SA en réassureur interne du Groupe 
+
+Le 10 mai 2022 , AXA SA a obtenu l'agrément administratif de l'Autorité de Contrôle Prudentiel et de Résolution en tant que société de réassurance et a achevé , au 30 juin 2022 , sa transformation en réassureur interne au Groupe , suite à sa fusion avec sa captive de réassurance , AXA Global Re . 
+
+
+==================================================
+
+Page 6
+La fusion a été réalisée conformément aux dispositions des articles L. 236-1 et suivants et R. 236-1 et suivants du Code de commerce , et notamment de l'article L. 236-11 du Code de commerce relatif aux fusions simplifiées . 
+
+La fusion a un effet comptable rétroactif au 1er janvier 2022. En conséquence , toutes les opérations actives et passives effectuées par AXA Global Re ( en tant que société absorbée ) à compter du 1er janvier 2022 , relatives aux actifs apportés et aux passifs repris , seront considérées comme ayant été effectuées pour le compte d'AXA SA ( en tant que société absorbante ) . 
+
+Immédiatement avant la réalisation de la fusion , l'activité de gestion opérationnelle de réassurance ainsi que tous les contrats de travail en cours et les ressources attachées à cette activité d'AXA Global Re (    Activité " ) ont été transférés au GIE AXA . 
+
+Les moyens nécessaires à l'exercice de l'activité de réassurance sont mis à disposition de ce segment et les coûts des salariés du GIE AXA affectés à ces missions sont refacturés par le GIE AXA au segment réassurance d'AXA SA . 
+
+Le transfert de l'Activité au GIE AXA , qui regroupe les fonctions centrales du Groupe AXA , permet de renforcer le caractère stratégique de la réassurance interne du Groupe AXA , tout en assurant la sécurité opérationnelle de la nouvelle activité de réassurance d'AXA SA et en permettant la création de valeur pour les différentes entités du Groupe AXA . 
+
+Les comptes annuels de la Société pour l'exercice 2022 ont été établis à la suite de la fusion - absorption d'AXA Global Re par la Société , conformément aux dispositions comptables prévues au titre IV du livre  du Code des assurances et au règlement de l'Autorité des Normes Comptables ( ANC ) n 2015-11 du 26 novembre 2015 , homologué par l'arrêté du 28 décembre 2015 , relatif aux comptes annuels des entreprises d'assurance , modifié par le règlement ANC n  2016-12 du 12 décembre 2016 , modifié par le règlement ANC n ° 2018-08 du 11 décembre 2018 et modifié par le règlement ANC n  2020-11 du 22 décembre 2020. En l'absence de dispositions spécifiques prévues par le règlement ANC n 2015-11 précité , les dispositions du règlement ANC n 2014-03 relatif au plan comptable général sont applicables . 
+
+Les comptes statutaires et Solvabilité  de la Société sont toujours établis sous deux segments internes distincts  l'activité de holding et l'activité de réassurance . Les comptes de ces deux segments sont ensuite agrégés pour constituer les comptes statutaires et Solvabilité  de la Société . 
+
+Suite à cette transformation , les activités peuvent être réparties comme suit : 
+
+En tant que société holding du Groupe AXA , la poursuite des activités de Holding historiques du Groupe AXA . Celles - ci restent inchangées par rapport au bilan de la société avant la fusion et représentent de loin la majeure partie de son bilan et de son compte de résultat à l'avenir , 
+
+et en tant que société captive de réassurance du Groupe AXA , la poursuite des activités de Réassurance en centralisant la négociation et le placement de la réassurance cédée protégeant le Groupe . Ceci est réalisé par des traités de réassurance internes non proportionnels ( par exemple , en excédent de sinistre ) et proportionnels par lesquels la Société réassure les entités locales d'AXA et cède les risques auprès de réassureurs tiers . 
+
+
+Présentation de l'information 
+
+
+Dans ce Rapport , sauf indication contraire  
+
+la  Société  , et / ou  AXA SA  font référence à AXA SA , société anonyme organisée selon les lois françaises . AXA SA est la société de réassurance des entités d'assurance dommages et vie du Groupe ΑΧΑ . 
+
+" 2021 " ou " 31 décembre 2021 " sont les états financiers audités d'AXA SA et d'AXA Global Re 2021 respectivement . Le cas échéant , " 2021 Proforma " ou " 31 décembre 2021 , Proforma " est le total non audité d'AXA SA et d'AXA Global Re uniquement à des fins de comparaison . 
+
+
+==================================================
+
+Page 7
+Conformément à la réglementation Solvabilité  , vous trouverez ci - dessous un résumé de chaque section de ce rapport . Veuillez - vous référer à chaque section dans son intégralité , y compris aux documents qui y sont incorporés par référence , le cas échéant . 
+
+L'Union Européenne a élaboré un nouveau régime réglementaire pour les assureurs européens qui est entré en vigueur le 1er janvier 2016 , suite à l'adoption de la Directive Solvabilité  de 2009 sur l'accès aux activités d'assurance et de réassurance et leur exercice , modifiée en 2014 par la Directive 2014 / 51 / EU (   Omnibus   ) . Ce régime vise à mettre en uvre des exigences de solvabilité qui reflètent mieux les risques auxquels les compagnies d'assurance sont confrontées et à établir un système de surveillance cohérent dans tous les États membres européens . Le cadre Solvabilité  repose sur trois piliers principaux : ( 1 ) le premier pilier consiste en des exigences quantitatives concernant les fonds propres , les règles d'évaluation des actifs et des passifs et les exigences de capital ; ( 2 ) le deuxième pilier définit des exigences qualitatives pour la gouvernance et la gestion des risques des assureurs , ainsi que pour la surveillance efficace des assureurs , y compris l'obligation pour les assureurs de soumettre une évaluation de leur propre risque et de leur solvabilité ( ORSA ) qui sera utilisée par le régulateur dans le cadre du processus de surveillance prudentielle ; et ( 3 ) le troisième pilier se concentre sur des exigences renforcées en matière de rapport et de divulgation . Le cadre Solvabilité  couvre , entre autres , l'évaluation des actifs et des passifs , le traitement des groupes d'assurance , la définition des fonds propres et le niveau du capital requis . 
+
+Les développements opérationnels significatifs survenus au cours de la période incluent les nouveaux traités de réassurance en quote - part ( " QS " ) pour l'assurance dommages mis en uvre en 2022 ( 3 082 millions d'euros sur les primes en 2022 ) , dans le cadre de la transformation de la Société en un réassureur agréé . 
+
+
+Notre activité et nos résultats ( Section A ) 
+
+La Société , en tant que holding du Groupe AXA , gère les activités de gestion du capital du Groupe afin d'optimiser l'utilisation et le rendement du capital . Elle centralise le capital excédentaire du Groupe et fournit l'accès au financement externe ( dettes , capitaux propres , facilités de crédit ) . La Société gère également le taux d'intérêt de ses dettes ainsi que l'exposition de ses participations aux variations de change par le biais de produits dérivés pour couvrir le bilan consolidé . 
+
+Bien que l'utilisation de produits dérivés ait diminué au niveau de la Société , les résultats statutaires de la Société peuvent être fortement influencés par les gains et les pertes non réalisés sur les produits dérivés utilisés pour couvrir , en particulier , les risques de change et de taux d'intérêt . En outre , depuis qu'elle est devenue un réassureur réglementé en 2022 , la Société exerce des activités de réassurance dont les ressources et les besoins en liquidités font l'objet d'un suivi distinct . 
+
+La Société est la captive de réassurance du Groupe AXA . Elle réassure les entités d'assurance du Groupe AXA en Dommages et en Vie . 
+
+La société est en charge de l'analyse , de la structuration et du placement des traités de réassurance pour le compte des compagnies d'assurance du Groupe AXA auprès d'une sélection de réassureurs tiers , tout en conservant une part de ces protections en conformité avec l'appétit au risque du Groupe et d'AXA SA . 
+
+Le total du chiffre d'affaires brut augmente de 1971 millions d'euros pour atteindre 5 934 millions d'euros en 2022 contre 3 963 millions d'euros en 2021 , principalement en raison des traités de réassurance en quote part Dommages mis en place en 2022 ( 3 082 millions d'euros d'impact sur les primes en 2022 ) , partiellement compensés par la non - récurrence d'un autre traité de réassurance interne . 
+
+Le résultat net de l'activité de holding diminue de  190 millions d'euros à 2 629 millions d'euros , principalement en raison de - 187 millions d'euros de produits et charges non techniques , dont  123 millions d'euros de provisions pour moins - values latentes sur options dans le cadre de la liquidité de la Société et - 40 
+
+
+==================================================
+
+Page 8
+Le résultat net des activités de réassurance avant impôts diminue de - 73 millions d'euros à 180 millions d'euros , principalement en raison de - 125 millions d'euros de marge technique nette hors frais généraux , partiellement compensés par + 40 millions d'euros de résultat financier net . Le ratio combiné net de réassurance s'établit à 87,0 % pour 2022 , en amélioration de 1,3 point par rapport à 88,3 % pour 2021 . 
+
+Le résultat net de la Société s'élève à 2 809 millions d'euros contre 2 819 millions d'euros en 2021 , ce dernier ne comprenant que l'activité de holding . 
+
+
+Notre système of gouvernance ( Section B ) 
+
+AXA SA est une société anonyme française et la société holding du Groupe AXA , ainsi qu'un réassureur agréé depuis mai 2022. La société fonctionne avec un Conseil d'Administration unitaire , un Président et un Directeur Général . 
+
+La Direction Générale de la Société comprend le Directeur Général et les deux Directeurs Généraux Adjoints qui , en vertu de la Directive Solvabilité I , sont considérés comme les " personnes qui dirigent effectivement " la Société ( dirigeants effectifs ) . Le Conseil d'Administration est assisté de trois comités : le Comité d'Audit , le Comité des Finances et des Risques et le Comité des Rémunérations , de la Gouvernance et du Développement Durable . 
+
+Comme le décrit plus en détail la section B.2 . du Rapport , la Société a quatre fonctions clés , comme l'exige la réglementation Solvabilité II : 1 ) la Gestion des Risques , 2 ) la Conformité , 3 ) l'Audit Interne et 4 ) l'Actuariat . Chaque titulaire d'une fonction clé a un lien direct avec l'une des personnes qui dirigent effectivement la société ( dirigeants effectifs ) et un accès direct au Conseil d'Administration . 
+
+En tant que société holding du Groupe AXA , la Société porte dans son bilan et assure la gestion des investissements dans les filiales du Groupe . Elle pilote et contrôle les activités stratégiques , financières , réglementaires , de communication , de ressources humaines et de contrôle du Groupe . La Société est responsable des opérations de fusion - acquisition , du financement externe ( accès , relations avec les investisseurs , dividendes ) et des activités de couverture du Groupe AXA . En tant que société de réassurance , AXA SA est engagée dans la réassurance des entités AXA Dommages et Vie dans le monde entier . 
+
+Par conséquent , la Société est exposée à une grande variété de risques , y compris des risques financiers , des risques de réassurance et d'autres types de risques . 
+
+En tant que partie intégrante de tous les processus opérationnels , la Direction de la Gestion des Risques est responsable de la définition et du déploiement du cadre de gestion des risques d'entreprise ( Enterprise Risk Management  ERM ) au sein de la société , y compris la conduite de l'évaluation du risque propre et de la solvabilité ( ORSA ) . 
+
+Afin d'atténuer la grande variété de risques auxquels elle est exposée , la Société a mis en place un système complet de contrôles internes visant à garantir que les dirigeants sont informés des risques importants en temps voulu et de manière continue , qu'ils disposent des informations et des outils nécessaires pour analyser et gérer ces risques de manière appropriée , et que les états financiers de la Société et les autres informations publiées sur le marché sont exacts et publiés en temps voulu . 
+
+
+Notre profil de risques ( Section C ) 
+
+En présentant les risques ci - dessous , la Direction a hiérarchisé les trois catégories de risques d'une manière qui correspond à sa vision actuelle de l'impact potentiel ( du plus élevé au moins élevé ) des risques pour la Société . 
+
+
+==================================================
+
+Page 9
+La Société est exposée aux risques financiers par le biais de ses participations dans des entités , des investissements soutenant ses activités de réassurance et du financement de ses activités de holding dans le cadre de la gestion du capital . 
+
+Les principaux risques financiers pour la Société sont les suivants : 
+
+le risque de capitaux propres et de concentration lié à son rôle de holding , 
+
+le risque de change lié à ses participations en devises étrangères , 
+
+le risque de taux d'intérêt et de l'écart de rendement lié à ses investissements et à ses financements , le risque de crédit , 
+
+
+le risque de liquidité . 
+
+Un large éventail de techniques de gestion des risques est utilisé pour contrôler et atténuer les risques de marché auxquels la Société est exposée . Ces techniques comprennent des stratégies de couverture , la gestion de l'actif et du passif ( ALM ) , un processus discipliné d'approbation des investissements , un suivi régulier de la position de liquidité et de solvabilité de la Société , ainsi que la réassurance qui offre également des solutions pour atténuer certains risques financiers . 
+
+Risques liés à la portée et à la nature de nos activités , aux contrats que nous vendons et à nos opérations Les risques de souscription en réassurance sont couverts par quatre processus majeurs , définis au niveau du Groupe mais exécutés conjointement par des équipes centrales et locales , afin de contrôler et d'atténuer ces risques : 
+
+Contrôles des risques sur les nouveaux traités qui complètent les règles de souscription et les analyses de rentabilité , 
+
+Optimisation des stratégies de réassurance cédée afin de limiter les pics d'exposition de la Société en protégeant sa solvabilité par la réduction de la volatilité , 
+
+
+Réviser les réserves techniques , 
+
+Surveiller les risques émergents afin de partager l'expertise au sein des communautés de souscription et de risque . 
+
+Risques liés à l'évolution de l'environnement réglementaire et concurrentiel dans lequel la société opère 
+
+En plus des risques qui apportent une charge en capital par le biais du calcul du Capital de Solvabilité Requis ( SCR ) , le Groupe AXA , et donc également la Société , prend en compte le risque de liquidité , le risque de réputation , le risque stratégique , le risque réglementaire ainsi que les menaces émergentes et l'impact des scénarios défavorables transversaux . 
+
+Valorisation à des fins de solvabilité ( Section D ) 
+
+Le bilan Solvabilité I d'AXA SA a été établi au 31 décembre 2022 , conformément à la réglementation Solvabilité I . 
+
+
+Gestion du capital ( Section E ) 
+
+Le ratio de solvabilité I au 31 décembre 2022 s'élève à 254 % , il a augmenté de + 12 points par rapport au 31 décembre 2021 sur une base proforma . 
+
+Les fonds propres éligibles ( EOF ) ont augmenté de + 3 709 millions d'euros pour atteindre 58 317 millions d'euros , au cours de la période , sous l'effet d'un rendement total ( +2 647 millions d'euros ) et de la comptabilisation des dettes subordonnées ( + 6 047 millions d'euros ) , partiellement compensés par un dividende et un programme de rachat d'actions prévus en 2023 ( - 4 950 millions d'euros ) . 
+
+
+==================================================
+
+Page 10
+Le Capital de Solvabilité Requis ( SCR ) a augmenté de + 369 millions d'euros pour atteindre 22 961 millions d'euros après diversification , principalement en raison de l'évolution des risques de marché et des risques Dommages . 
+
+
+( En millions d'euros , sauf pourcentages ) 
+
+
+Bilan prudentiel 
+
+
+Dont : Activité Holding 
+
+
+Activités de Réassurance 
+
+
+2021 Proforma 
+
+
+2021 AXA SA 
+
+
+2021 AXA Global 
+
+
+==================================================
+
+Page 11
+
+Informations générales 
+
+
+Principaux actionnaires et entreprises liées 
+
+Opérations importantes et autres évènements A.2 Résultats de souscription 
+
+
+Résultat de souscription agrégé 
+
+Résultat de souscription par zone géographique Résultat de souscription par ligne d'activité 
+
+
+A.3 Résultats des investissements 
+
+
+Résultat des placements nets 
+
+Pertes et profits directement comptabilisés en fonds propres 
+
+
+A.4 Résultats des autres activités 
+
+
+Résultat net 
+
+
+A.5 Autres informations 
+
+
+==================================================
+
+Page 12
+
+ Informations générales 
+
+La Société est la holding de tête du Groupe AXA , leader mondial de l'assurance , avec un total d'actifs de 94,2 milliards d'euros au 31 décembre 2022. AXA SA est en outre la société de réassurance interne des opérations d'assurance Dommages et Vie . 
+
+Des informations sur la structure de gouvernance de la Société figurent dans la section B " Système de gouvernance " de ce Rapport . 
+
+Les principales transactions au sein de la Société sont la gestion des investissements dans les filiales , le financement , la réassurance , les opérations de couverture et les garanties hors bilan . 
+
+ la fin de l'année 2022 , les titres de participation dans les filiales de la Société sélevaient à 75,4 milliards d'euros . En 2022 , elle a reçu 4,3 milliards d'euros de dividendes . Les principaux titres de participation sont liés  AXA France Vie et s'élevaient à 10,1 milliards d'euros . La Société était sur une position emprunteuse avec ses filiales pour 15,5 milliards d'euros et sur une position prêteuse pour un total de 0,4 milliard d'euros , sur une base statutaire . 
+
+Des informations complémentaires sur ( i ) la participation d'AXA SA dans ses filiales , ( ii ) les dividendes reçus par la Société de ses filiales , ( iii ) les créances d'AXA SA sur ses filiales , et ( iv ) les prêts accordés par la Société à ses filiales sont inclus dans ce Rapport par renvoi à l'Annexe I aux pages 480 à 482 , à la page 492 et aux pages 506  509 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+Réassurance 
+
+Les entités opérationnelles du Groupe sont essentiellement réassurées par la Société , dont le montant total recouvrable de réassurance sélève à 4,7 milliards d'euros en 2022 . 
+
+Une partie de l'exposition au risque est conservée et mutualisée au sein de la Société au travers des couvertures internes Groupe ( y compris des pools ) et la part restante est cédée à des réassureurs tiers . 
+
+Des informations supplémentaires sur les pools qui s'appliquent à la Société sont incluses dans ce Rapport par renvoi à la Section 5.6 " Risques d'assurance - Stratégie de réassurance " à la page 283 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+Opérations de couverture 
+
+ la fin de l'année 2022 , les produits dérivés étaient enregistrés pour un montant notionnel de 43,0 milliards d'euros . 
+
+
+Garanties hors bilan 
+
+Des garanties internes hors bilan sont émises par la Société en faveur de ses filiales et s'élèvent à 7,3 milliards d'euros . 
+
+Des informations complémentaires sur les garanties données par la Société à ses filiales sont incluses dans ce Rapport par renvoi à la Note 28.3 " Prêts / garanties / participation au capital , etc. " de la Partie 6 " Etats financiers consolidés " aux pages 433 et 434 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 13
+
+ Informations sur la Société 
+
+
+AXA SA , Société Anonyme 
+
+AXA SA est une société anonyme de droit français , constituée et existant selon les lois de la France . 
+
+Son siège social se situe 25 , avenue Matignon , 75008 Paris , France et son numéro de téléphone est le + 33 ( 0 ) 1 40 75 57 00 . 
+
+La Société a été constituée en 1957 , toutefois , lorigine de ses activités remonte à 1852. Lexistence de la Société se poursuivra , sauf dissolution anticipée ou prorogation jusqu'au 31 décembre 2059. La Société est immatriculée au Registre du commerce et des sociétés de Paris sous le numéro 572 093 920 . 
+
+
+Autorité de supervision 
+
+Le principal superviseur d'AXA SA est l'Autorité de Contrôle Prudentiel et de Résolution (   ACPR  ) et est également le principal superviseur du Groupe AXA . 
+
+AXA SA exerce des activités réglementées à l'échelle mondiale . Étant donné qu'AXA SA a son siège social  Paris , en France , cette supervision est basée dans une large mesure sur les directives de l'Union Européenne et sur le système réglementaire français . 
+
+AUTORITE DE CONTROLE PRUDENTIEL ET DE RESOLUTION : 4 , Place de Budapest CS 92459 - 75436 Paris , +33 ( 0 ) 1 49 95 40 00 
+
+
+Commissaires aux comptes 
+
+Les commissaires aux comptes sont PriceWaterhouseCoopers Audit et Ernst & Young Audit . 
+
+PriceWaterhouseCoopers ( " PWC " ) Audit : 63 , rue de Villiers  92208 Neuilly - sur - Seine Cedex , représenté par Mme Bénédicte Vignon et M. Grégory Saugner , dont le premier mandat a débuté le 28 février 1989. Le mandat actuel est d'une durée de 6 ans , jusqu'à l'assemblée générale des actionnaires appelée à statuer sur les comptes de l'exercice 2023 . 
+
+Ernst & Young ( " E & Y " ) Audit : 1-2 place des Saisons - Paris le Défense 1 - 92 400 Courbevoie , représenté par Olivier Durand et Patrick Menard . Le mandat actuel est d'une durée de 6 ans , jusqu'à l'assemblée générale des actionnaires appelée à approuver les comptes de l'exercice 2027 . 
+
+
+ Principaux actionnaires et entreprises liées 
+
+
+Détention du capital et droits de vote 
+
+Une description des détenteurs de participations qualifiés dans AXA SA est incluse dans ce Rapport par renvoi aux pages 451 à 453 de la Section 7.2  Capital social  Répartition du capital  du Document Enregistrement Universel 2022 d'AXA . 
+
+
+Entreprises liées significatives 
+
+Une liste des filiales de la Société et des entreprises liées importantes sont incluses dans ce Rapport par renvoi aux pages 506  509 en Annexe  du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 14
+
+Structure simplifiée du Groupe 
+
+Le diagramme ci - dessous présente la structure simplifiée du Groupe au 31 décembre 2022 . 
+
+
+MUTUELLES AXA 
+
+
+15.37 % / ( 25.67 % ) ( * ) 
+
+
+ Présentation de l'activité 
+
+
+SOCIETES HOLDINGS & FILIALES 
+
+
+76.72 % / ( 65.23 % ) ( * ) 
+
+
+3.71 % / ( 3.10 % ) ( * ) 
+
+Lignes d'activité et zones géographiques importantes 
+
+AXA SA est la société captive de réassurance du Groupe AXA . Elle réassure les entités d'assurance du Groupe AXA tant en Dommages qu'en Vie . 
+
+
+ Opérations importantes et autres évènements 
+
+AXA SA est en charge de l'analyse , de la structuration et du placement des traités de réassurance pour le compte des sociétés d'assurance du Groupe AXA auprès d'une sélection de réassureurs tiers tout en conservant une part de ces protections dans le respect de l'appétence au risque du Groupe et d'AXA SA . 
+
+(  ) % du capital / ( % droits de vote ) ensemble , au 31 Décembre 2022 
+
+Les principales zones géographiques sont présentées dans la section A.2 , dans laquelle la performance de souscription par zone géographique est présentée . 
+
+Développements commerciaux importants et autres événements 
+
+Campagne de financement 2022 ( activités de holding ) 
+
+
+Dividendes reçus des filiales du groupe 
+
+Les dividendes reçus par la Société de ses filiales se sont élevés à 4 345 millions d'euros en 2022 ( 3 495 millions d'euros en 2021 ) , dont 1 939 millions d'euros libellés dans des devises autres que l'euro ( 1 763 millions € en 2021 ) . 
+
+
+==================================================
+
+Page 15
+Les intérêts payés par la Société en 2022 se sont élevés à 988 millions d'euros ( 921 millions d'euros en 2021 ) , dont 290 millions d'euros d'intérêts sur les dettes subordonnées à durée indéterminée ( 265 millions € en 2021 ) . Les dividendes versés aux actionnaires d'AXA SA en 2022 au titre de l'exercice 2021 se sont élevés à 3 539 millions d'euros , soit 1,54 euro par action , contre 1,43 euro par action versé en 2021 au titre de l'exercice 2020 ( 3 403 millions d'euros au total ) . Ces dividendes ont été payés en numéraire . 
+
+En 2022 , la Société a racheté 2 311 millions d'euros de ses propres actions à des fins autres que l'élimination de l'impact dilutif sur le résultat opérationnel par action du Groupe des opérations d'actionnariat réservées aux salariés et / ou de l'exercice d'options sur actions , dont ( i ) 803,3 millions d'euros dans le cadre du programme de rachat d'actions de 1 700 millions d'euros annoncé en novembre 2021 , ( ii ) 500 millions d'euros dans le cadre du programme de rachat d'actions annoncé en février 2022 , et ( iii ) 1 000 millions d'euros dans le cadre d'un programme de rachat d'actions discrétionnaire annoncé en septembre 2022 . 
+
+Pour plus d'informations , veuillez - vous référer à l'Annexe  du Document de Référence Universel 2022 d'AXA . 
+
+Campagne de renouvellement 2022 ( activités de Réassurance ) 
+
+La campagne de renouvellement de la réassurance en 2022 a été marquée par les tensions importantes sur les marchés CAT et Cyber , suite aux pertes élevées du secteur des catastrophes naturelles ( " Nat CAT " ) et aux inquiétudes concernant la tendance à la hausse des incidents liés aux risques Cyber . 
+
+Le total des pertes assurées en NAT CAT a atteint 116 milliards de dollars en 2021 , soit 63 % de plus que la moyenne sur 10 ans . Le déploiement des titres obligataires spécifiques appelés Insurance Linked Securities ( " ILS " ) , qui fournit essentiellement une capacité rétroactive , s'est contracté d'environ 25 % . En raison du moindre accès à la capacité rétroactive , de nombreux réassureurs ont considérablement limité leur appétit pour la CAT ( ou l'ont complètement abandonnée , comme Unipol Re ) , se sont tournés vers la Non - CAT pour rééquilibrer la composition de leur portefeuille et ont limité l'élasticité des prix dans le déploiement de la capacité . 
+
+Une augmentation significative des tarifs s'est matérialisée en CAT , l'Europe étant au cœur de la refonte des tarifs . La CAT européenne a enregistré des augmentations de taux allant jusqu'à plus de 50 % pour les comptes affectés par les pertes , tandis que les taux américains ont augmenté jusqu'à + 25 % sur une base ajustée au risque . L'augmentation des tarifs en rétro a été de plus de 30 % ( lorsque la capacité était encore offerte ) avec une variabilité significative et des défis particuliers pour les couvertures globales et les couches inférieures . 
+
+En ce qui concerne les renouvellements non CAT , les renouvellements Cyber ont connu une hausse significative des tarifs avec une augmentation moyenne d'environ 20 % ajustée au risque , principalement due à la prudence des réassureurs face à la forte augmentation des attaques et au coût moyen des rançongiciels sur le marché primaire . Les autres branches d'activité ont été globalement renouvelées sur leur performance . Les réassureurs ont cherché à récupérer les pertes et ont mis en avant l'inflation pour tenter d'augmenter les tarifs dans toutes les branches . 
+
+Globalement , les programmes de réassurance du Groupe AXA 2022 visent à ( 1 ) respecter les limites de l'appétit au risque du Groupe ; ( 2 ) continuer à limiter l'impact potentiel de la volatilité des sinistres CAT et d'origine humaine et ( 3 ) optimiser les structures suite à l'évolution de l'exposition ( principalement la réduction de l'exposition d'AXA XL ) et naviguer dans un environnement qui ne cesse de se durcir . 
+
+
+Principaux changements en 2022 
+
+Les principaux changements apportés au programme CAT Groupe sont les suivants : ( 1 ) non - renouvellement du traité global en Excédent de Pertes ( " XL " ) de la Société ; ( 2 ) renouvellement du traité XL CAT Groupe avec (  ) des priorités globalement stables , à l'exception d'une priorité inférieure des sinistres de types ouragan et / ou tremblement de terre de la zone Atlantique Nord , ( ii ) moins de capacité achetée pour les risques de 
+
+
+==================================================
+
+Page 16
+En ce qui concerne les renouvellements des risques non - CAT , les couvertures Groupe ont été renouvelées pour la plupart à l'échéance . Les principaux changements sont : ( 1 ) des placements autonomes distincts pour les couvertures collectives de Responsabilité Civile Automobile ( " RCMA " ) et Accident du travail / Indemnisation des travailleurs ( " AT / AT " ) par rapport au traité combiné en 2021 , en raison de difficultés de placement et d'un appétit limité pour la couverture groupée complexe ; ( 2 ) un traité quote - part Cyber collectif unifié avec un champ d'application élargi aux entités et un traité en excédent agrégé collectif recalibré avec une priorité inférieure par rapport à 2021 . 
+
+Suite à la transformation de la Société en société de réassurance réglementée en 2022 , AXA SA réassure pour 2022 certaines de ses sociétés européennes d'assurance Dommages , au travers de traités de réassurance en quote - part de 25 % , renouvelables annuellement , avec effet rétroactif au 1er janvier 2022 . 
+
+L'année 2022 a été principalement marquée par des sinistres CAT qui ont affecté le pool Property suite aux tempêtes de grêle en Europe . 
+
+Les autres branches d'activité d'AXA SA n'ont pas été touchées par des sinistres significatifs . 
+
+Notations de la solidité financière et du risque de contrepartie 
+
+A la date de ce Rapport , les principales notations pour la Société sont les suivantes : 
+
+AM Best  Le 8 juillet 2022 , AM Best a attribué à AXA S.A. la note de solidité financière " A + ( Superior ) " , avec une perspective stable , ainsi que la note de crédit émetteur à long terme " aa- ( Superior ) " . 
+
+Moody's : Le er juillet 2022 , Moody's Investors Service a réaffirmé la note de solidité financière des principales filiales d'AXA  " Aa3 " , avec une perspective stable . Moody's Investors Service a également attribué à AXA S.A. la note de solidité financière " Aa3 " et a relevé la note de la dette senior à long terme d'AXA S.A. de " A2 " à " A1 " . 
+
+S & P : Le 28 mars 2022 , S & P Global Ratings a réaffirmé la note de solidité financière des filiales opérationnelles d'AXA core à " AA- " , avec une perspective stable . Le 11 mai 2022 , S & P Global Ratings a également attribué à AXA S.A. une note de solidité financière de " A + " et a relevé la note de crédit émetteur à long terme d'AXA S.A. de " A " à " A + " . 
+
+
+==================================================
+
+Page 17
+
+ Résultat de souscription agrégé 
+
+
+Résultat opérationnel hors résultat financier 
+
+
+( En millions d'euros ) 
+
+
+Marge technique nette 
+
+Autres résultats d'opérations Résultat opérationnel hors résultat financier 
+
+
+31 décembre 2022 
+
+
+Dont : Activité Holding 
+
+
+Dont : Activités de Réassurance 5 934 
+
+
+31 décembre 2021 
+
+Le résultat opérationnel hors résultat financier d'AXA SA pour l'exercice clos le 31 décembre 2022 est une perte de 562 millions d'euros , dont - 657 millions d'euros pour l'activité de holding et  95 millions d'euros pour l'activité de réassurance . 
+
+
+31 décembre 2021 AXA Global Re 
+
+Le résultat opérationnel au 31 décembre 2021 s'élève à 424 millions d'euros pour l'activité de holding et à +209 millions d'euros pour l'activité de réassurance . 
+
+Le résultat opérationnel de l'activité de holding : 
+
+Les frais généraux et autres résultats d'opérations diminuent de - 233 millions d'euros , dont - 187 millions d'euros provenant du résultat non technique , principalement en raison de - 123 millions d'euros de provision sur moins - values latentes sur options dans le cadre de la protection de la liquidité de la Société et d'une augmentation de 40 millions d'euros compte tenu de la poursuite des investissements dans le cadre de la transformation informatique . 
+
+La marge technique nette diminue de  126 millions d'euros pour atteindre 73 millions d'euros , principalement en raison de la comptabilisation d'une provision de 92 millions d'euros suite à la déviation des sinistres enregistrés dans un traité d'assurance vie . 
+
+Les frais généraux et autres résultats d'opérations augmentent de + 11 millions d'euros , principalement en raison d'un résultat exceptionnel de + 7 millions d'euros . 
+
+
+ Résultat de souscription par zone géographique 
+
+La Société est une société de réassurance internationale dont les revenus proviennent de différentes zones géographiques . 
+
+
+==================================================
+
+Page 18
+
+( En millions d'euros sauf percentages ) 
+
+
+Autres pays 
+
+
+Chiffre d'affaires par ligne d'activité 
+
+
+( En millions d'euros sauf percentages ) 
+
+Accidents / Responsabilité Civile Marine , Aviation 
+
+
+Autres TOTAL 
+
+
+ Résultat de souscription par ligne d'activité 
+
+
+FX impact ( en millions d'euros ) 
+
+Le chiffre d'affaires brut augmente de + 1 971 millions d'euros ( + 50 % ) à 5 934 millions d'euros , principalement en raison des traités de réassurance en quote - part Dommages ( 3 082 millions d'euros ) mis en place en 2022. ls représentent 52 % du chiffre d'affaires brut d'AXA SA . Ceci est partiellement compensé par la non - récurrence d'un autre traité de réassurance interne . 
+
+La variation des taux de change a eu un impact positif ( € + 30 millions ) , dont les variations des principales devises sont indiquées ci - dessous : 
+
+
+==================================================
+
+Page 19
+
+ Résultat des placements nets 
+
+
+( En millions d'euros ) 
+
+Immobiliers ( autres que pour usage propre ) Obligations 
+
+
+( En millions d'euros ) 
+
+Immobiliers ( autres que pour usage propre ) Obligations 
+
+
+Revenus de placements 
+
+
+Revenus de placements 
+
+
+3 17 
+
+
+Gains et pertes nets 
+
+Le résultat financier net des actifs financiers de la Société sur une base proforma en 2021 était le suivant : 
+
+
+31 décembre 2021 ( Proforma ) 
+
+
+Variation de provision pour dépréciation 
+
+
+Gains et pertes nets 
+
+
+Variation de provision pour dépréciation 
+
+
+placements nets 
+
+
+Résultat des placements 
+
+Le résultat des placements nets s'élève à 3 035 millions d'euros en 2022 , en hausse de + 412 millions d'euros par rapport à 2021 , principalement en raison de + 850 millions d'euros de dividendes reçus des filiales , s'élevant à 4 345 millions d'euros contre 3 495 millions d'euros en 2021 , partiellement compensés par des provisions supplémentaires pour dépréciation des investissements dans les filiales de - 507 millions d'euros . 
+
+ Pertes et profits directement comptabilisés en fonds propres 
+
+Néant , car , selon les normes françaises , il n'y a pas de tels gains / pertes directement comptabilisés dans les capitaux propres . Par conséquent , cette section n'est pas applicable à AXA SA . 
+
+
+==================================================
+
+Page 20
+
+Consumer ABS 0,0 % 
+
+
+Non Conforming RMBS 2,7 % 
+
+
+ 
+
+Au 31 décembre 2022 , les investissements d'AXA SA comprenaient une exposition nette aux Collateralized Loan Obligations ( CLO ) , Consumer Asset Backed Securities ( Consumer ABS ) , Prime Residential Mortgage Backed Securities ( Prime RMBS ) et US subprime Residential Mortgage Backed Securities ( Non - conforming RMBS ) d'environ 29 millions d'euros ( dont 96 % liés aux CLO ) . 
+
+
+Prime RMBS 0,2 % 
+
+
+Commercial MBS 0,7 % 
+
+
+Collateralized Loan Obligation 96,4 % 
+
+
+==================================================
+
+Page 21
+
+ Résultat net 
+
+
+( En millions d'euros , sauf pourcentages ) 
+
+
+Taux de frais généraux 
+
+
+Autres produits et charges 
+
+Réallocation revenus nets de placement RESULTAT NET ( Comptes sociaux de la Société ) 
+
+
+31 décembre 2022 
+
+
+- 517 11,6 % 3 035 
+
+
+Dont : Activité Holding 
+
+
+Activités de Réassurance 
+
+
+78,3 % 86,0 % 
+
+
+31 décembre 2021 AXA SA 
+
+Le résultat net social après impt d'AXA SA pour l'exercice clos le 31 décembre 2022 est un bénéfice de 2 809 millions d'euros , dont 2 528 millions d'euros pour l'activité de holding et 281 millions d'euros pour l'activité de réassurance après réallocation de 185 millions d'euros de revenus nets des placements en fonction de la pondération des provisions techniques nettes et des fonds propres . Ce montant réaffecté dépasse de 101 millions d'euros le résultat financier net alloué à l'activité de réassurance . Pour donner une vision plus économique , le résultat financier net alloué à chaque activité dans le tableau ci - dessus et pour l'analyse ci dessous a été conservé . 
+
+Le résultat net au 31 décembre 2021 s'élève à 2 819 millions d'euros pour l'activité de holding et à 182 millions d'euros pour l'activité de réassurance . 
+
+
+31 décembre 2021 AXA Global Re 
+
+Le résultat net de l'activité de holding a diminué de - 190 millions d'euros pour s'établir à 2 629 millions d'euros , principalement en raison de : 
+
+Le résultat net des placements s'élève à 2 950 millions d'euros , en hausse de 371 millions d'euros , dont 
+
+850 millions d'euros de dividendes reçus des filiales , s'élevant à 4 345 millions d'euros par rapport à 3 495 millions d'euros en 2021 , 
+
+partiellement compensés par des provisions supplémentaires pour dépréciation des investissements dans les filiales de 507 millions d'euros . 
+
+Les résultats non techniques affichent un déficit de 606 millions d'euros contre 419 millions d'euros en 2021 , dont : 
+
+123 millions d'euros de provision sur les moins - values latentes sur options dans le cadre de la protection de la liquidité de la Société , 
+
+40 millions d'euros d'augmentation compte tenu de la poursuite des investissements dans le cadre de la transformation informatique . 
+
+
+76,5 % 86,5 % 
+
+
+==================================================
+
+Page 22
+La charge d'impôt s'élève à 336 millions d'euros , dont 448 millions d'euros de créances fiscales sur les membres du groupe de consolidation fiscale , partiellement compensés par une provision de 54 millions d'euros pour le remboursement éventuel des économies d'impôt sur les filiales appartenant 
+
+au groupe de consolidation fiscale . La charge d'impôt relative à l'activité de réassurance est désormais comptabilisée dans l'activité de holding . 
+
+Le résultat net des activités de réassurance avant impôts diminue de 73 millions à € 180 millions , principalement en raison de : 
+
+La marge technique nette hors frais généraux s'élève à 73 millions d'euros , en baisse de - 125 millions d'euros principalement en raison de la comptabilisation d'une provision de 92 millions d'euros suite à la déviation des sinistres enregistrés dans un traité d'assurance vie . 
+
+Les frais généraux s'élèvent à 43 millions d'euros , en baisse de 2 millions d'euros . 
+
+Le résultat financier net s'élève à € 85 millions , en hausse de 40 millions d'euros , compte tenu de 34 millions d'euros de plus - values sur la vente de titres d'investissement . 
+
+
+ Contrats de location 
+
+
+Pas de contrats de location importants . 
+
+
+==================================================
+
+Page 23
+AXA a placé avec succès une émission de dette senior de 750 millions d'euros  échéance 2033 
+
+Le 4 janvier 2023 , AXA a annoncé avoir réalisé avec succès le placement auprès d'investisseurs institutionnels d'une émission d'obligations senior non garanties Reg S dun montant de 750 millions d'euros à échéance 2033. Le produit de lémission sera alloué au financement des besoins généraux du Groupe , incluant le refinancement d'une partie des dettes existantes du Groupe AXA . 
+
+Le taux fixe annuel s'élève à 3,625 % . La transaction a rencontré une forte demande des investisseurs avec un livre d'ordres souscrit près de 3 fois . 
+
+La notation des obligations est à A + / Stable pour Standard & Poors et A1 / Stable pour Moody's . 
+
+La date de règlement des obligations a eu lieu le 10 janvier 2023 
+
+Conclusion d'une convention de rachat d'actions dans le cadre du programme de rachat d'actions d'AXA d'un montant maximal de 1,1 milliard d'euros annoncé le 23 février 2023 
+
+Le 24 février 2023 , AXA a conclu une convention de rachat d'actions avec un prestataire de services d'investissement aux termes de laquelle AXA sengage à racheter ses propres actions pour un montant maximum de 1,1 milliard d'euros , comme annoncé le 23 février 2023. La convention de rachat d'actions sera exécutée conformément aux termes de l'autorisation en vigueur de l'Assemblée Générale Annuelle des actionnaires . 
+
+La convention de rachat d'actions annoncée le 23 février 2023 prévoit que les rachats d'actions débutent le 27 février 2023 et se terminent au plus tard le 16 mai 2023. Pour chaque jour de la période de rachat , le prix par action à payer par AXA sera déterminé sur la base du cours moyen de l'action pondéré par les volumes . 
+
+AXA confirme son intention d'annuler toutes les actions ainsi rachetées dans le cadre de ce programme de rachat d'actions . 
+
+Toutes les informations concernant les interventions sur le titre AXA sont publiées sur le site Internet du Groupe AXA . 
+
+
+==================================================
+
+Page 24
+B.1 Informations générales sur le système de gouvernance 
+
+
+Politique de rémunération 
+
+
+Avantages accordés aux dirigeants 
+
+
+B.2 Exigences de compétence et d'honorabilité 
+
+B.3 Système de gestion des risques , y compris l'évaluation interne des risques et de la solvabilité 
+
+Évaluation du risque propre et de la solvabilité ( ORSA ) 
+
+
+B.4 Système de contrôle interne 
+
+
+B.5 Fonction d'audit interne 
+
+
+B.6 Fonction actuarielle 
+
+
+B.7 Sous - traitance 
+
+
+B.8 Autres informations 
+
+
+==================================================
+
+Page 25
+
+générales 
+
+
+gouvernance 
+
+Une description de la gouvernance d'AXA , y compris les éléments visés à l'article 294 ( 1 ) et à l'article 359 ( b ) de la Réglementation Solvabilité I , est incorporée dans ce Rapport par renvoi à la Partie 3 " Gouvernement d'entreprise " aux pages 94 à 125 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+Politique de rémunération du Groupe AXA 
+
+La Société applique la politique de rémunération du Groupe AXA . 
+
+Une description de la politique de rémunération du Groupe qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Partie 3.2 " Rémunération des dirigeants et actionnariat aux pages 126 à 158 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+sur le sur 
+
+La politique de rémunération est cohérente avec l'intégration des " risques de développement durable " au sens et selon les exigences du Règlement ( UE ) 2019/2088 du 27 novembre 2019 , tel que modifié . En 2021 , l'intégration des risques liés au développement durable a été renforcée pour les composantes de la rémunération à court et à long terme : 
+
+Le poids des critères de développement durable dans les conditions de performance des AXA LTI ( actions de performance ) a été augmenté de 10 % en 2020 à 30 % en 2021. La réalisation d'objectifs spécifiques liés au climat ( c'est - à - dire la réduction ( i ) des émissions de carbone dans les opérations et ( ii ) de l'empreinte carbone des actifs ) complète l'objectif de score d'AXA dans le  Dow Jones Sustainability Index » ( évaluant les dimensions environnementales , sociales et de gouvernance ) . Les objectifs et la calibration de tous les critères financiers et extra - financiers sont revus chaque année par le Conseil d'Administration , 
+
+Les lettres d'objectifs pour les responsables des marchés / entités opérationnelles comprennent des critères qualitatifs relatifs au développement durable . 
+
+
+Rémunération des dirigeants mandataires sociaux 
+
+La description de la rémunération des dirigeants qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Partie 3.2 " Rémunération des dirigeants et actionnariat " aux pages 126 à 158 du Document de Référence Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 26
+
+ Rémunération des administrateurs 
+
+La description de la rémunération des administrateurs applicable à la Société est incorporée dans ce Rapport par renvoi à la Partie 3.2 " Rémunération des dirigeants et actionnariat  Jetons de présence " aux pages 136 à 137 du Document de Référence Universel 2022 d'AXA . 
+
+
+ Avantages accordés aux dirigeants 
+
+
+Retraite 
+
+La description des avantages accordés aux dirigeants de la Société est incorporée dans ce Rapport par renvoi à la Partie 3.2 " Rémunération et actionnariat des dirigeants - Engagements pris à l'égard des dirigeants " aux pages 152 et 153 du Document de Référence Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 27
+Principaux rôles et responsabilités des fonctions clés 
+
+La réglementation Solvabilité I exige que la Société dispose d'un système de gouvernance efficace , conçu pour assurer une gestion saine et prudente . Ce système de gouvernance doit reposer sur une séparation claire des responsabilités et être proportionné à la nature , à l'étendue et à la complexité des activités de la Société . 
+
+Outre le Directeur Général et les Directeurs Généraux Adjoints , la Société a défini quatre fonctions clés conformément à la réglementation Solvabilité  : 
+
+la fonction de la Gestion des Risques , qui est notamment responsable de la définition , du déploiement et du suivi du cadre de gestion des risques d'entreprise ( Enterprise Risk Management  ERM ) au sein d'AXA SA , 
+
+la fonction Conformité , qui est notamment chargée de conseiller sur la conformité aux lois , règlements et dispositions administratives concernant les activités de réassurance et de s'assurer que la conformité est effective , 
+
+la fonction d'Audit Interne , qui est notamment chargée d'évaluer l'adéquation et l'efficacité du système de contrôle interne d'AXA SA et des autres éléments du système de gouvernance . La fonction d'audit interne doit être objective et indépendante des fonctions opérationnelles et , 
+
+la fonction Actuarielle , qui est notamment chargée de superviser le calcul des provisions techniques ( y compris de s'assurer de la pertinence des méthodologies et des modèles sous - jacents utilisés ainsi que des hypothèses retenues dans le calcul des provisions techniques ) , d'évaluer le caractère suffisant et la qualité des données utilisées dans le calcul des provisions techniques et de comparer les meilleures estimations à l'expérience . 
+
+Au sein de la Société , les principaux responsables sont : 
+
+le Directeur de la Gestion des Risques du Groupe AXA et d'AXA SA , 
+
+le Directeur de l'Audit Interne du Groupe AXA et d'AXA SA , 
+
+le responsable du provisionnement actuariel d'AXA SA . 
+
+Une description de la politique " compétence et honorabilité " du Groupe AXA , qui s'applique également à la Société , est incorporée dans ce Rapport par renvoi à la Section 5.2 " Contrôle Interne et Gestion des Risques " aux pages 255  268 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 28
+B.3 Système de gestion gestion des risques , y compris 'évaluation interne des risques et de la solvabilité 
+
+
+ Système de gestion des risques 
+
+
+Missions de la gestion des risques 
+
+En tant que partie intégrante de tous les processus de la Société , la Direction de la Gestion des Risques est responsable de la définition et du déploiement du cadre de la gestion des risques d'entreprise ( Enterprise Risk Management ERM ) au sein d'AXA SA . La Direction de la Gestion des Risques est responsable du développement du cadre de la gestion des risques d'entreprise en termes de limites / seuils ( couvrant les risques financiers , d'assurance et opérationnels ) , de politiques , de directives et de suivi de l'exposition aux risques , sous réserve des normes du Groupe et dans le cadre de l'appétit au risque clairement défini et cohérent avec l'appétit au risque du Groupe . 
+
+Le cadre de la gestion des risques d'entreprise ( Enterprise Risk Management  ERM ) repose sur cinq piliers , cimentés par une solide culture du risque . Une description des cinq piliers qui s'appliquent à la Société est incorporée dans ce Rapport par renvoi à la Section 5.2 " Contrôle Interne et Gestion des Risques " aux pages 259 à 260 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+Gestion des risques d'AXA SA 
+
+La gestion des risques est une responsabilité locale , conformément aux normes et directives du Groupe en matière de gestion des risques . Les missions minimales requises pour l'équipe de gestion des risques sont les suivantes : 
+
+coordonner la deuxième ligne de défense grâce à une gouvernance spécifique , 
+
+mettre en œuvre l'appétit au risque pour tous les risques de manière cohérente avec l'appétit au risque du Groupe , en renforçant les rapports , les limites de risque et les processus de décision , 
+
+donner un deuxième avis sur les processus clés , tels que le provisionnement , les études de gestion actif - passif ( ALM ) et l'allocation d'actifs , ainsi que la stratégie de réassurance , 
+
+coordonner les contrôles de rentabilité et d'adéquation du capital des rétentions avec le processus d'approbation des rétentions ( " RP  ) . 
+
+Le Directeur de la Gestion des Risques d'AXA SA , qui est également le Directeur de la Gestion des Risques du Groupe , dirige l'équipe de gestion des risques d'AXA SA et rend compte au Directeur Général de la Société . Le Directeur de la Gestion des Risques est indépendant des opérations et de l'audit interne . Le Directeur de la Gestion des Risques d'AXA SA rend compte régulièrement au Conseil d'Administration des questions relatives  la gestion des risques . 
+
+L'équipe de gestion des risques est responsable du contrôle et de la gestion des risques dans le cadre des règles et limites du Groupe et de la Société , de la validation des décisions d'investissement ou de souscription au travers de Comités des Risques et de la participation aux Comités de Souscription et aux Comités d'Investissement et de la Gestion Actif - Passif . 
+
+
+Autres fonctions 
+
+La Direction et le personnel sont responsables de la gestion des risques et de la prise de décision au jour le jour et sont donc les premiers responsables de la mise en place et du maintien d'un environnement de contrôle efficace ( première ligne de défense ) . 
+
+Les services chargés de la conformité et de la gestion des risques ( y compris le contrôle interne ) sont responsables de l'élaboration , de la facilitation et du suivi d'un cadre et d'une stratégie efficaces en matière de risque et de contrôle ( deuxième ligne de défense ) . 
+
+
+==================================================
+
+Page 29
+L'audit interne procède , dans le cadre de son rôle , à une évaluation périodique des risques et des processus de gouvernance afin de fournir un avis indépendant sur l'efficacité du système de contrôle interne ( troisième ligne de défense ) . 
+
+
+Gouvernance des risques au sein de la Société 
+
+Une description de l'organisation de la gouvernance et de la gestion des risques du Groupe AXA , qui s'applique également dans une certaine mesure à la Société , est incorporée dans ce Rapport par renvoi à la Section 5.2 , paragraphe " Gouvernance et organisation de la gestion des risques " aux pages 256 à 263 du Document de Référence Universel 2022 d'AXA . 
+
+Cependant , suite à sa transformation en réassureur agréé et afin de gérer efficacement les risques locaux et globaux , AXA SA a également mis en place une gouvernance dédiée composée d'un Comité Exécutif ainsi que d'un Comité des Risques et d'un Comité d'Investissement et de gestion actif - passif , qui s'ajoutent à la gouvernance du Groupe AXA , y compris le Comité d'Audit , de Risque et de Conformité du Groupe (  ARCC  ) qui traite également des questions spécifiques à AXA SA , telles que la validation des rapports Solvabilité  d'AXA SA avant leur soumission au Conseil d'Administration d'AXA . 
+
+Le Comité Exécutif est un organe de gestion interne de la Société présidé par le Directeur Général Adjoint en charge de la Finance , de la Gestion des Risques , de la Stratégie , de la Réassurance cédée et des Opérations avec pour objectif d'examiner en particulier toutes les questions matérielles de finance , de réassurance , de souscription , d'investissement et de risque auxquelles la Société est confrontée . Il examine notamment toutes les questions importantes liées aux activités de réassurance de la Société , à la gestion des actifs et des passifs , telles que l'allocation stratégique des actifs d'AXA SA , les accords de sous - traitance et la gestion des risques . Le Président du Comité Exécutif rend compte régulièrement au Directeur Général du Groupe des décisions importantes prises et des questions examinées par le Comité Exécutif . 
+
+Sous la responsabilité du Comité Exécutif , les Comités suivants couvrent les principales catégories de risques suivantes : 
+
+Le Comité des Risques d'AXA SA supervise la gouvernance de la Société et les cadres de gestion liés aux risques clés et aux activités de conformité de la Société , y compris l'identification , l'évaluation , la surveillance , la gestion et le reporting des risques . Il définit également l'appétit de la Société aux risques en termes d'impact sur ses principaux indicateurs financiers . L'appétit au risque de la Société et les limites de tolérance globales sont ensuite fixés par le Conseil d'Administration , après examen par son Comité des Finances et des Risques , après avoir été approuvés par l'ARCC et sur la base de la recommandation de la Direction Générale de la Société . 
+
+Pour plus d'informations sur le rôle du Conseil d'Administration et des Comités de la Société , veuillez vous référer à la Section 3.1 " Gouvernement d'entreprise " aux pages 94 à 125 du Document de Référence Universel 2022 du Groupe AXA . Un rapport sur les principaux indicateurs de risque de la Société est présenté régulièrement au Comité des Risques , à l'ARCC et au Comité des Finances et des Risques du Conseil d'Administration . 
+
+Le cadre général des risques , y compris les risques opérationnels et émergents , est régi par le Co té des Risques , présidé par le Directeur de la Gestion des Risques d'AXA SA . Les membres du Comité des Risques sont des membres ou des participants permanents du Comité Exécutif , y compris le Directeur Financier d'AXA SA , et des cadres supérieurs qui rapportent au Directeur Financier ou au Directeur des Risques . 
+
+Le processus de décision relatif à la gestion des risques financiers est régi par le Comité d'Investissement et de gestion actif - passif . Ce comité est principalement responsable de la gestion de l'actif et du passif . Il approuve l'allocation stratégique des actifs . Il définit également la mise en uvre de la stratégie d'investissement , y compris les programmes de couverture le cas échéant , pilote l'allocation tactique des actifs , évalue les nouvelles opportunités d'investissement , conformément à la politique d'investissement , et surveille la performance des investissements de la société ainsi que l'exposition aux risques financiers . Il comprend notamment le directeur financier d'AXA SA , le responsable de la Direction Centrale des Finances du Groupe , le Directeur de la Gestion des Risques d'AXA SA , ainsi que le Directeur des Investissements d'AXA SA , qui est également celui du Groupe . 
+
+
+==================================================
+
+Page 30
+ Évaluation du risque propre et de la solvabilité ( ORSA ) 
+
+Une description de l'ORSA qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Section 5.2  Contrôle Interne et Gestion des Risques " à la page 264 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 31
+Une description du système de contrôle interne du Groupe qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Section 5.2 " Contrôle Interne et Gestion des Risques " aux pages 255 à 263 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+B.5 Fonction d'audit interne 
+
+Une description de la fonction d'audit interne du Groupe qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Section 5.2 , paragraphe " Organisation de la gouvernance et de la gestion des risques Troisième ligne de défense  Fonction d'audit interne du Groupe à la page 260 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+B.6 Fonction actuarielle 
+
+Pour se conformer à la réglementation Solvabilité I , une fonction actuarielle efficace a été mise en place avec pour mission spécifique d'accomplir les tâches suivantes : 
+
+
+ Coordonner le calcul des provisions techniques 
+
+Mettre en œuvre des revues pour déterminer et valider les réserves appropriées 
+
+S'assurer de l'adéquation des méthodologies , des modèles sous - jacents et des hypothèses utilisées dans le calcul des provisions techniques conformément aux exigences définies par le Groupe AXA Evaluer la suffisance et la qualité des données utilisées dans le calcul des provisions techniques 
+
+Informer l'organe d'administration , de gestion ou de surveillance de la fiabilité et de l'adéquation du calcul des provisions techniques 
+
+Contribuer à la mise en uvre effective du système de gestion des risques 
+
+Coordonner la production du rapport sur la fonction actuarielle 
+
+Présenter et distribuer le rapport de la fonction actuarielle aux Comités , au Conseil d'Administration et au titulaire de la fonction Actuarielle du Groupe 
+
+Exprimer une opinion sur les politiques de souscription et de réassurance et sur la politique de provisionnement . 
+
+Le responsable de la fonction Actuarielle d'AXA SA ( " AFH " ) est un membre du Comité des Risques d'AXA SA et un invité permanent du Comité Exécutif d'AXA SA . 
+
+La fonction actuarielle est exercée par des personnes qui : 
+
+possèdent les connaissances actuarielles et financières correspondant à la nature , à l'ampleur et à la complexité des risques inhérents à l'activité de l'entreprise d'assurance ou de réassurance ( compétence ) . 
+
+sont en mesure de démontrer leur expérience pertinente au regard des normes professionnelles et autres applicables ( honorabilité ) . 
+
+
+==================================================
+
+Page 32
+La sous - traitance est définie comme tout accord de service entre une personne morale ( la Société ) et un tiers en vertu duquel le prestataire exécute une procédure , un service ou une activité pour le compte de la Société . 
+
+Le cadre réglementaire de l'assurance en Europe , et notamment la directive Solvabilité I , impose un certain nombre d'obligations aux assureurs en matière de recours à la sous - traitance , notamment : 
+
+Sur la base d'une auto - évaluation réalisée à la fin de l'exercice 2022 , les activités les plus significatives sous traitées par la Société , principalement pour ses activités de holding , sont les suivantes : 
+
+les services de maintenance informatique , principalement auprès de sociétés liées au Groupe AXA , en France , 
+
+des services de gestion d'actifs pour AXA Investment Managers , en France , 
+
+la banque de la Société pour ( i ) la gestion des comptes des détenteurs de titres qui sont inscrits dans les comptes sous la forme nominative et ( ii ) l'institution centralisatrice mandatée par la Société pour l'organisation de l'Assemblée Générale des actionnaires d'AXA ( " AG " ) , en France , 
+
+chaque établissement reste responsable de l'activité qu'il sous - traite et de son contrôle , la sous - traitance ne peut pas interférer avec le contrôle des régulateurs , 
+
+les assureurs doivent démontrer que les activités sous - traitées restent sous leur contrôle , 
+
+ils doivent informer les autorités de contrôle à l'avance et en temps utile de leur intention de sous traiter des activités ou des fonctions , ainsi que de toute évolution significative ultérieure de ces fonctions ou activités concernant ces fonctions ou activités , 
+
+et encadrer leurs pratiques par une politique formelle de sous - traitance . 
+
+la gestion du portefeuille d'opérations financières de la Société , en France , 
+
+les services de négociation de produits dérivés , en France , 
+
+le reporting des données de marché , la formation et le support , au Royaume - Uni , 
+
+Les activités les plus importantes externalisées pour ses activités de réassurance sont gérées par des tiers pour soutenir le placement de la réassurance et les services connexes par des courtiers sélectionnés , en France et au Royaume - Uni . L'aide apportée par les courtiers concerne 
+
+l'organisation et l'administration des placements de réassurance sur le marché et , 
+
+tous les services liés à la réassurance au niveau mondial , y compris , mais sans s'y limiter , la conception des traités , les conseils stratégiques , la tarification , les conseils en matière de risque , les conseils sur les clauses , les avis sur les données de renouvellement , les analyses comparatives , les conseils sur la répartition des coûts internes , les informations sur le marché , le soutien à l'audit , les formations , les informations sur la sécurité en matière de réassurance . 
+
+De temps à autre , la Société conclut des GIE avec certaines de ses filiales . Les GIE sont des partenariats interentreprises , régis par le droit français , créés pour fournir divers services communs à leurs membres et pour répartir les coûts et les dépenses associés entre leurs membres . Les GIE dont la Société était membre au cours de l'année 2022 couvraient une variété de services communs , y compris des services rendus par les fonctions centrales du Groupe ( GIE AXA ) au profit des sociétés du Groupe AXA ( par exemple , finance , comptabilité et reporting , fiscalité , juridique , audit interne , ressources humaines , systèmes d'information , gestion des risques , gestion de la trésorerie ) . 
+
+La Société utilise les ressources du GIE AXA , qui fournit toutes les ressources nécessaires au fonctionnement de la Société ( pour les activités de holding et de réassurance ) , plus précisément pour les quatre fonctions clés décrites dans la section B.2 . du présent rapport , qui sont administrativement rattachées au GIE AXA . 
+
+
+==================================================
+
+Page 34
+
+Informations préliminaires 
+
+
+Évaluation du capital de Solvabilité  requis 
+
+
+C.1 Risque de souscription 
+
+Exposition au risque d'assurance Contrôle et atténuation du risque 
+
+
+C.2 Risque de marché 
+
+Exposition au risque de marché Contrôle et atténuation du risque 
+
+
+C.3 Risque de crédit 
+
+
+Exposition au risque de crédit 
+
+
+C.4 Risque de liquidité 
+
+
+C.5 Risque opérationnel 
+
+
+C.6 Autres risques importants 
+
+
+Risque de Réputation 
+
+
+C.7 Autres informations 
+
+
+==================================================
+
+Page 35
+Cette section décrit les principaux risques auxquels la Société est exposée du fait de ses activités et de son métier . 
+
+En tant que société holding du Groupe AXA , la Société porte dans son bilan et assure la gestion des investissements dans les filiales du Groupe . La Société est responsable des opérations de fusion - acquisition , du financement externe ( émission et remboursement de dettes , dividendes ) et des activités de couverture pour le Groupe AXA . Ces activités exposent la Société à des risques financiers . 
+
+En tant que société de réassurance , la Société fournit une protection de réassurance aux cédantes d'AXA pour leurs clients individuels ou collectifs , allant de la protection de leurs biens et de leurs responsabilités à leurs besoins personnels et professionnels . La Société collecte les primes de réassurance auprès des cédantes d'AXA et investit les primes collectées pendant la période entre la collecte et les événements générateurs de sinistres . 
+
+La Société offre une large gamme de produits de réassurance : traités proportionnels et non proportionnels , par événement et par risque sur la base du risque attaché et du sinistre survenu . La société est principalement exposée aux risques catastrophiques et aux risques atypiques dans les branches Dommags , Vie et Santé . L'expertise d'AXA SA réside dans sa capacité à évaluer , mutualiser et / ou transférer les risques individuels ou professionnels . Dans ce contexte , la Société a développé des outils cohérents et complets pour mesurer et contrôler ses principaux risques , comme détaillé dans les sections ci - dessous . 
+
+
+ valuation du capital de Solvabilité  requis 
+
+
+Capital requis sous Solvabilité  
+
+Le régime Solvabilité  introduit une exigence de capital basée sur le risque qui peut être évaluée soit à l'aide d'un modèle interne , soit à l'aide d'une formule standard . 
+
+Depuis qu'AXA SA a obtenu sa licence de réassurance en 2022 , la Société calcule son capital de solvabilité requis sur une base solo avec la formule standard de Solvabilité  . 
+
+Le tableau ci - dessous détaille le capital de solvabilité requis au niveau d'AXA SA et par catégorie de risque , sur la base de la formule standard , pour les exercices 2021 et 2022 . 
+
+
+Risque de Crédit 
+
+
+22 475 -76 
+
+
+FY 2022 22 522 
+
+
+==================================================
+
+Page 36
+Les chiffres de l'exercice 2021 correspondent aux chiffres proforma calculés comme si AXA SA et AXA Global Re avaient fusionné le 1er janvier 2022 , et comme si les traités de réassurance en quote - part Dommages mis en place en 2022 avaient été signés avant la fin de l'exercice 2021 . 
+
+
+==================================================
+
+Page 37
+
+C.1 Risque de souscription 
+
+
+ Exposition au risque d'assurance 
+
+La Société est responsable de la gestion de ses risques d'assurance liés à la souscription , à la tarification et au provisionnement , ainsi que de la prise de mesures appropriées en réponse à l'évolution des cycles d'assurance et aux environnements politiques et économiques dans lesquels elle opère . La Société souscrit des polices d'assurance Dommages et Vie et est donc exposée , comme le décrit la section A1 ( 3 ) du présent rapport , aux risques Dommages , Santé et Vie . 
+
+
+Les principaux risques Dommages sont les suivants 
+
+Le risque de souscription Dommages est le risque inhérent au transfert de risque opéré par les contrats de réassurance cédés par les entités d'AXA et souscrits par la Société . Au travers de ces contrats , la Société assume des risques de pointe et des risques agrégés . Les principaux risques de pointe sont les dommages causés aux grands sites commerciaux et industriels ainsi que les problèmes de responsabilité rencontrés par les assurés . Les risques agrégés résultent essentiellement de l'impact des événements naturels , ainsi que des pertes attritionnelles des quote parts couvrant les activités nettes des entités d'assurance multirisques . Outre le risque de déviation de la sinistralité , AXA SA est également exposée au risque de résiliation , c'est - à - dire à une diminution du chiffre d'affaires de ses cédantes , principalement sur les quote - parts , étant donné qu'une diminution du chiffre d'affaires local peut réduire le résultat technique attendu de ces traités . 
+
+Le risque de provisionnement des assurances Dommages est le risque d'une évolution défavorable des provisions pour sinistres . Le provisionnement initial des sinistres peut devoir être augmenté lorsque le coût final de l'indemnisation est révisé . 
+
+Pour le calcul des exigences de fonds propres , les risques de souscription Dommages sont répartis entre les risques de primes , les risques catastrophiques et les risques de résiliation . 
+
+
+Les principaux risques Vie sont les suivants : 
+
+Risque catastrophique risque de perte ou de changement défavorable de la valeur des engagements , résultant de l'incertitude significative des hypothèses de tarification liées à des événements extrêmes ou irréguliers , en particulier par le biais des traités CAT , 
+
+Risque d'invalidité : risque de perte , ou de changement défavorable de la valeur des engagements , résultant de changements dans le niveau , la tendance ou la volatilité des taux d'invalidité , de maladie et de morbidité , ainsi que des frais médicaux associés . 
+
+ Risques de résiliation et de résiliation massive : risques de perte ou de changement défavorable de la valeur des engagements , résultant de variations du niveau ou de la volatilité des taux de chutes , des résiliations , des renouvellements et des rachats , 
+
+Risque de frais : risque d'évolution défavorable des frais de gestion des contrats de réassurance , Risque de mortalité  risque de perte ou de changement défavorable de la valeur des engagements , résultant de variations du niveau , de la tendance ou de la volatilité des taux de mortalité , lorsqu'une augmentation du taux de mortalité entraîne une augmentation de la valeur des engagements d'assurance , 
+
+Risque de longévité : risque de perte , ou de changement défavorable de la valeur des engagements , résultant de changements dans le niveau , la tendance ou la volatilité des taux de mortalité , lorsqu'une baisse du taux de mortalité entraîne une augmentation de la valeur des engagements d'assurance , 
+
+
+  
+
+Risque de révision  risque de changement défavorable des rentes dû soit à des changements dans l'environnement juridique , soit à des changements dans l'état de santé des assurés . 
+
+
+==================================================
+
+Page 38
+L'exposition globale d'AXA SA aux risques de souscription est couverte par la mesure du Capital de Solvabilité Requis d'AXA , comme détaillé dans la Section ci - dessus " Évaluation du capital de Solvabilité I requis " , et prise en compte dans le cadre de la gestion du risque de liquidité d'AXA ( voir Section C4 ) . 
+
+
+ Contrôle et atténuation 
+
+Les risques d'assurance pour les activités de ( ré ) assurance Dommages et Vie sont couverts par 4 processus majeurs , définis au niveau du Groupe mais exécutés conjointement par les équipes centrales et locales : 
+
+Contrôles des risques sur les nouveaux traités qui complètent les règles de souscription et les analyses de rentabilité ( processus d'approbation des produits ) : ce processus est peu pertinent pour AXA SA car il n'y a pas de lancement de produit en tant que tel en réassurance . La Société a développé un processus alternatif appelé " processus d'approbation des rétentions " (  RetAp » ) à travers lequel la rentabilité des rétentions est testée à un niveau de segmentation pertinent , ainsi que le respect des contraintes de l'appétit au risque , 
+
+Optimiser les stratégies de réassurance cédée afin de limiter les pics d'exposition de la Société en protégeant sa solvabilité par la réduction de la volatilité : ce processus est inclus dans le " processus d'approbation des rétentions " , 
+
+Examiner les réserves techniques , y compris une analyse prospective , 
+
+le suivi des risques émergents afin de partager l'expertise au sein des communautés de souscription et de risque . 
+
+Une description de l'approbation des produits , de l'analyse de l'exposition , de la réassurance cédée et des provisions techniques qui s'appliquent à la Société est incorporée dans ce Rapport par renvoi à la Section 5.6 Risques d'assurance " - sous - section " Contrôle et réduction du risque " aux pages 282 à 284 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 39
+
+ Exposition au risque de marché 
+
+La Société est exposée aux risques des marchés financiers par le financement de ses activités dans le cadre de la gestion de ses capitaux propres et de ses dettes et par son activité principale de réassurance . Les risques de marché résultent d'une variété de facteurs , dont les suivants : 
+
+Une baisse de la valeur marchande des actifs ( participations , biens immobiliers , etc. ) peut avoir un impact négatif sur la marge de solvabilité , ainsi que sur l'excédent disponible , 
+
+Une détérioration des taux de change a un effet négatif sur l'évaluation des participations en devises étrangères et peut avoir un impact négatif sur la marge de solvabilité , 
+
+Une réduction des taux d'intérêt augmente les dettes de détention et la valeur des engagements de réassurance , et peut avoir un impact négatif sur la marge de solvabilité , 
+
+Une augmentation des écarts de rendement des investissements à revenu fixe réduit leur valeur de marché et peut avoir un impact négatif sur la marge de solvabilité . 
+
+AXA SA surveille régulièrement ses stratégies de couverture des taux d'intérêt et des taux de change et continuera à examiner leur efficacité et la nécessité éventuelle de les adapter . 
+
+L'exposition globale d'AXA SA aux risques de marché est couverte par la mesure du Capital de Solvabilité Requis d'AXA , comme détaillé dans la Section précédente " Évaluation du capital de Solvabilité  requis " et pris en compte dans le cadre de la gestion du risque de liquidité d'AXA ( voir Section C4 ) . 
+
+
+ Contrôle et atténuation 
+
+La Société est responsable de la gestion de ses risques financiers ( risque de marché , risque de crédit , risque de liquidité ) , tout en respectant le cadre d'appétit pour le risque défini au niveau local et au niveau du groupe , en termes de limites et de normes . Cette approche vise à réagir rapidement , de manière précise et ciblée , aux changements des marchés financiers et des environnements politiques et économiques dans lesquels la société opre . 
+
+Un large éventail de techniques de gestion des risques est utilisé pour contrôler et atténuer les risques de marché auxquels la Société est exposée . Ces techniques comprennent : 
+
+La couverture des risques financiers lorsqu'ils dépassent les niveaux de tolérance fixés par la Société ou le Groupe . La gestion opérationnelle des produits dérivés est basée sur des règles strictes et réalisée par la Société , 
+
+La gestion actif - passif , c'est - à - dire la définition d'une allocation stratégique optimale des actifs en fonction de la structure du passif , afin de réduire le risque à un niveau souhaité , 
+
+Un processus d'investissement discipliné , s'appuyant sur les documents du processus d'approbation des investissements du groupe lorsqu'ils sont disponibles ou sur les analyses approfondies fournies par les gestionnaires d'actifs pour tout investissement sophistiqué , et un deuxième avis de la gestion des risques , 
+
+Un suivi régulier des risques financiers sur la situation économique et la solvabilité de la Société , La réassurance qui offre également des solutions pour atténuer certains risques financiers . 
+
+Une description de la stratégie d'investissement d'AXA et de la gestion actif - passif qui s'appliquent à la Société est incorporée dans ce Rapport par renvoi à la Section 5.2 " Contrôle interne et gestion des risques " ous - section " Gouvernance de la stratégie d'investissement et de la gestion actif - passif ( ALM ) " aux pages 267 à 268 , et à la Section 5.3 " Risques de marché " - sous - section " Contrôle et réduction du risque " à la page 270 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 40
+
+ Exposition au risque de crédit 
+
+Le risque de crédit de la contrepartie est défini comme le risque qu'un tiers dans une transaction manque à ses engagements . Compte tenu de la nature de ses activités principales , la Société surveille tous les types de contreparties , en utilisant des méthodes adaptées à chacun d'entre eux : 
+
+Trésorerie et équivalents de trésorerie liés aux activités de holding et de réassurance , Contrepartie en produits dérivés pour les stratégies de couverture , 
+
+
+Portefeuilles d'investissement , 
+
+Les risques cédés aux réassureurs résultant de la réassurance cédée à des tiers par la Société . Si la Société rétrocde une part importante de ses risques à des tiers , ce risque de contrepartie est géré et réduit par la politique rigoureuse de sélection des réassureurs de la Société , 
+
+Créances  provenant des opérations de réassurance directe , y compris les cédantes et les courtiers . 
+
+L'exposition globale d'AXA SA aux risques de crédit est couverte par la mesure du Capital de Solvabilité Requis d'AXA , comme détaillé dans la Section précédente " Évaluation du capital de Solvabilité  requis " et pris en compte dans le cadre de la gestion du risque de liquidité d'AXA ( voir Section C4 ) . 
+
+
+ Contrôle et atténuation 
+
+Une description des actifs investis : un suivi centralisé de l'exposition à la contrepartie , dérivés de crédit , risque de contrepartie découlant des dérivés de gré à gré , créances sur les réassureurs  processus et facteurs de notation , exposition au crédit découlant des activités d'assurance et de réassurance acceptée qui s'appliquent  la Société est incorporée dans ce Rapport par renvoi à la Section 5.4 " Risques de crédit " - sous section  Contrôle et atténuation du risque " aux pages 276 à 279 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 41
+
+C.4 Risque de liquidité 
+
+Le risque de liquidité est l'incertitude , émanant des activités opérationnelles , des investissements ou des activités de financement , quant à la capacité de la société et / ou d'une entité d'AXA à honorer ses obligations de paiement dans leur intégralité et dans les délais impartis , dans des environnements actuels ou tendus . Le risque de liquidité concerne les actifs et les passifs ainsi que leur interaction . 
+
+La liquidité est une dimension clé de la politique dappétence aux risques permettant au Groupe AXA de s'assurer qu'AXA SA et les entités locales disposent à tout moment d'un volant de liquidité suffisant pour résister à un choc important . L'objectif est atteint grâce au suivi de l'adéquation de la liquidité à travers le Groupe AXA sur la base d'une mesure appelée " excès de liquidité " , c'est - à - dire la différence entre les ressources de liquidité et les besoins de liquidité calculés dans des conditions de stress sévères et sur différents horizons temporels : 1 semaine , 1 mois , 3 mois et 12 mois . 
+
+Pour chaque horizon temporel , les ressources de liquidité disponibles après la crise et les besoins de liquidité après la crise ( c'est - à - dire les sorties nettes ) à payer sont projetés pour mesurer l'excès de liquidité . Les conditions de stress sont calibrées de manière à refléter des circonstances extrêmes ( par exemple , des marchés financiers en difficulté , une crise de confiance à l'égard du groupe , des catastrophes naturelles ) . L'approche est prudente car on suppose que tous les événements se produisent simultanément . 
+
+En tant que société holding du Groupe AXA , la Société inclut dans ses besoins de liquidité le soutien potentiellement nécessaire aux entités locales en difficulté de liquidité ou de solvabilité après une crise . 
+
+Une description de la gestion de la liquidité et de la gestion du risque de liquidité , qui s'applique à la Société , est incorporée dans ce Rapport par renvoi à la Section 2.4 " Liquidité et ressources en capital " , pages 85 à 90 , et à la Section 5.1 " Facteurs de risque - Risques financiers - Risques de crédit et de liquidité " , pages 235 à 236 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 42
+
+C.5 Risque opérationnel 
+
+AXA a défini un cadre pour identifier et mesurer ses risques opérationnels qui peuvent résulter d'une défaillance de son organisation , de ses systèmes et de ses ressources ou d'événements extérieurs . Assurer une réduction adéquate de ces risques à travers le Groupe est un pilier clé des fonctions de gestion des risques . 
+
+
+ Principes généraux 
+
+L'un des objectifs du cadre du risque opérationnel d'AXA SA est de comprendre et de réduire les pertes résultant de défaillances opérationnelles et de définir une stratégie de réponse au risque appropriée pour les principaux scénarios de risque opérationnel . 
+
+Sur la base de la définition de Solvabilité II , la Société définit le risque opérationnel comme le risque de perte résultant de processus , de personnel ou de systèmes internes inadéquats ou défaillants , ou d'événements externes . Le risque opérationnel comprend les risques juridiques et exclut les risques découlant des décisions stratégiques , ainsi que les risques de réputation . La réputation est cependant considérée comme un impact lors de l'évaluation de chaque risque opérationnel . 
+
+AXA a défini un cadre unique au niveau du Groupe pour l'identification , la quantification et le suivi des principaux risques opérationnels , impliquant le déploiement d'un système commun , d'équipes dédiées aux risques opérationnels et d'une typologie commune des risques opérationnels classant les risques opérationnels en sept catégories : fraude interne , fraude externe , pratiques en matière d'emploi et de sécurité sur le lieu de travail , clients , pratiques commerciales , dommages aux actifs physiques , interruption des activités et défaillances des systèmes , et gestion de l'exécution , de la livraison et des processus . 
+
+Des exigences quantitatives et qualitatives sont définies . 
+
+Les risques opérationnels les plus critiques de la Société et un ensemble de scénarios de crise sont identifiés et évalués selon une approche prospective et fondée sur l'avis d'experts . Ces scénarios de risque sont ensuite utilisés pour estimer le capital requis p couvrir les risques opérationnels sur la base de modèles avancés fondés sur les principes de Solvabilité I . Le processus de gestion du risque opérationnel est intégré à la gouvernance locale par la validation de la direction générale afin de garantir l'adéquation , la pertinence et l'exhaustivité de l'évaluation des risques , mais aussi de veiller à ce que des actions correctives et préventives adéquates soient définies et mises en uvre pour faire face aux principaux risques , 
+
+En outre , un processus de collecte de données sur les pertes est en place au sein d'AXA SA afin de suivre et d'atténuer de manière appropriée les pertes réelles liées au risque opérationnel . Ce processus est également utilisé comme une source d'information précieuse pour tester les hypothèses retenues dans les évaluations de risques . 
+
+En 2022 , le profil de risque opérationnel d'AXA SA est raisonnablement bien réparti entre les sept catégories de risque opérationnel ( énumérées ci - dessus ) , les principaux risques étant liés à l'exécution , à la livraison et  la gestion des processus , aux pratiques des clients et de l'entreprise ( avec le risque de non - conformité ) ainsi qu'à la fraude externe ( avec le risque Cyber ) . 
+
+L'exposition globale d'AXA SA aux risques opérationnels est couverte par la mesure du Capital de Solvabilité Requis d'AXA , comme détaillé dans la Section ci - dessus " Évaluation du capital de Solvabilité  requis " et pris en compte dans le cadre de la gestion du risque de liquidité d'AXA ( voir Section C4 ) . 
+
+
+==================================================
+
+Page 43
+
+ Risque Stratégique 
+
+Un risque stratégique est le risque qu'un impact négatif ( actuel ou prospectif ) sur les bénéfices ou le capital , significatif au niveau du Groupe , résulte ( a ) d'un manque de réactivité face aux changements du secteur ou à l'évolution des besoins des consommateurs , ou ( b ) de décisions opérationnelles défavorables . Compte tenu de la nature des risques stratégiques , le législateur n'exige pas d'évaluation de la charge en capital , mais plutôt la mise en place d'un cadre de gestion des risques afin d'évaluer , d'anticiper et d'atténuer ces risques . 
+
+Une description de la gestion des risques stratégiques , qui s'applique à la Société , est incorporée dans ce Rapport par renvoi à la Section 5.8 " Autres risques significatifs " - sous - section " Risques stratégiques " à la page 286 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+ Risque de Réputation 
+
+Le risque de réputation est le risque qu'un événement , interne ou externe , influence négativement la perception qu'ont les parties prenantes de la Société ou qu'il y ait un écart entre les attentes des parties prenantes et les comportements , attitudes , valeurs , actions ou inactions de la Société . 
+
+Compte tenu de la nature des risques de réputation , le législateur n'exige pas d'évaluation de l'exigence de fonds propres , mais plutôt la mise en place d'un cadre de gestion des risques afin d'évaluer , d'anticiper et d'atténuer ces risques . 
+
+Une description de la gestion du risque de réputation , qui s'applique à la Société , est incorporée dans ce Rapport par renvoi à la Section 5.8 " Autres risques importants " - sous - section " Risques de réputation " à la page 286 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+ Risques Emergents 
+
+Les risques émergents sont des risques qui peuvent se développer ou qui existent déjà et qui évoluent en permanence . Les risques émergents sont marqués par un degré élevé d'incertitude , car certains d'entre eux pourraient ne jamais se matérialiser . 
+
+Compte tenu de la nature des risques émergents , le législateur n'exige pas d'évaluation de l'exigence de fonds propres , mais plutôt la mise en place d'un cadre de gestion des risques afin d'évaluer , d'anticiper et d'atténuer ces risques . 
+
+Une description de la gestion des risques émergents , qui s'applique à la Société , est incorporée dans ce Rapport par renvoi à la Section 5.8 " Autres risques importants " - sous - section " Risques émergents " à la page 287 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+C.7 Autres informations 
+
+
+==================================================
+
+Page 44
+
+D.1 Actifs 
+
+
+Valorisation à la juste valeur 
+
+
+Actifs incorporels 
+
+
+Impôts différés 
+
+
+Immobilisations corporelles pour usage propre 
+
+
+Placements et prêts 
+
+
+Créances nées d'opération d'assurance 
+
+Actifs détenus pour des fonds indexés et des fonds en unités de compte 
+
+
+D.2 Provisions techniques 
+
+Déclaration sur l'utilisation de la correction pour volatilité 
+
+Déclaration sur l'utilisation des mesures transitoires pour les provisions 
+
+Part des réassureurs dans les provisions techniques 
+
+
+D.3 Autres passifs 
+
+
+Provisions autres que les provisions techniques 
+
+
+Engagements sociaux 
+
+
+Impôts différés 
+
+
+D.4 Méthodes de valorisation alternatives 
+
+
+D.5 Autres informations 
+
+
+==================================================
+
+Page 45
+Le bilan Solvabilité  d'AXA SA est arrêté au 31 décembre 2022 et est préparé en conformité avec la Réglementation Solvabilité II . 
+
+Les actifs et les passifs sont évalués sur la base de l'hypothèse selon laquelle la Société poursuivra ses activités dans le cadre de la continuité de l'exploitation . 
+
+Les participations d'AXA SA dans les filiales sont dérivées de la participation d'AXA SA dans l'excédent des actifs sur les passifs des filiales . Pour les besoins de Solvabilité II , la Société n'évalue pas ses filiales selon une approche de marché à un montant qui serait une approximation d'une valeur potentielle pour un acheteur externe , mais à un montant égal à l'excédent des actifs de la filiale sur ses passifs , ceux - ci étant déterminés conformément aux règles de Solvabilité II . 
+
+Les provisions techniques sont comptabilisées pour toutes les obligations de réassurance envers les assurés et les bénéficiaires de contrats de réassurance . La valeur des provisions techniques correspond au montant actuel que la Société devrait payer si elle transférait immédiatement ses obligations de réassurance à une autre entreprise de réassurance . 
+
+Les actifs et passifs autres que les provisions techniques sont établis sur la base des normes IFRS et des interprétations du IFRS Interprétations Committee , telles qu'approuvées par l'Union Européenne avant la date de clôture , avec une date d'application obligatoire fixée au 1er janvier 2022 pour autant que ces normes et interprétations comprennent des méthodes de valorisation conformes à la méthode de valorisation de marché figurant à l'article 75 de la Directive Solvabilité  2009 / 138 / EC : 
+
+les actifs sont valorisés au montant pour lequel ils pourraient être échangés dans le cadre d'une transaction conclue , dans des conditions de concurrence normales , entre des parties informées et consentantes ; 
+
+les passifs sont valorisés au montant pour lequel ils pourraient être transférés ou réglés dans le cadre d'une transaction conclue , dans des conditions de concurrence normales , entre des parties informées et consentantes ( sans ajustement visant à prendre en compte la notation de la solidité financière de la Société ) . 
+
+Les principaux ajustements entre les comptes statuaires locaux et le bilan Solvabilité  concernent : 
+
+La réévaluation des filiales consolidées et des participations , 
+
+La réévaluation de la valeur de marché des actifs , liée à la comptabilisation des plus - values et moins values latentes des actifs comptabilisés au coût amorti dans le bilan statutaire , 
+
+La réévaluation , dans le cadre de Solvabilité  , des réserves techniques par rapport à celles du bilan statutaire , tant pour les passifs ( réassurance acceptée ) que pour les actifs ( réassurance cédée ) , La reconnaissance de la marge de risque ( RM ) , 
+
+La réévaluation à la juste valeur des dettes internes et des prêts aux entités réglementées dans le cadre de Solvabilité  , 
+
+La réévaluation à la juste valeur des passifs financiers externes ( à l'exclusion des dettes subordonnées ) conformément à l'article 14 des Actes Délégués de Solvabilité I , 
+
+La réévaluation des actifs et des passifs autres que les provisions techniques liées aux activités de réassurance , 
+
+La reconnaissance des passifs éventuels dans le bilan , le cas échéant , 
+
+L'annulation des actions détenues en auto - détention enregistrées dans le bilan statutaire , 
+
+L'élimination des écarts de conversion enregistrés dans le bilan statutaire , 
+
+L'annulation des dividendes prévus et des programmes de rachat d'actions dans les réserves de réconciliation , 
+
+
+L'impact fiscal des retraitements ci - dessus . 
+
+
+==================================================
+
+Page 46
+D'autres ajustements proviennent de la suppression des immobilisations incorporelles et des actifs prépayés ( enregistrés dans les autres actifs ) ou du reclassement des dettes subordonnées en tant que capitaux propres dans le bilan Solvabilité II . 
+
+Ces ajustements sont détaillés ci - après dans cette section . 
+
+La préparation du bilan conformément à la Réglementation Solvabilité I requiert lutilisation de certaines estimations et hypothèses et inclut une part de jugement dans l'application des principes Solvabilité II . Cela vaut particulièrement pour les actifs en juste valeur , les impôts différés actifs , les actifs et passifs liés à activité de réassurance , les engagements de retraite et les éléments liés aux rémunérations en actions . Les principes rappelés ci - dessous précisent les modalités d'évaluation pour ces postes . 
+
+Sauf mention contraire , les principes d'évaluation Solvabilité  d'AXA SA ont été appliqués systématiquement  l'ensemble des exercices présentés dans ce Rapport . 
+
+Le bilan Solvabilité  est présenté en euros , l'Euro étant la monnaie de présentation de la Société . Les actifs et passifs résultant de transactions en devises étrangères sont convertis en euros selon le taux de change à la clôture . 
+
+
+==================================================
+
+Page 47
+
+ Valorisation à la juste valeur 
+
+Le tableau ci - dessous résume , pour chaque catégorie importante d'actifs , la valeur des actifs de la Société selon les dispositions de Solvabilité  ainsi que les valeurs des actifs reconnus et évalués sur une base comptable statutaire au 31 décembre 2022 : 
+
+
+Écarts d'acquisition 
+
+Immobilisations corporelles détenues pour usage propre 
+
+Investissements ( autres qu'actifs en représentation de contrats en Unités de compte et indexés ) 
+
+Biens immobiliers ( autres que détenus pour usage propre ) Détentions dans des entreprises liées , y compris participations Actions 
+
+Actifs en représentation de contrats en Unités de compte et indexés 
+
+Autres actifs non mentionnés dans les postes ci - dessus TOTAL DE L'ACTIF 
+
+
+Juste valeur ( Solvabilité I ) 
+
+
+Valeur Statutaire ( Normes Françaises ) 
+
+La Société applique la hiérarchie de juste valeur issue de la norme IFRS 13 ( « Évaluation de la juste valeur  ) pour ses actifs et passifs financiers . Cette hiérarchie est conforme à la réglementation Solvabilité II . 
+
+ Le total bilan en valeur statutaire est donnée dans ce tableau à titre de comparaison avec la juste valeur Solvabilité  , après reformatage de présentation de certaines positions ( dépôts et créances vis - à - vis du groupe fiscal ou des dettes fiscales vis - à vis de l'Etat pour ses activités de holding , ainsi que les intérêts courus non échus sur titres obligataires ) à des fins de dénettage actif / passif par rapport au total bilan de l'Annexe I , page 484 , du Document d'Enregistrement Universel 2022 dAA . 
+
+
+==================================================
+
+Page 48
+La juste valeur des actifs et passifs négociés sur des marchés actifs est déterminée en utilisant les prix de marché lorsque ceux - ci sont disponibles . Un instrument est considéré comme coté sur un marché actif si des cours sont aisément et régulièrement disponibles auprès d'une bourse , d'un courtier , d'un négociateur , d'un service de cotation ou d'une agence réglementaire et que ces cours représentent des transactions réelles et intervenant régulièrement sur le marché dans des conditions de concurrence normale entre un acheteur et un vendeur volontaire . Pour les instruments financiers négociés sur des marchés actifs , les prix obtenus auprès de services externes de cotation représentent un consensus , utilisant des modèles et des hypothèses similaires et aboutissant ainsi à une dispersion des prix très limitée . 
+
+Marchés actifs et marchés inactifs pour les instruments financiers 
+
+Les actions négociées sur un marché réglementé et les obligations activement négociées sur des marchés liquides pour lesquels les prix sont régulièrement fournis par des services de tarification externes qui représentent un consensus avec une dispersion limitée et pour lesquels les cotations sont facilement disponibles sont généralement considérés comme étant cotés sur un marché actif . La liquidité peut être définie comme la possibilité de vendre ou de céder l'actif dans le cours normal des affaires dans un délai limité à peu près au prix auquel l'investissement est évalué . La liquidité des instruments de dette est évaluée à l'aide d'une approche multicritères comprenant le nombre de cotations disponibles , le lieu d'émission et l'évolution de l'élargissement des écarts entre les cours acheteur et vendeur . 
+
+Un instrument financier est considéré comme n'étant pas coté sur un marché actif si l'observation des prix de transaction est une caractéristique inhérente à l'instrument , s'il y a une baisse significative du volume et du niveau de l'activité de négociation , en cas d'illiquidité importante ou si les prix observables ne peuvent être considérés comme représentant la juste valeur en raison de conditions de marché disloquées . Les caractéristiques des marchés inactifs peuvent donc être de nature très différente , inhérentes à l'instrument ou indicatives d'un changement dans les conditions prévalant sur certains marchés . 
+
+La juste valeur des actifs et passifs qui ne sont pas négociés sur un marché actif est estimée : 
+
+en utilisant des services externes et indépendants de cotation ; ou 
+
+
+en utilisant des techniques de valorisation . 
+
+Les services externes de cotation peuvent être des gérants de fonds , dans le cas d'investissements dans des fonds non consolidés , ou des courtiers . Dans la mesure du possible , le Groupe collecte des prix auprès de ces services externes de cotation et les utilise comme données dans la valorisation à la juste valeur des actifs détenus . La dispersion des cotations obtenues peut indiquer la diversité des hypothèses retenues par les services externes de cotation compte tenu du nombre limité de transactions observées ou refléter l'existence des transactions forcées . De plus , en raison des conditions de marché et de la persistance de l'inactivité de certains d'entre eux suite à la crise financière , de nombreux établissements financiers ont fermé leurs services dédiés aux actifs structurés et ne sont plus en mesure de fournir des cotations pertinentes pour ces actifs . 
+
+Absence de marché actif : recours à des techniques de valorisation 
+
+L'objectif de ces modèles est de déterminer le prix auquel une transaction interviendrait dans des conditions normales entre des opérateurs de marché ( un acheteur et un vendeur volontaires ) à la date de l'évaluation . Les techniques de modèles de valorisation comprennent : 
+
+L'approche de marché : prise en compte de prix récents et d'autres informations pertinentes faisant suite à des transactions de marché impliquant des actifs et passifs similaires en substance ; 
+
+
+==================================================
+
+Page 49
+L'approche par le résultat : utilisation d'analyse de flux actualisés de trésorerie , de modèles d'évaluation d'option et d'autres techniques de valeur actualisée qui convertissent des montants futurs en un seul montant actualisé ; 
+
+L'approche par les coûts : prise en compte des montants qui seraient aujourdhui nécessaires pour construire ou remplacer la capacité de service d'un actif . 
+
+Les techniques d'évaluation sont subjectives par nature et l'établissement des justes valeurs fait appel à un jugement important . Elles comprennent des transactions récentes dans des conditions de concurrence normale entre des parties bien informées et consentantes sur des actifs similaires , si elles sont disponibles et représentatives de la juste valeur , et impliquent diverses hypothèses concernant le prix sous - jacent , la courbe de rendement , les corrélations , la volatilité , les taux de défaillance et d'autres facteurs . Les instruments de capitaux propres non cotés sont basés sur des vérifications croisées utilisant différentes méthodologies telles que les techniques d'actualisation des flux de trésorerie , les ratios cours / bénéfice , les valeurs nettes d'inventaire ajustées , en tenant compte des transactions récentes sur des instruments qui sont substantiellement les mêmes si elles sont conclues dans des conditions de concurrence normale entre des parties bien informées et consentantes , s'il y en a . L'utilisation de techniques d'évaluation et d'hypothèses peut donner lieu à des estimations différentes de la juste valeur . Toutefois , les évaluations sont déterminées à l'aide de modèles généralement acceptés ( flux de trésorerie actualisés , modèles de Black & Scholes , etc. ) basés sur les prix du marché pour des instruments similaires ou des facteurs sous - jacents ( indice , écart de crédit , etc. ) lorsque de telles données directement observables sont disponibles et les évaluations sont ajustées pour tenir compte des risques de liquidité et de crédit . 
+
+Des techniques de valorisation peuvent être utilisées lorsqu'il y a peu d'observation des prix de transaction en raison d'une caractéristique inhérente au marché , lorsque les cotations mises à disposition par des fournisseurs de prix externes sont trop dispersées ou lorsque les conditions de marché sont tellement disloquées que les données observées ne peuvent pas être utilisées ou nécessitent des ajustements significatifs . Les évaluations internes par référence à un modèle sont donc des pratiques de marché normales pour certains actifs et passifs peu échangés ou pour des processus exceptionnels mis en uvre en raison de conditions de marché spécifiques . 
+
+La dislocation de certains marchés peut être mise en évidence par divers facteurs , tels que l'élargissement considérable des écarts entre les cours acheteur et vendeur , qui peuvent être des indicateurs utiles pour comprendre si les acteurs du marché sont disposés à effectuer des transactions , la grande dispersion des prix du petit nombre de transactions actuelles , la variation des prix dans le temps ou entre les acteurs du marché , l'inexistence de marchés secondaires , la disparition des marchés primaires , la fermeture de bureaux spécialisés dans les institutions financières , les transactions de détresse et les transactions forcées motivées par de forts besoins de liquidités ou d'autres conditions financières difficiles impliquant la nécessité de céder des actifs immédiatement sans disposer de suffisamment de temps pour commercialiser les actifs à vendre , et les ventes en gros pour sortir de ces marchés à tout prix et qui peuvent impliquer des accords parallèles ( tels que les vendeurs fournissant un financement pour une vente à l'acheteur ) . Les prix des transactions primaires sur les marchés soutenus par les pouvoirs publics au moyen de mesures spécifiques à la suite de la crise financière ne représentent pas la juste valeur . 
+
+Dans de tels cas , la Société utilise des techniques d'évaluation comprenant des données observables chaque fois que cela est possible et pertinent , ajustées si nécessaire pour développer la meilleure estimation de la juste valeur , y compris des primes de risque adéquates , ou développe un modèle d'évaluation basé sur des données non observables représentant des estimations d'hypothèses que des acteurs du marché consentants utiliseraient lorsque les prix ne sont pas actuels , pertinents ou disponibles sans coûts et efforts excessifs : sur les marchés inactifs , les transactions peuvent être des données d'entrée lors de l'évaluation de la juste valeur , mais ne seraient probablement pas déterminantes et les données non observables peuvent être plus appropriées que les données d'entrée observables . 
+
+
+==================================================
+
+Page 50
+Conformément à la Réglementation Solvabilité I , seuls les actifs incorporels liés à l'activité en vigueur , qui sont séparables et pour lesquels il existe des preuves de transactions d'échange pour des actifs identiques ou similaires , indiquant qu'ils sont vendables sur le marché , sont comptabilisés . Cela inclut notamment les logiciels développés pour un usage interne . Ils sont comptabilisés à leur juste valeur , avec donc des différences possibles par rapport aux valeurs comptables des comptes sociaux , sur la base du coût moins l'amortissement sur la durée de vie utile estimée des actifs . Conformément aux principes de Solvabilité II , les coûts d'acquisition différés et les autres actifs incorporels , ainsi que les actifs prépayés enregistrés dans les autres actifs et comptabilisés dans les comptes sociaux , n'ont pas de valeur dans le bilan Solvabilité II . 
+
+Les immobilisations incorporelles comprennent les concessions , les brevets , les marques et les logiciels et s'élèvent à 319 millions d'euros , dont principalement la valeur de la Marque AXA évaluée à 308 millions d'euros . La valeur de la Marque AXA est prise en compte dans le bilan statutaire et est annulée dans le bilan Solvabilité II . Aucun actif d'impôt différé n'est associé à l'élimination de la Marque car il s'agit d'un actif permanent différent , la Marque n'étant pas transférable . 
+
+
+/ Impôts différés 
+
+Dans les comptes statutaires , aucun impôt différé n'est comptabilisé . Toutefois , dans le cadre de la règlementation Solvabilité II , les actifs et passifs d'impôts différés résultent des différences temporaires avec les valeurs fiscales des actifs et des passifs et , le cas échéant , des reports de pertes fiscales . Les actifs d'impôts différés sont comptabilisés dans la mesure où il est probable qu'un bénéfice imposable futur sera disponible pour compenser les différences temporaires , en tenant compte de l'existence de groupes fiscaux et de toute exigence légale ou réglementaire sur les limites ( en termes de montants ou de calendrier ) relatives au report des pertes fiscales non utilisées ou au report des crédits d'impôt non utilisés . Le caractère recouvrable des actifs d'impôt différé comptabilisés au cours des périodes précédentes est réévalué à chaque clôture . 
+
+L'évaluation des passifs et des actifs d'impôt différé reflète l'impact fiscal attendu , à la date du bilan , de la manière dont la Société s'attend à recouvrer ou à régler la valeur comptable de ses actifs et passifs . Lorsque les impôts sur le revenu sont calculés à un taux différent , si des dividendes sont versés , les impôts différés sont évalués au taux d'imposition applicable aux bénéfices non distribués . Les conséquences fiscales des dividendes ne sont comptabilisées que lorsqu'une obligation de payer le dividende est reconnue . 
+
+Pour les besoins de la présentation du bilan , les actifs d'impôts différés sont compensés avec les passifs d'impôts différés au niveau de l'entité fiscale . Au 31 décembre 2022 , une position nette d'impôts différés passifs de 698 millions d'euros a été reconnue dans le bilan Solvabilité  d'AXA SA . Les calculs détaillés des impôts différés sont basés sur le modèle de taux d'imposition français . 
+
+
+ Immobilisations corporelles pour usage propre 
+
+Selon la règlementation Solvabilité II , les immobilisations corporelles détenues pour usage propre sont comptabilisées à leur juste valeur alors qu'elles sont comptabilisées à leur coût amorti dans le bilan statutaire . Les composants de l'actif sont amortis sur leur durée de vie utile estimée et une dépréciation réversible est reconnue si les conditions sont réunies . 
+
+Lorsqu'un actif est destiné à être vendu , la valeur comptable nette de l'actif est comparée à la valeur réalisable , basée sur l'évaluation indépendante de l'actif , ou , si elle est inférieure , au prix de vente net des frais de vente . En cas de perte de valeur , il existe un risque de dépréciation à long terme et une charge de dépréciation est enregistrée . 
+
+
+==================================================
+
+Page 51
+Si l'actif est détenu à long terme , la valeur nette comptable de l'actif est comparée à l'évaluation indépendante . Si la perte de valeur dépasse 15 % de la valeur nette comptable , il existe un risque de dépréciation durable et une charge de dépréciation est comptabilisée . 
+
+Les immobilisations corporelles sont évaluées à leur coût d'acquisition ( prix d'achat et frais accessoires ) . L'amortissement est calculé selon la méthode linéaire . Les bâtiments sont amortis sur cinquante ans et les agencements des bâtiments sur cinq ou dix ans selon le cas . 
+
+
+ Placements et prêts 
+
+L'agrégat placement regroupe dans le bilan Solvabilité I , immobilier ( autre que pour usage propre ) , les participations ( incluant les entités autres que les fonds d'investissements comptabilisés selon la méthode de mise en équivalence ) , les actions , les obligations , les fonds d'investissements , les instruments dérivés , et les dépôts et équivalents de trésorerie . 
+
+
+Immeubles ( autre que pour usage propre ) 
+
+Sous Solvabilité  , les investissements dans les biens immobiliers sont comptabilisés à leur juste valeur , alors qu'ils sont comptabilisés au coût amorti dans les comptes locaux . Les composants des biens immobiliers sont amortis sur leur durée de vie utile estimée et une dépréciation réversible est comptabilisée si les conditions sont réunies . Lorsqu'un bien immobilier est destiné à être vendu , la valeur comptable nette de l'actif est comparée à la valeur réalisable , basée sur l'évaluation indépendante de l'actif , ou , si elle est inférieure , au prix de vente net des frais de vente . 
+
+Si l'actif est détenu à long terme , la valeur comptable nette de l'actif est comparée à l'évaluation indépendante . Si la perte de valeur dépasse 15 % de la valeur comptable nette , il existe un risque de dépréciation à long terme et une charge de dépréciation est comptabilisée . 
+
+
+Placements et Prêts 
+
+Les actifs financiers comprennent ( i ) les investissements et les créances sur les filiales et les sociétés liées , et ( ii ) les autres actifs financiers et les prêts . 
+
+Aux fins de la présentation du bilan statutaire , les titres sont classés selon les critères suivants : 
+
+les investissements dans les filiales et les sociétés liées sont des titres représentant au moins 10 % du capital social de la société émettrice , plus ceux que la société considère comme détenus  long terme , les autres actifs financiers comprennent les titres représentant moins de 10 % du capital social et qui ne sont pas des investissements dans des filiales et des sociétés liées . 
+
+Sous Solvabilité I , les actifs financiers sont comptabilisés à leur juste valeur . Dans les comptes locaux , 'évaluation dépend de la classification de l'investissement : 
+
+Investissements dans des filiales et des sociétés liées : 
+
+Lors de l'acquisition : Ces placements sont comptabilisés sur la base du coût d'acquisition ( art . R 343-10 du Code des assurances ) . 
+
+Valeur comptable à la date de clôture : Les participations cotées en bourse sont évaluées sur la base du cours de clôture à la date de clôture et les participations non cotées sont évaluées à la juste valeur , qui correspond au prix qui serait obtenu dans des conditions de concurrence normale et basé sur leur valeur d'usage pour la Société ( Art . R 343-11 du Code des assurances ) . 
+
+Aux fins de la présentation du bilan Solvabilité II , la valeur des investissements dans les filiales consolidées et les sociétés liées est dérivée soit ( i ) de la valeur des fonds propres éligibles en vision individuelle pour les 
+
+
+==================================================
+
+Page 52
+Pour toutes les filiales autres que les entités d'assurance ou de réassurance : 
+
+Gestionnaires d'actifs ( principalement AXA IM qui est la principale filiale de la Société dans le secteur autre que l'assurance ou la réassurance ) : la valeur de la participation est basée sur les fonds propres locaux tel que défini dans l'article 57 de la Directive 2006 / 48 / EC . Ainsi , la valeur d'AXA IM est basée sur les valeurs IFRS avec suppression de tout goodwill puisque la participation d'AXA SA dans AXA IM est supérieure à 20 % . 
+
+Banques  la valeur de la participation utilisée pour le bilan individuel d'AXA SA est basée sur les valeurs IFRS avec suppression de tout goodwill ( article 13 ( 5 ) des Actes Délégués de Solvabilité  ) . Institutions de retraite professionnelle ( FRPS ) : la valeur des participations utilisée pour le bilan individuel d'AXA SA est basée sur les valeurs IFRS avec suppression de tout goodwill ( article 13 ( 5 ) des Actes Délégués de Solvabilité II ) . 
+
+Ces éléments seront ajustés en fonction des éléments décrits ci - dessous afin d'éviter tout double comptage du capital et d'assurer la conformité avec l'article 13 des Actes Délégués de Solvabilité I : 
+
+Les fonds propres éligibles en vision individuelle ou les contributions aux fonds propres éligibles du Groupe peuvent inclure des passifs subordonnés éligibles ou des transferts latéraux en plus de l'excédent des actifs sur les passifs  les dettes subordonnées des entités sont soustraites de la valeur des fonds propres éligibles en vision individuelle pour être alignées sur l'article 13 des Actes Délégués de Solvabilité  , étant donné que la base de la valeur de participation devrait être l'excédent de la valeur des actifs sur les passifs , 
+
+L'évaluation des sociétés holding prend en compte toutes les dettes internes et externes , le cas échéant . 
+
+
+Lors de l'acquisition : 
+
+Ces actifs sont comptabilisés à leur coût d'acquisition à la date d'acquisition . Le coût d'acquisition exclut les charges d'intérêts acquises . 
+
+La prime ou la décote est amortie selon une méthode actuarielle sur la durée résiduelle du titre . La prime ou la décote représente la différence actuarielle entre le prix d'achat et la valeur de remboursement du titre . 
+
+L'amortissement cumulé est inclus dans les régularisations de l'actif ou du passif du bilan et les variations au cours de l'exercice sont incluses dans les rubriques " Autres produits de placement " et " Autres charges de placement " du compte de résultat . 
+
+Depuis le 26 novembre 2015 , en application du règlement n 2015-11 de l'ANC relatif aux placements à revenu fixe relevant de l'article R 343-10 du Code des assurances , la prime ou la décote est amortie de manière actuarielle sur la durée résiduelle du titre . La prime ou la décote représente la différence actuarielle entre le prix d'achat et la valeur de remboursement de l'investissement . 
+
+L'amortissement cumulé est inclus dans les charges à payer de l'actif ou du passif du bilan et les variations au cours de l'exercice sont incluses dans les rubriques " Autres produits des placements " et " Autres charges des placements " du compte de résultat . 
+
+
+==================================================
+
+Page 53
+La valeur de réalisation ( c'est - à - dire le cours du marché ou la valeur probable de vente ) est utilisée pour les investissements qui seront bientôt vendus , 
+
+La valeur d'usage , qui dépend de l'utilisation de l'actif par l'actionnaire , est appliquée pour évaluer les investissements dans les sociétés liées que la compagnie d'assurance a l'intention de conserver à long terme , 
+
+Si le potentiel de gain de l'émetteur est compromis à long terme , par exemple si la société a déposé le bilan , une dépréciation à long terme est enregistrée . 
+
+Par conséquent , les titres cotés en bourse sont évalués à leur dernier prix coté et les fonds communs de placement sont évalués au dernier prix de rachat publié . Les titres non cotés sont évalués à leur juste valeur sur la base de conditions de concurrence normale et en tenant compte de leur valeur d'usage pour la Société . 
+
+La valorisation des parts d'OPCVM communiquée par les sociétés de gestion d'actifs , principalement AXA Investment Managers , inclut la valeur des instruments de dette tels que les CD ( Collateralised Debt Obligations ) , CLO ( Collateralised Loan Obligations ) et autres ABS ( Asset Backed Securities ) ainsi que les dérivés de crédit . L'évaluation des tranches de dettes ABS est principalement basée sur les prix communiqués par des contreparties tierces . Les tranches d'actions d'ABS et les CDO sont évaluées en grande partie sur la base des valeurs communiquées par les structureurs . 
+
+Les transactions CDS ( Credit Default Swaps ) sont évaluées à l'aide de modèles standard basés sur les écarts de rendement de marché fournis quotidiennement par un fournisseur externe ( Markit ) . Ces valeurs de marché sont ensuite incluses dans la valeur unitaire du FCP concerné . 
+
+Dans tous les cas , la société de gestion effectue des contrôles et des vérifications de cohérence sur ces valorisations . 
+
+
+ Instruments de dérivés 
+
+Dans les comptes locaux , les règles de comptabilisation des produits dérivés applicables aux entreprises régies par le Code des assurances à compter du 1er janvier 2003 sont définies par le règlement CRC n 2002-09 du 12 décembre 2002 , complété par l'avis n 2004-04 du 25 mars 2004 du Comité National de la Comptabilité ( CNC ) . Avis n  2004-04 du 25 mars 2004 . 
+
+Le traitement comptable est basé sur la stratégie opérationnelle de contractualisation des instruments comme suit : 
+
+Stratégie d'investissement ou de désinvestissement : l'objectif de ces stratégies est de fixer la valeur d'un investissement futur ou d'un désinvestissement prévu . Pendant la durée de vie des instruments financiers à terme , les primes ou les flux intermédiaires sont enregistrés dans des comptes de régularisation d'actif ou de passif . Lorsque la stratégie est dénouée , les bénéfices ou les pertes réalisés sur les instruments dérivés sont inclus dans le prix d'achat ou le prix de vente , 
+
+Stratégie de rendement : une stratégie qui n'est pas destinée à fixer la valeur d'un investissement futur ou d'un désinvestissement planifié est une stratégie de rendement . L'effet de la stratégie est lissé pendant la durée et ne modifie pas la comptabilisation des actifs ou passifs concernés par la stratégie . Les charges et les produits associés , qu'ils soient reçus ou payés , ou qu'ils soient sous jacents , sont comptabilisés dans le compte de résultat sur la durée de la stratégie , en tenant compte du rendement effectif de l'instrument dérivé . 
+
+Sous Solvabilité I , les dérivés sont comptabilisés à leur juste valeur . 
+
+
+==================================================
+
+Page 54
+
+ Contrats de location 
+
+ Actifs détenus pour des fonds indexés et des fonds en unités de compte 
+
+
+ Actions détenues en auto - détention 
+
+Les actions détenues en auto - contrôles représentent l'acquisition d'actions AXA , dont certaines dans le cadre des programmes de rachat d'actions afin de répondre à ses obligations de livraison d'actions et d'éliminer l'effet dilutif de certains plans de rémunération basés sur des actions . 
+
+
+ Gains et pertes de change non réalisés 
+
+Dans les comptes locaux , les créances et les dettes en devises étrangères sont ajustées à la date du taux de change du bilan . L'élément correspondant à cet ajustement est un compte d'écart de conversion actif lorsque la différence est une perte non réalisée , et un compte d'écart de conversion passif lorsqu'il s'agit d'un gain non réalisé . Ces éléments passent par le compte de résultat , à l'exception de tout élément structurel . 
+
+Dans Solvabilité I , les gains et pertes de change non réalisés au bilan statutaire sont annulés . 
+
+
+ Autres actifs 
+
+Dans le cadre de Solvabilité II , les créances de réassurance sont ajustées par rapport à leur valeur statutaire pour tenir compte des pertes attendues en raison de la probabilité de défaut de la contrepartie . 
+
+En ce qui concerne les plans de rémunération en actions , l'approche suivante prévaut dans le cadre de Solvabilité   Les plans de rémunération fondés sur des actions de la Société sont principalement réglés en actions , qui , par nature , n'ont pas d'impact sur l'actif et le passif , à l'exception de l'effet fiscal correspondant . Les plans de rémunération en actions réglés en espèces sont comptabilisés à leur juste valeur , qui est réévaluée à chaque date de bilan . 
+
+Tous les autres actifs sont également comptabilisés à leur juste valeur dans le cadre de Solvabilité I , mais par défaut , la valeur statutaire est conservée . 
+
+ convient de noter que , conformément aux directives réglementaires concernant les fonds propres auxiliaires , le capital social ordinaire non libéré et non appelé sur demande n'est pas comptabilisé dans le bilan Solvabilité  . 
+
+
+==================================================
+
+Page 55
+
+ Principes généraux 
+
+Les provisions techniques d'AXA SA sont mesurées dans Solvabilité  selon une approche à deux " blocs " : Le Best Estimate Liabilities ( BEL ) ou meilleure estimation des provisions techniques , et 
+
+Une marge de risque pour les risques non couvrables qui est ajoutée au passif de la meilleure estimation . 
+
+Le BEL correspond à la moyenne pondérée par les probabilités des flux de trésorerie futurs , y compris les paiements de prestations aux assurés , les dépenses , les taxes , les primes liées aux contrats de réassurance existants , en tenant compte de la valeur temporelle de l'argent ( c'est - à - dire en actualisant ces flux de trésorerie futurs à leur valeur actuelle ) . Le calcul du BEL est basé sur des informations fiables et actualisées et sur des hypothèses réalistes . La projection des flux de trésorerie utilisée dans le calcul inclut tous les flux de trésorerie nécessaires au règlement des obligations de réassurance sur leur durée de vie . Le BEL est comptabilisé sur une base brute de réassurance , sans déduction des montants recouvrables des contrats de réassurance et des véhicules à usage spécial , qui sont comptabilisés séparément . 
+
+La marge de risque est définie comme le coût du risque non couvrable , c'est - à - dire une marge qui s'ajoute à la valeur actualisée attendue des flux de trésorerie du passif nécessaire pour gérer l'activité de manière continue . Elle est considérée comme la valeur actuelle du coût des exigences futures en matière de capital économique pour les risques non couvrables . 
+
+Cette évaluation nécessite une analyse approfondie des obligations sous - jacentes , la collecte d'informations qualitatives et quantitatives , des outils et des modèles de projection , ainsi qu'un jugement d'expert dans un certain nombre de domaines . 
+
+Le tableau ci - dessous résume les provisions techniques d'AXA SA au passif sous Solvabilité  ainsi qu'une comparaison avec la base des comptes statutaires locaux au 31 décembre 2022 : 
+
+Provisions techniques - Vie ( excluant la santé et les unités de compte ) : Best Estimate 
+
+
+Provisions techniques  Unités de compte : 
+
+
+Juste valeur ( Solvabilité  ) 
+
+
+440 393 47 
+
+
+Valeur Statutaire ( Normes locales ) 7,693 
+
+En Dommages , la principale différence entre la valeur comptable dans les comptes statutaires et la juste va ur en norme Solvabilité  sur les provisions techniques rutes est principalement due à l'effet d'actualisation des réserves pour  1 080 millions d'euros , à la comptabilisation des bénéfices futurs liés au 
+
+
+==================================================
+
+Page 56
+En Vie , la principale différence entre la valeur comptable dans les comptes statutaires et la juste valeur en norme Solvabilité  des provisions techniques brutes est due à la comptabilisation des bénéfices futurs sur les traités d'attachement au risque Vie selon la frontière des contrats Solvabilité II . 
+
+La meilleure estimation des provisions techniques ( BEL ) des montants à recouvrer au titre de la réassurance s'élève à 4 464 millions d'euros pour la branche non - vie et à 263 millions d'euros pour la branche vie , contre 5 232 millions d'euros et 344 millions d'euros de montants à recouvrer au titre de la réassurance statutaire , respectivement . 
+
+
+( En millions d'euros ) 
+
+Créances de réassurance  Non vie Non - vie et santé assimilables à la non - vie 
+
+
+Juste valeur ( Solvabilité II ) 
+
+Ainsi , la meilleure estimation nette des provisions techniques ( hors marge de risque ) s'élève à 2 010 millions d'euros contre 2 654 millions d'euros de réserves statutaires nettes à fin 2022 , la différence de  644 millions d'euros s'expliquant principalement par l'effet net de l'actualisation et le bénéfice attendu inclus dans les primes futures . 
+
+
+ Best Estimate Liabilities 
+
+Une hypothèse de meilleure estimation des provisions techniques est définie comme une hypothèse pour laquelle il y a autant de probabilité que l'expérience réelle se développe au - dessus de l'hypothèse qu'en dessous . Il ne s'agit ni d'une hypothèse prudente ni d'une hypothèse optimiste . Elle est fixée à un niveau qui n'est ni délibérément surestimé ni sous - estimé . En raison des incertitudes inhérentes , si deux hypothèses sont également raisonnables , la plus prudente est retenue . 
+
+
+Hypothèses et référentiel 
+
+Les hypothèses concernant l'expérience future doivent être raisonnables et , dans la mesure du possible , tenir compte de l'expérience historique et actuelle de la société , ajustée pour refléter les changements connus dans l'environnement et les tendances identifiables . Les études d'expérience doivent être examinées . Si les études d'expérience ne sont pas disponibles , elles doivent être développées lorsque cela est approprié et pratique . Dans certains cas , les données peuvent ne pas être disponibles ou être insuffisantes pour fournir une base crédible sur laquelle développer des hypothèses . Par conséquent , il peut être nécessaire de s'appuyer davantage sur le jugement , en tenant compte des hypothèses de tarification et / ou de provisionnement de la société et de l'expérience d'autres sociétés ayant des produits , des marchés et des procédures opérationnelles comparables . 
+
+ est important de reconnaître que les hypothèses seront utilisées pour projeter les flux de trésorerie futurs et qu'elles doivent donc être choisies en tenant compte du contexte futur ou de l'environnement opérationnel futur prévu de la Société . Ainsi , elles peuvent ou non être cohérentes avec l'expérience passée . 
+
+L'évolution de l'expérience future dépendra du contexte et des caractéristiques de risque des produits analysés . L'impact de l'environnement externe sur les flux de trésorerie et les états financiers futurs doit également être reconnu . L'établissement d'hypothèses appropriées nécessite une bonne connaissance des politiques actuelles et projetées de la direction en charge des investissements , de la souscription , de la 
+
+
+==================================================
+
+Page 57
+réassurance , du règlement des sinistres , du marketing , de la tarification , de la déclaration des dividendes / bonus aux assurés et de l'administration . Les considérations spécifiques incluent les facteurs économiques tels que l'inflation ou la récession ainsi que les environnements réglementaires , législatifs et politiques . 
+
+Les hypothèses relatives aux paramètres de meilleure estimation des provisions techniques doivent être établies de manière cohérente dans le temps et au sein de groupes de risques et de branches d'activité homogènes , sans changement arbitraire . Les hypothèses doivent refléter de manière adéquate toutes les incertitudes sous - jacentes aux flux de trésorerie . 
+
+Les hypothèses non liées au marché , fondées sur les dernières hypothèses les plus probables ( données historiques et jugement d'expert ) , sont les suivantes : 
+
+Ratio de pertes et paiement des sinistres selon la meilleure estimation , 
+
+
+Frontière des contrats , 
+
+
+Mesures de gestion 
+
+
+Spécificité de certaines hypothèses 
+
+Les dépenses comprennent les frais administratifs , les frais de gestion des investissements , les frais de gestion des sinistres qui sont liés aux obligations de réassurance reconnues . Les hypothèses qui sous - tendent les projections de dépenses sont conformes à la stratégie de la Société , en tenant compte des nouvelles affaires à venir et de toute modification des dépenses d'AXA SA par la Direction . 
+
+Frontière d'un contrat d'assurance ou de réassurance  Le bilan Solvabilité  exclut toutes les primes attendues des nouvelles affaires non encore souscrites et certaines primes futures attendues des contrats existants si la Société a le pouvoir de les rejeter ou de les refaire entièrement . 
+
+Les mesures de gestion sont prises en compte . Elles comprennent , sans s'y limiter , la réduction des dépenses . Les mesures de gestion doivent être conformes aux pratiques opérationnelles , à la stratégie de la Société et à ses obligations . 
+
+Courbe des taux de référence : Les taux d'actualisation utilisés pour les réserves à long terme sont des taux de base sans risque , ajustés pour atténuer l'effet de l'exagération de l'écart de rendement des obligations par un ajustement de volatilité . 
+
+ Déclaration sur l'utilisation de la correction pour volatilité 
+
+La correction pour volatilité est un ajustement de la structure de base des taux d'intérêt sans risque qui empêche un comportement d'investissement procyclique en atténuant la volatilité des écarts de rendement d'actifs ( principalement des obligations d'entreprises et d'État ) sur l'évaluation du passif . La correction pour volatilité est appliquée à toutes les entreprises et est ajoutée aux taux au comptant zéro - coupon de la structure de base des taux d'intérêt sans risque obtenue après avoir utilisé la méthode Smith - Wilson jusqu'au dernier point liquide observable sur le marché . 
+
+Une approche macroéconomique est utilisée pour dériver la structure des taux de référence au - delà du dernier point de données disponible . Cette approche requiert les éléments suivants : 
+
+Méthode d'interpolation entre le dernier taux à terme liquide observable et le taux à terme ultime . 
+
+Le taux à terme ultime est un taux macroéconomique spécifié comme la somme de l'inflation à long terme et du taux d'intérêt réel attendu . 
+
+
+==================================================
+
+Page 58
+Les fonds propres éligibles , après impôts , diminueraient de 9 millions d'euros sans tenir compte de l'ajustement pour volatilité , reflétant l'augmentation de la meilleure estimation des provisions techniques en raison de la baisse du taux d'actualisation . 
+
+Le SCR total augmenterait de 4 millions d'euros pour atteindre 22 965 millions d'euros , principalement en raison de l'augmentation des engagements techniques . Le Minimum de Capital Requis augmenterait de 1 million d'euros pour atteindre 5 741 millions d'euros . 
+
+Ce calcul est effectué pour répondre à une exigence réglementaire spécifique . Cependant , les résultats obtenus par cette approche ne sont pas considérés comme fournissant des conclusions économiquement conformes à la nature de l'activité souscrite et à la stratégie d'allocation d'actifs mise en uvre au sein de la Société . 
+
+ Déclaration sur lutilisation des mesures transitoires pour les provisions 
+
+AXA SA n'a pas appliqué la structure transitoire de taux d'intérêt sans risque visée à l'article 308c de la Directive 2009 / 138 / EC ni la déduction transitoire visée à l'article 308d de la même Directive . 
+
+
+ Marge de risque 
+
+En plus des BEL , une marge de risque est reconnue pour obtenir des valeurs cohérentes avec la détermination des prix du marché lorsqu'il n'existe pas de marchés profonds et liquides . La marge de risque est définie comme le coût du risque non couvrable , c'est - à - dire une marge qui s'ajoute à la valeur actuelle attendue des flux de trésorerie du passif requis pour gérer l'activité de manière continue . En général , la plupart des risques d'assurance ( par exemple , les risques de mortalité ou les risques opérationnels ) sont considérés comme des risques non couvrables . 
+
+
+Les risques non couvrables comprennent : 
+
+
+Les risques de défaut de réassurance , et 
+
+
+Les risques opérationnels . 
+
+Le Capital de Solvabilité Requis ( SCR ) pour les risques non couvrables est projeté pour les années futures jusqu'à la liquidation du portefeuille en suivant des facteurs de risque appropriés . Les facteurs de risque les plus appropriés sont les provisions pour les risques Vie et Dommages , et les provisions cédées pour les risques de défaut de réassurance . 
+
+La marge de risque est déterminée comme étant la valeur actuelle de la structure des taux d'intérêt sans risque de base des charges de capital futures en utilisant un coût du capital de 6 % pour toutes les branches d'activité . 
+
+Le coût du capital est une prime par rapport au taux sans risque qui représente la réduction de la " valeur " économique ( coût ) liée aux risques considérés . 
+
+ Part des réassureurs dans les provisions techniques 
+
+Comme les provisions techniques sont déclarées brutes de réassurance , un actif de réassurance est identifié séparément . Les opérations liées à la réassurance cédée sont comptabilisées au bilan de manière similaire aux opérations d'affaires directes et assumées en accord avec les clauses contractuelles . En effet , les 
+
+
+==================================================
+
+Page 59
+méthodes utilisées pour évaluer les soldes de réassurance dépendent du type de contrats de réassurance ( par exemple traités / facultatives , proportionnels / non proportionnels ) , de la nature des affaires et de la partie cédée . 
+
+Sous Solvabilité II , les recouvrements de réassurance sont ajustés à partir de leur valeur statutaire pour prendre en compte les pertes attendues en cas de défaut de la contrepartie . 
+
+
+ Changements importants des hypothèses en 2022 
+
+Les changements significatifs d'hypothèses en 2022 sont liés à la projection de l'inflation des provisions pour sinistres en Dommages , compte tenu du contexte actuel et des hypothèses économiques prospectives . La projection à long terme des primes et des sinistres futurs sur un traité de réassurance Vie a été revue , ce qui a conduit à une augmentation des engagements nets de meilleure estimation chez AXA SA . 
+
+
+==================================================
+
+Page 60
+Le tableau ci - dessous résume les autres engagements d'AXA SA sous Solvabilité  ainsi qu'une comparaison avec la base des comptes statutaires au 31 décembre 2022 . 
+
+
+Engagements sociaux 
+
+Dettes financières autres que celles détenues auprès du secteur bancaire 
+
+
+698 4 
+
+
+Valeur Statutaire ( Normes Françaises ) 
+
+
+ Passifs éventuels 
+
+Des obligations éventuelles qui résultent d'événements passés et dont l'existence ne sera confirmée que par la survenance ou non d'un ou plusieurs événements futurs incertains qui ne sont pas totalement sous le contrôle de l'entité ou , 
+
+Une obligation actuelle qui résulte d'événements passés mais pour laquelle il n'est pas probable qu'une sortie de ressources représentatives d'avantages économiques soit nécessaire pour éteindre l'obligation . 
+
+Dans le cadre de Solvabilité II , les passifs éventuels qui sont significatifs sont comptabilisés en tant que passifs . Les passifs éventuels sont significatifs lorsque des informations sur la taille ou la nature actuelle ou potentielle de ces passifs pourraient influencer la prise de décision ou le jugement de l'utilisateur prévu de ces informations , y compris les autorités de contrôle . 
+
+La valeur des passifs éventuels est égale à la valeur actuelle attendue des flux de trésorerie futurs nécessaires pour régler le passif éventuel sur la durée de vie de ce passif éventuel , en utilisant la structure de base des taux d'intérêt sans risque . 
+
+AXA SA n'a pas de passif éventuel au 31 décembre 2022 . 
+
+
+ Provisions autres que les provisions techniques 
+
+La même approche prévaut tant dans les comptes statutaires que dans le cadre de Solvabilité I . Des provisions sont comptabilisées lorsque la Société a une obligation actuelle ( légale ou implicite ) résultant d'événements passés , lorsqu'il est probable qu'une sortie de ressources sera nécessaire pour régler l'obligation et lorsque la provision peut être estimée de manière fiable . Les provisions ne sont pas comptabilisées pour les pertes d'exploitation futures . Les provisions sont évaluées à la meilleure estimation de la direction , à la date du bilan . 
+
+
+==================================================
+
+Page 61
+Selon les normes locales , les engagements comptabilisés au bilan au titre des régimes à prestations définies correspondent à la valeur actuelle de l'engagement à la date du bilan moins , le cas échéant , la juste valeur des actifs du régime , tous deux corrigés des gains / pertes actuariels et du coût des services passés non comptabilisés . La valeur actuelle de l'obligation est calculée chaque année selon la méthode des " unités de crédit projetées " . Elle est déterminée en actualisant les prestations futures attendues sur la base du taux de marché des obligations d'entreprises de premier ordre libellées dans la même devise que les prestations à verser et d'une durée comparable à l'obligation sous - jacente . 
+
+Les gains ou pertes actuariels résultant d'ajustements fondés sur l'expérience et les effets des changements d'hypothèses actuarielles sont comptabilisés en charges ou en produits sur la durée de vie active moyenne résiduelle attendue des membres du personnel bénéficiant du régime , pour la partie excédant 10 % de la valeur actuelle de l'obligation ou , si elle est supérieure , de la juste valeur des actifs du régime . 
+
+Le coût des services passés , généré par l'adoption ou la modification des régimes à prestations définies , est comptabilisé en charges de manière linéaire sur la durée moyenne résiduelle attendue de la vie active des membres du personnel bénéficiant des régimes . 
+
+Dans le cadre de la règlementation Solvabilité I , les obligations en matière de prestations de retraite comprennent les prestations payables aux employés d'AXA SA après leur départ à la retraite ( indemnité de retraite , prestation de retraite supplémentaire , assurance maladie ) . Pour faire face à ces obligations , certains cadres réglementaires permettent ou imposent la mise en place de fonds dédiés ( actifs du régime ) . 
+
+Régimes à cotisations définies : des paiements sont effectués par l'employeur à un tiers ( par exemple , des fonds de pension ) . Ces paiements libèrent l'employeur de tout autre engagement , et l'obligation de payer les prestations acquises aux employés est transférée . Aucun passif ne doit être enregistré une fois les cotisations versées . 
+
+Régimes à prestations définies : une évaluation actuarielle des engagements basée sur les règles internes de chaque régime est effectuée . La valeur actuelle des prestations futures versées par l'employeur , appelée DBO ( Defined Benefit Obligation ) , est calculée chaque année sur la base de projections à long terme de l'augmentation des salaires , du taux d'inflation , de la mortalité , de la rotation du personnel , de l'indexation des pensions et de la durée de service restante . Le montant inscrit au bilan pour les régimes à prestations définies des employés est la différence entre la valeur actuelle de l'obligation de prestations définies et la valeur de marché à la date du bilan des actifs du régime investis correspondants , après ajustement pour toute exigence de financement minimum ou tout effet de plafonnement des actifs . Si le résultat net est positif , une provision est enregistrée . Si le résultat net est négatif , un actif de pension payé d'avance est enregistré au bilan , mais pas plus que sa valeur recouvrable ( plafond de l'actif ) . 
+
+
+/ Impôts différés 
+
+Veuillez vous référer à la section D.1 . Au 31 décembre 2022 , une position nette d'impôt différé passif de 698 millions d'euros a été reconnue dans le bilan Solvabilité  . 
+
+
+ Dettes financières 
+
+En normes locales , les passifs financiers sont comptabilisés au coût amorti . 
+
+Sous Solvabilité II , les passifs financiers sont réévalués à leur juste valeur , à l'exception des dettes subordonnées qui sont reclassées dans les fonds propres ( cf. section E.1 . Fonds propres / Analyse du capital par niveau ) . Les autres passifs financiers externes réévalués à la juste valeur ne font pas l'objet d'un 
+
+
+==================================================
+
+Page 62
+Les dettes subordonnées éligibles sont traitées comme du capital dans le bilan Solvabilité I ( notamment parce qu'elles sont disponibles pour absorber les pertes en cas de problèmes de solvabilité ) et réparties dans la structure du capital ( cf. section E.1 . Fonds propres / Analyse du capital par niveau ) en Niveau 1 ( pour la partie déjà incluse dans les fonds propres IFRS du Groupe AXA ) ou en Niveau 2 ( pour la partie restante ) . 
+
+Afin de ne pas créer de décalage entre les fonds propres éligibles et l'évaluation des participations dans le bilan Solvabilité  d'AXA SA ( Section D.1 Actifs / valuation de la juste valeur / Investissements dans les filiales et entreprises liées ) , les passifs financiers internes ( et les prêts ) émis vers : 
+
+des entités réglementées sous Solvabilité  ( " Dettes internes " ou " prêts internes " ) sont réévalués à la juste valeur pour compenser la réévaluation effectuée par la contrepartie dans leur bilan S2 au travers des fonds propres éligibles en vision individuelle , 
+
+les entités non réglementées dans le cadre de Solvabilité  ( " Dettes externes " ou " prêts externes " ) restent au coût , la réévaluation de la contrepartie étant éliminée dans leur contribution consolidée au fonds propres éligibles du Groupe . 
+
+
+ Dettes et dépôts des réassureurs 
+
+En normes locales , les dettes découlant des opérations de réassurance acceptée et de réassurance directe acceptée sont évaluées au coût amorti . En Solvabilité I , les dettes sont réévaluées à leur juste valeur . Selon les termes contractuels , les réassureurs doivent constituer des dépôts en espèces auprès de la Société afin que cette dernière bénéficie d'une garantie au titre des provisions techniques qu'elle a cédées . 
+
+Ces dépôts sont rémunérés au taux du marché , en cas de taux positifs . Les dépôts sont évalués au coût amorti , tant en normes françaises qu'en normes Solvabilité II . 
+
+
+ Autres dettes 
+
+Toutes les autres dettes ( actifs tangibles et autres actifs à long terme ) sont également enregistrées à leur juste valeur dans Solvabilité I , mais par défaut , la valeur statutaire locale est conservée . 
+
+
+==================================================
+
+Page 63
+Pour des informations détaillées sur les méthodes alternatives utilisées pour l'évaluation des actifs et autres passifs , veuillez vous référer à la sous - section " Évaluation de la juste valeur " de la section D.1 . 
+
+Pour des informations détaillées sur les méthodes alternatives utilisées pour l'évaluation des passifs autres que les provisions techniques , veuillez vous référer à la section D.3 . 
+
+
+D.5 Autres informations 
+
+
+==================================================
+
+Page 64
+
+E.1 Fonds propres 
+
+
+Objectifs de la gestion du capital 
+
+
+Information sur la structure du capital 
+
+
+Variation des ressources en capital en 2022 
+
+
+Analyse du capital par niveau ( Tiering ) 
+
+Réconciliation avec les capitaux propres statutaires 
+
+E.2 Capital de solvabilité requis et minimum de capital requis 
+
+Capital de solvabilité requis ( Solvency Capital Requirement - SCR ) 
+
+Minimum de capital requis ( Minimum Capital Requirement - MCR ) 
+
+E.3 Utilisation du sous - module « risque sur actions » fondé sur la durée dans le calcul du capital de solvabilité requis 
+
+E.4 Différences entre la formule standard et tout modèle interne utilisé 
+
+E.5 Non - respect du minimum de capital requis et non - respect du capital de solvabilité requis 
+
+
+E.6 Autres informations 
+
+
+==================================================
+
+Page 65
+
+E.1 Fonds propres 
+
+
+ Objectifs de la gestion du capital 
+
+Une description des objectifs de gestion du capital qui s'appliquent à la Société est incorporée dans ce Rapport par renvoi à la Section 2.4 " Liquidité et ressources en capital  Objectifs de gestion du capital du Groupe " aux pages 88 à 89 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+
+ Information sur la structure du capital 
+
+Au 31 décembre 2022 , les fonds propres éligibles s'élèvent à 58 317 millions d'euros . Les ressources en capital au 31 décembre 2022 et au 31 décembre 2021 proforma sont présentées dans le tableau ci - dessous : 
+
+
+Capital social 
+
+
+Fonds propres auxiliaires 
+
+
+Dettes subordonnées Fonds Propres Eligibles 
+
+
+Au 31 décembre 2022 5 386 
+
+
+Fonds Propres Eligibles ( EOF ) 
+
+
+ Variation des ressources en capital en 2022 
+
+Dividendes  Programme de rachat d'actions prévus en 2023 
+
+
+Au 31 décembre 2021 proforma 
+
+La réserve de réconciliation représente l'excédent de l'actif sur le passif dans le bilan Solvabilité I , réduit par les éléments de capital dans les états financiers ( capital social , capital en excès de la valeur nominale ) et net du dividende prévu en 2023 . 
+
+
+Fonds Propres Eligibles 
+
+Les fonds propres éligibles (  EOF " ) d'AXA SA ont augmenté de 3 709 millions d'euros pour atteindre 58 317 millions d'euros en raison de : 
+
+4 738 millions d'euros d'ajustement d'ouverture positif de la reconnaissance de certaines dettes subordonnées , 
+
+
+==================================================
+
+Page 66
+une augmentation de + 1 273 millions d'euros des dettes subordonnées au cours de la période , des dividendes et programme de rachat d'actions prévus en 2023 pour - 4 950 millions d'euros . 
+
+
+ Analyse du capital par niveau 
+
+
+Répartition du capital par niveau 
+
+Une description de l'Analyse du capital par niveau qui s'applique à la Société est incorporée dans ce Rapport par renvoi à la Section 2.4 " Liquidité et ressources en capital  Analyse du capital par niveau ( Tiering ) " à la page 89 du Document d'Enregistrement Universel 2022 d'AXA . 
+
+L'EOF est le montant de fonds propres éligibles après application des limites par niveau . La classification par niveaux est présentée dans le tableau ci - dessous : 
+
+
+( En millions d'euros ) 
+
+
+Fonds Propres Eligibles ( EOF ) 
+
+
+  
+
+
+Niveau 1 non restreint 
+
+
+  
+
+
+Niveau 1 restreint 
+
+
+  
+
+
+ 
+
+Les différentes composantes du capital éligible d'AXA SA sont déterminées conformément aux exigences réglementaires de Solvabilité I . Au 31 décembre 2022 , le capital éligible s'élevait à 58 317 millions d'euros et se composait de 41 191 millions d'euros d'éléments Niveau 1 non restreints et de 5 715 millions d'euros de dettes subordonnées en Niveau 1 restreint et de 11 411 millions d'euros en Niveau 2 . 
+
+Selon la méthode de calcul mise en uvre par AXA conformément à la réglementation en vigueur , les fonds propres éligibles d'AXA SA pour couvrir son MCR sous le régime actuel de Solvabilité  s'élèvent à 837 % au 31 décembre 2022 . 
+
+Description des dettes subordonnées à durée déterminée et indéterminée 
+
+Une description des dettes subordonnées à durée déterminée et indéterminée comptabilisées dans les capitaux propres ainsi que le mécanisme d'absorption des pertes des dettes subordonnées qui s'appliquent à la Société sont incorporées dans ce Rapport par renvoi à la Section 2.4 " Liquidité et ressources en capital - Description des dettes subordonnées à durée déterminée et indéterminée " aux pages 89 à 90 du Document de Référence Universel 2022 d'AXA . 
+
+Les dettes subordonnées à durée déterminée et indéterminée d'AXA SA comptabilisées dans les capitaux propres de la Société est incorporée dans ce Rapport par renvoi à la page 497 de l'Annexe I du Document de Référence Universel 2022 d'AXA . 
+
+
+==================================================
+
+Page 67
+ Réconciliation avec les capitaux propres statutaires 
+
+Au 31 décembre 2022 , les fonds propres statutaires s'élèvent à 40 893 millions d'euros . 
+
+Les principales différences entre les capitaux propres statutaires et les Fonds Propres Eligibles ( EOF ) Solvabilité  sont présentées dans le tableau ci - dessous : 
+
+
+Capitaux propres statutaires 
+
+
+Annulation des actifs incorporels 
+
+
+Fonds propres éligibles ( EOF ) 
+
+Les principales différences entre les normes locales et le cadre Solvabilité  sont les suivantes : 
+
+La suppression des actifs incorporels pour un montant de 319 millions d'euros . 
+
+L'ajustement de la valeur de marché des actifs et des dettes est lié à la reconnaissance des plus - values et moins - values latentes comptabilisées au coût dans le bilan statutaire , pour un montant total de + 4910 millions d'euros , 
+
+
+- 319 4910 
+
+Les ajustements de meilleure estimation des provisions techniques et de marge de risque de + 173 millions d'euros lié à la réévaluation dans le cadre de Solvabilité II , par rapport à celles des comptes locaux , 
+
+Reconnaissance des dettes subordonnées dans les capitaux propres pour un montant de 17 126 millions d'euros , 
+
+Un dividende et un programme de rachat d'actions prévus en 2023 pour un montant de 4 950 millions d'euros . 
+
+
+==================================================
+
+Page 68
+E.2 Capital de solvabilité requis et minimum de capital requis . 
+
+
+ Principes généraux 
+
+La Directive Solvabilité  prévoit deux niveaux distincts de marge de solvabilité : ( i ) le Minimum de Capital Requis ( MCR ) , qui correspond au montant de fonds propres en dessous duquel les clients et les bénéficiaires sont exposés à un niveau de risque inacceptable si la Société est autorisée à poursuivre ses activités , et ( ii ) le Capital de Solvabilité Requis ( SCR ) , qui correspond à un niveau de fonds propres éligibles permettant aux compagnies d'assurance et de réassurance d'absorber des pertes importantes et donnant une assurance raisonnable aux bénéficiaires que les paiements seront effectués . 
+
+ Capital de solvabilité requis ( Solvency Capital Requirement - SCR ) 
+
+Au 31 décembre 2022 , le capital de solvabilité requis de la société s'élevait à 22 961 millions d'euros , répartis comme suit par module de risque ( montants avant impôts et avant diversification ) : 
+
+
+Risque Dommages : 1 893 millions d'euros , 
+
+
+Risque de contrepartie : 811 millions d'euros , 
+
+
+Risque Vie : 332 millions d'euros , 
+
+
+Risque opérationnel : 249 millions d'euros , 
+
+
+Risque Santé : 53 millions d'euros 
+
+La répartition du capital requis Solvabilité  par catégorie de risque est la suivante : 
+
+
+1,3 % pour le risque Vie , 
+
+1,0 % pour le risque opérationnel , 0,2 % pour le risque Santé . 
+
+
+Risque Non Vie 7,3 % 
+
+
+Décomposition du SCR FY22 
+
+
+Risque Opérationnel 1,0 % 
+
+
+Risque de Marché 87,1 % 
+
+
+==================================================
+
+Page 69
+Le SCR total a augmenté de + 369 millions d'euros , passant de 22 592 millions d'euros à 22 961 millions d'euros de fin 2021 proforma à fin 2022 , principalement en raison de l'évolution des risques de marché et des risques Dommages . 
+
+ Minimum de capital requis ( Minimum Capital Requirement - MCR ) 
+
+Le Minimum de Capital Requis est destiné à garantir un niveau minimum en dessous duquel le montant des ressources financières ne doit pas tomber . Ce montant est calculé selon une formule simple , qui est soumise à un plancher et à un plafond définis en fonction du Capital de Solvabilité Requis de la Société afin de permettre une échelle croissante d'intervention des autorités de contrôle , et qu'il est basé sur les données qui peuvent être auditées . 
+
+Conformément aux méthodes de calcul mises en uvre par AXA SA dans le respect de la réglementation en vigueur , le Minimum de Capital Requis d'AXA SA s'élève à 5 740 millions d'euros au 31 décembre 2022 ( en hausse de +92 millions d'euros par rapport à la valeur du MCR de fin 2021 proforma ) principalement sous l'effet de l'évolution du Capital de Solvabilité Requis . 
+
+Fonds propres éligibles à la couverture du MCR MCR ratio 
+
+
+FY 2022 22 961 
+
+
+48 102 838 % 
+
+Comme le montre le tableau ci - dessus , le ratio MCR est de 837 % , bien au - dessus de 100 % . Même sans ajusteur de volatilité , le ratio MCR resterait à un niveau adéquat . 
+
+
+48 093 838 % 
+
+Le Capital Minimum Requis est calculé sur la base d'une formule factorielle prenant en considération les montants de la meilleure estimation des passifs nets des montants recouvrables des contrats de réassurance et des véhicules à usage spécial , et les primes émises pour chaque segment d'activité . Des facteurs différents sont appliqués à ces montants en fonction de chaque segment concerné . 
+
+
+==================================================
+
+Page 70
+E.3 Utilisation du sous - module  risque sur actions  fondé sur la durée dans le calcul du capital de solvabilité requis 
+
+E.4 Différences entre la formule standard et tout modèle interne utilisé 
+
+AXA SA , depuis l'obtention de son agrément de réassurance en 2022 , détermine la valeur de son exigence de capital réglementaire sur base individuelle avec la formule standard de Solvabilité  . 
+
+E.5 Non - respect du minimum de capital requis et non respect du capital de solvabilité requis 
+
+
+E.6 Autres informations 
+
+
+==================================================
+
+Page 71
+
+Annexe  Modèles de déclaration quantitative 
+
+Les états quantitatifs annuels Solvabilité  ( Quantitative Reporting Templates  QRT ) sont des modèles servant à l'analyse quantitative , préparés conformément à la Réglementation Solvabilité I , et faisant partie du rapport sur la solvabilité et la situation financière ( Solvency and Financial Condition Report  SFCR ) d'AXA SA . Les QRT annuels complètent les informations présentées dans le SFCR et sont constitués de tableaux décrivant les postes du bilan , les primes , les sinistres et les dépenses par pays et par ligne d'activité , et les montants des provisions techniques , des fonds propres et du capital de solvabilité requis . 
+
+Les modèles de déclaration quantitative mentionnés ci - dessous pour la Société sont disponibles sur le site Internet du Groupe AXA ( www.axa.com )  
+
+
+État S.23.01.02 Fonds propres 
+
+État S.28.01.01 Minimum de capital requis  activités d'assurance ou de réassurance vie uniquement ou activités d'assurance ou de réassurance non - vie uniquement 
+
