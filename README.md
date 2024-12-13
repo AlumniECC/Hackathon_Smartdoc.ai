@@ -1,6 +1,6 @@
 # README: Hackathon SmartDoc.ai
 
-## Equipe 2
+## L'Equipe 2
 - BADOLO Christian Thomas
 - KINDO Harouna 
 - NABI Daniel
