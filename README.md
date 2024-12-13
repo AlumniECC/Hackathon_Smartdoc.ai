@@ -2,7 +2,7 @@
 
 ## Equipe 2
 
-Ce projet a été réalisé dans le cadre du hackathon SmartDoc.ai, ayant pour objectif principal le traitement de documents financiers au format PDF pour en extraire uniquement les contenus pertinents à l'aide d'outils NLP. Voici une description des étapes réalisées lors de la première partie de cet exercice.
+Ce projet a été réalisé dans le cadre du hackathon SmartDoc.ai, ayant pour objectif principal le traitement de documents financiers au format PDF pour en extraire uniquement les contenus pertinents à l'aide d'outils NLP. Voici une description des étapes réalisées lors des différentes parties cet exercice.
 
 ---
 <details>
@@ -24,7 +24,7 @@ L'objectif principal était de classifier automatiquement les blocs textuels ext
 - **Titre** : Grands titres ou sous-titres délimitant les différentes sections des rapports.
 
 ### Approche Technique :
-Pour cette étape, une fonction nommée **`label_content(df, thresholds=None)`** a été développée dans le fichier `google_vision_api/report_cleaning.ipynb`. Elle repose sur des seuils définis pour différencier les catégories de contenu.
+Pour cette étape, une fonction nommée **`label_content(df, thresholds=None)`** a été développée dans le fichier [notebook](google_vision_api/report_cleaning.ipynb). Elle repose sur des seuils définis pour différencier les catégories de contenu.
 
 #### Fonctionnement de `label_content()` :
 1. **Seuils Utilisés :**
@@ -68,6 +68,9 @@ Le fichier généré est produit à l'aide de la fonction suivante :
 - **Classification Automatisée :** Les blocs textuels sont correctement identifiés et classés.
 - **Fichiers Lisibles :** Les fichiers texte produits sont clairs et organisés par page avec une distinction nette entre les titres et les paragraphes.
 
+### ⚠️ L'on a [ici](google_vision_api/text) 4 fichers `.txt` de l'extraction des 4 [rappors PDF](data/pdfs) 
+
+
 ### Analyse :
 La labélisation a été fait 
 
@@ -75,5 +78,50 @@ La labélisation a été fait
 
 ## Conclusion :
 Ces étapes ont permis d'établir une base solide pour l'analyse des rapports SFCR en filtrant efficacement le contenu utile. Les techniques de traitement et de labélisation développées ici préparent à la deuxième partie de l'exercice, centrée sur l'implémentation d'une architecture RAG.
+
+---
+## Bonnus : Extraction lisible des informations des tableaux
+
+---
+### Objectif  
+L'objectif de cette partie était de détecter et extraire automatiquement les tableaux présents dans des fichiers PDF, puis de convertir leur contenu en texte structuré tout en préservant la disposition tabulaire. Le code a été devollopé dans ce [notebook](tables/table_detection_and_extraction.ipynb)
+
+
+### Étapes de la Méthodologie
+
+1. **Détection des Tableaux**  
+   - **Modèle Utilisé :** Un modèle [YOLO 🌐](https://huggingface.co/foduucom/table-detection-and-extraction) a été employé pour détecter les tableaux dans les pages du PDF.  
+   - **Processus :** Les pages des PDF sont converties en images. Le modèle analyse ces images pour repérer les zones contenant des tableaux et les découpe en sous-images correspondant à chaque tableau.  
+   - **Paramètres Clés :** Des seuils de confiance (confidence score) et IoU (Intersection over Union) ont été ajustés pour optimiser la précision de la détection des tableaux.
+
+2. **Extraction des Images des Tableaux**  
+   - Une fois détectés, les tableaux sont extraits sous forme d'images individuelles et sauvegardés dans un répertoire. Chaque image représente un tableau unique trouvé dans le document.
+
+3. **Conversion des Images en Texte**  
+   - **Outil Utilisé :** [Tesseract-OCR 🌐](https://github.com/tesseract-ocr/tesseract) a été utilisé pour convertir le contenu des images en texte lisible et structuré.  
+   - **Prétraitement :** Les images des tableaux ont été redimensionnées et converties en RGB pour améliorer la qualité de l'extraction du texte.  
+   - **Structure Conservée :** Une analyse des positions et des blocs textuels a permis de recréer la structure tabulaire originale dans le format texte.
+
+4. **Résultats Structurés**  
+   - Le contenu textuel des tableaux est formaté dans des formats exploitables (dans notre cas du texte) pour faciliter les analyses ultérieures par les modèles.
+
+
+### Résultats  
+Cette méthodologie a permis :  
+- Une détection précise des tableaux dans des documents PDF complexes.  
+- Une extraction fidèle du contenu tabulaire, avec une préservation de la structure.  
+- Une préparation des données sous une forme facilement exploitable pour des besoins d'analyse ou d'intégration.
+
+#### Exemple SFCR [COVEA](data/pdfs/sfcr_covea_2022.PDF) : image détectée puis text détecté
+
+- Apres détection des tables par YOLO (page 89)
+![Page 89](images/page_89_apres_YOLO.jpg)
+
+- Apres détection du text dans l'image
+![Page 89](images/page_89_apres_Tessaract.png)
+
+### Analyse :
+Le modèle YOLO permet une detection et extraction systématique sous forme d'image de toutes les tables dans les différents PDF. La difficulté apparente se trouve au niveau de l'extraction des tables de ces images (dans le cas de l'utilisation de modèle lite non multimodale)
+
 
 </details>
