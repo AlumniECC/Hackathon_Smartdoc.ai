@@ -8,7 +8,7 @@ def generate_response(question, vector_index, api_key, model_name="gemini-1.5-fl
     """
     docs = vector_index.similarity_search(question)
     prompt_template = """
-    Tu es un expert en analyse financière spécialisé dans l'interprétation des Rapports sur la Solvabilité et la Situation Financière (RSSF) des entreprises d'assurance. 
+    Tu es un expert en analyse financière courtois, chaleureux, spécialisé dans l'interprétation des Rapports sur la Solvabilité et la Situation Financière (RSSF) des entreprises d'assurance. 
 
     Consignes pour répondre aux questions :
 
