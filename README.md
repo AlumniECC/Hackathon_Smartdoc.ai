@@ -1,6 +1,9 @@
 # README: Hackathon SmartDoc.ai
 
 ## Equipe 2
+- BADOLO Christian Thomas
+- KINDO Harouna 
+- NABI Daniel
 
 Ce projet a été réalisé dans le cadre du hackathon SmartDoc.ai, ayant pour objectif principal le traitement de documents financiers au format PDF pour en extraire uniquement les contenus pertinents à l'aide d'outils NLP. Voici une description des étapes réalisées lors des différentes parties cet exercice.
 
@@ -72,8 +75,8 @@ Le fichier généré est produit à l'aide de la fonction suivante :
 
 
 ### Analyse :
-La labélisation a été fait 
-
+La labélisation a été faite selon des critères qu'il est difficile de généraliser.
+L'étape de labélisation, bien que fonctionnelle, présente certaines limites dues à la difficulté de définir des critères universels applicables à tous les types de rapports SFCR. En effet, les seuils définis pour la position verticale, la taille des caractères et le nombre de caractères sont basés sur des observations spécifiques, ce qui peut entraîner des erreurs ou des ambiguïtés dans certaines situations.
 ---
 
 ## Conclusion :
@@ -221,5 +224,61 @@ Voici une démonstration vidéo :
 <iframe src="https://www.loom.com/share/158c4b96c70c447685bd8416f31841e5?sid=b5102413-d26f-4136-b670-e049b11bcdfc">
 </iframe>
 
+</details>
 
+---
+<details>
+<summary>Utilisation du code</summary>
+
+### Étapes pour utiliser ce projet : 
+
+1. **Cloner le dépôt**  
+   Téléchargez le projet sur votre machine en clonant le dépôt GitHub avec la commande suivante :  
+   ```bash
+   git clone https://github.com/zenitsu93/Hackathon_Smartdoc.ai.git
+   ```
+
+2. **Se déplacer dans le répertoire du projet**  
+   Entrez dans le répertoire du projet cloné :  
+   ```bash
+   cd Hackathon_Smartdoc.ai
+   ```
+
+3. **Créer un environnement virtuel (.venv)**  
+   Créez un environnement virtuel Python pour isoler les dépendances du projet :  
+   ```bash
+   python -m venv .venv
+   ```
+
+4. **Activer l’environnement virtuel**  
+   - Sur **Windows** :  
+     ```bash
+     .venv\Scripts\activate
+     ```
+   - Sur **Mac/Linux** :  
+     ```bash
+     source .venv/bin/activate
+     ```
+
+5. **Installer les dépendances**  
+   Installez les bibliothèques nécessaires à partir du fichier `requirements.txt` :  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+6. **Créer un fichier `.env` pour les variables d’environnement**  
+   - Créez un fichier `.env` dans le répertoire principal du projet.  
+   - Ajoutez-y votre clé API Google :  
+     ```
+     GOOGLE_API_KEY=VotreCléAPI
+     ```
+     Remplacez `VotreCléAPI` par la clé API que vous avez obtenue depuis la console [Google Cloud](https://aistudio.google.com/apikey).
+
+7. **Lancer l'application avec Streamlit**  
+   Exécutez la commande suivante pour démarrer l'application :  
+   ```bash
+   streamlit run main.py
+   ```
+
+---
 </details>
