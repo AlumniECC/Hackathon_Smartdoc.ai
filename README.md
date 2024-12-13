@@ -6,7 +6,7 @@ Ce projet a été réalisé dans le cadre du hackathon SmartDoc.ai, ayant pour o
 
 ---
 <details>
-<summary>Premiere partie</summary>
+<summary>Premiere partie (using Google Vision API)</summary>
 
 ## 1. Traitement des Données OCR
 
@@ -80,7 +80,7 @@ La labélisation a été fait
 Ces étapes ont permis d'établir une base solide pour l'analyse des rapports SFCR en filtrant efficacement le contenu utile. Les techniques de traitement et de labélisation développées ici préparent à la deuxième partie de l'exercice, centrée sur l'implémentation d'une architecture RAG.
 
 ---
-## Bonnus : Extraction lisible des informations des tableaux
+## 3. Bonnus : Extraction lisible des informations des tableaux
 
 ---
 ### Objectif  
@@ -90,7 +90,7 @@ L'objectif de cette partie était de détecter et extraire automatiquement les t
 ### Étapes de la Méthodologie
 
 1. **Détection des Tableaux**  
-   - **Modèle Utilisé :** Un modèle [YOLO 🌐](https://huggingface.co/foduucom/table-detection-and-extraction) a été employé pour détecter les tableaux dans les pages du PDF.  
+   - **Modèle Utilisé :** Un modèle [YOLO🌐](https://huggingface.co/foduucom/table-detection-and-extraction) a été employé pour détecter les tableaux dans les pages du PDF.  
    - **Processus :** Les pages des PDF sont converties en images. Le modèle analyse ces images pour repérer les zones contenant des tableaux et les découpe en sous-images correspondant à chaque tableau.  
    - **Paramètres Clés :** Des seuils de confiance (confidence score) et IoU (Intersection over Union) ont été ajustés pour optimiser la précision de la détection des tableaux.
 
@@ -98,7 +98,7 @@ L'objectif de cette partie était de détecter et extraire automatiquement les t
    - Une fois détectés, les tableaux sont extraits sous forme d'images individuelles et sauvegardés dans un répertoire. Chaque image représente un tableau unique trouvé dans le document.
 
 3. **Conversion des Images en Texte**  
-   - **Outil Utilisé :** [Tesseract-OCR 🌐](https://github.com/tesseract-ocr/tesseract) a été utilisé pour convertir le contenu des images en texte lisible et structuré.  
+   - **Outil Utilisé :** [Tesseract-OCR🌐](https://github.com/tesseract-ocr/tesseract) a été utilisé pour convertir le contenu des images en texte lisible et structuré.  
    - **Prétraitement :** Les images des tableaux ont été redimensionnées et converties en RGB pour améliorer la qualité de l'extraction du texte.  
    - **Structure Conservée :** Une analyse des positions et des blocs textuels a permis de recréer la structure tabulaire originale dans le format texte.
 
@@ -122,6 +122,27 @@ Cette méthodologie a permis :
 
 ### Analyse :
 Le modèle YOLO permet une detection et extraction systématique sous forme d'image de toutes les tables dans les différents PDF. La difficulté apparente se trouve au niveau de l'extraction des tables de ces images (dans le cas de l'utilisation de modèle lite non multimodale)
+
+</details>
+
+
+<details>
+<summary>Premiere partie (using  Llama Parser)</summary>
+
+## 1. Exctraction avec  LlamaParse
+Vu les limites apparentes de la méthode d'extraction avec `Google Vision`, nous avons effectué un benchmark qui a abouti à la solution de `LlamaCloud` : [Llama Parser](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/). LlamaParse est un parseur de documents sur le marché spécialement conçu pour les améliorer les RAG. Cette solution a permis d'extraire de manière fidèle les informations de divers PDF sous forme de `Markdown`. En utilisant `LlamaParse`, nous avons pu surmonter les défis liés à l'extraction de contenu complexe, tels que les tableaux, les diagrammes et l'ordre de lecture, en obtenant des résultats plus précis et mieux structurés que ceux offerts par les modèles multimodaux traditionnels. Grâce à son approche hybride, LlamaParse a réduit les erreurs d'extraction, tout en offrant une meilleure gestion du contenu visuel et textuel.
+
+### ⚠️ [Code LlamaParse](llama_parser/Hackathon_LlamaParse.ipynb)
+
+## 2. Résulats
+### ⚠️ L'on a [ici](llama_parser/markdown) 4 fichers `.md` de l'extraction des 4 [rappors PDF](data/pdfs) 
+
+</details>
+
+
+
+<details>
+<summary>Deuxieme partie</summary>
 
 
 </details>
