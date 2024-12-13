@@ -30,12 +30,14 @@ def main():
         st.title("📊 RAG - Solvabilité & Situation Financière")
         st.button('Effacer l’historique', on_click=lambda: st.session_state.update(chat_history=[initial_prompt]))
 
+        # Détection des changements dans les sources principales
+        prev_source_type = st.session_state.get("selected_source_type", None)
+
         # Sélection de la source principale
         st.subheader("Choisissez la source principale :")
         use_llama_parser = st.checkbox("Rapport Llama Parser", key="llama_parser_checkbox")
         use_google_vision = st.checkbox("Rapport Google Vision API", key="google_vision_checkbox")
 
-        # Validation de la source principale
         if use_llama_parser and not use_google_vision:
             st.session_state.selected_source_type = "Llama Parser"
             st.success("Source : Llama Parser sélectionnée.")
@@ -48,6 +50,10 @@ def main():
         else:
             st.warning("Aucune source principale sélectionnée.")
             st.session_state.selected_source_type = None
+
+        # Réinitialisation de l'index vectoriel si la source principale change
+        if prev_source_type != st.session_state.get("selected_source_type"):
+            st.session_state.vector_index = None
 
         # Sélection des sous-sources
         if st.session_state.selected_source_type:
@@ -80,8 +86,10 @@ def main():
         # Initialisation de l'index vectoriel
         if st.session_state.selected_text and not st.session_state.vector_index:
             if st.session_state.selected_source_type == "Llama Parser":
+                print("Llama Parser")
                 text_data = load_markdown(st.session_state.selected_text)
             elif st.session_state.selected_source_type == "Google Vision API":
+                print("Google Vision API")
                 text_data = load_text(st.session_state.selected_text)
             else:
                 text_data = None
@@ -89,6 +97,7 @@ def main():
             if text_data:
                 st.session_state.vector_index = initialize_faiss_index(text_data)
                 st.success("Index vectoriel initialisé avec succès !")
+
 
     # Interface principale
     st.header("💬Chatbot - Rapports Solvabilité & Situation Financière")
