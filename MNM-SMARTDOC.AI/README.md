@@ -86,16 +86,9 @@ La solution repose sur une approche hybride combinant la recherche d'information
 
 Pour illustrer le fonctionnement de l'application, vous pouvez insérer une vidéo de démonstration directement dans le README :
 
-```html
-## Démo Vidéo
+[lien](./DEMO.mp4).
 
-<video width="640" height="360" controls>
-  <source src="DEMO.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture des vidéos.
-</video>
-```
-
-## **Prérequis 
+## Prérequis 
 ### **1. Prérequis**
 - Python 3.8 ou version supérieure.
 - Clé API OpenAI.
