@@ -143,7 +143,9 @@ Vu les limites apparentes de la méthode d'extraction avec `Google Vision`, nous
 ### ⚠️ L'on a [ici](llama_parser/markdown) 4 fichers `.md` de l'extraction des 4 [rappors PDF](data/pdfs) 
 
 
+### Parsing flow
 
+![Flow](images/architecture.gif)
 
 ---
 
@@ -203,6 +205,8 @@ Le prompt engineering joue un rôle crucial, guidant le modèle avec des instruc
 - Utiliser exclusivement le contexte fourni
 - Maintenir une structure de réponse professionnelle
 - Gérer explicitement les cas où l'information est incomplète ou absente
+
+### RAG architecture
 
 
 
