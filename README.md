@@ -207,7 +207,7 @@ Le prompt engineering joue un rôle crucial, guidant le modèle avec des instruc
 - Gérer explicitement les cas où l'information est incomplète ou absente
 
 ### RAG architecture
-
+![](images/architecture.jpg)
 
 
 ---
