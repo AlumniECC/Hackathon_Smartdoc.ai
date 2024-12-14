@@ -126,7 +126,9 @@ Cette méthodologie a permis :
 
 ### Analyse :
 Le modèle YOLO permet une detection et extraction systématique sous forme d'image de toutes les tables dans les différents PDF. La difficulté apparente se trouve au niveau de l'extraction des tables de ces images (dans le cas de l'utilisation de modèle lite non multimodale)
+La prochaine étape cruciale consiste à intégrer les tableaux extraits dans le texte labélisé, afin de reconstituer une structure documentaire cohérente proche de l'original. L'objectif est de fusionner intelligemment les résultats de la labélisation (titres et paragraphes) avec les tableaux transformés en texte. Cette intégration nécessiterait de développer un algorithme capable d'identifier la position contextuelle de chaque tableau dans le document original, en se basant sur les titres adjacents, la pagination, et le contenu environnant. Il s'agirait de créer un mécanisme qui repositionne chaque tableau à son emplacement initial, en respectant la hiérarchie des sections et la logique narrative du document. Cette approche permettrait de générer un document reconstitué où les tableaux seraient réinsérés de manière organique, préservant ainsi la structure et la cohérence du rapport SFCR initial.
 
+Cette étape de fusion pourrait être réalisée ultérieurement.
 
 ---
 
