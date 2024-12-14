@@ -87,17 +87,69 @@ La solution repose sur une approche hybride combinant la recherche d'information
 
 
 
-## Prérequis 
-### **1. Prérequis**
-- Python 3.8 ou version supérieure.
-- Clé API OpenAI.
-- Bibliothèques nécessaires (voir `requirements.txt`).
+## Prérequis
+### 1. **Outils Nécessaires**
+- Python 3.9 ou plus.
+- Un accès à l'API OpenAI (clé API).
+- Bibliothèques Python (listées dans `requirements.txt`).
 
+### 2. **Installation des Dépendances**
+Installez les dépendances avec la commande suivante :
+```bash
+pip install -r requirements.txt
+```
 
+### 3. **Configuration de l'environnement (.env)**
+Créez un fichier `.env` à la racine du projet et ajoutez-y votre clé API OpenAI :
+```plaintext
+OPENAI_API_KEY=your_openai_api_key
+```
+### Pourquoi un fichier `.env` ?
+Le fichier `.env` est utilisé pour sécuriser et centraliser la gestion des variables sensibles comme les clés API. En utilisant `dotenv`, l'application charge automatiquement ces variables sans les inclure directement dans le code.
 
-## **Prochaines Améliorations**
-- Support multi-langue.
-- Visualisation interactive des embeddings.
-- Optimisation pour de grands ensembles de données.
+## Lancer l'application
+1. **Exécutez l'application Streamlit** :
+   ```bash
+   streamlit run app.py
+   ```
+2. **Accédez à l'application** :
+   Ouvrez un navigateur et rendez-vous à l'adresse suivante :
+   [http://localhost:8501](http://localhost:8501).
 
+## Fonctionnalités de l'application
+- **Téléchargement de Fichiers PDF** : Importez plusieurs documents PDF pour analyse.
+- **Extraction de Texte** : Le contenu des fichiers est extrait et préparé pour l'analyse.
+- **Recherche Sémantique** : Posez des questions sur les documents et obtenez des réponses précises grâce à l'architecture RAG.
+- **Visualisation des Résultats** : Les réponses sont présentées directement dans l'interface.
+
+## Structure du Projet
+```plaintext
+|-- app.py
+|-- requirements.txt
+|-- .env
+|-- faiss_index/ (généré automatiquement pour stocker les embeddings)
+```
+
+## Exemples de Fonctionnement
+### 1. **Téléchargement de Fichiers**
+   - Chargez plusieurs fichiers PDF via la barre latérale.
+   - Cliquez sur "Soumettre & Traiter" pour préparer les fichiers.
+
+### 2. **Posez des Questions**
+   - Entrez une question dans le champ de texte, par exemple :
+     > Quelle est la solvabilité de l'entreprise en 2022 ?
+   - Obtenez une réponse basée sur les données extraites.
+
+### 3. **Réinitialisation**
+   - Utilisez le bouton "Réinitialiser" pour supprimer les données et recommencer.
+
+## Remarques
+- Assurez-vous que vos fichiers PDF sont lisibles et bien formatés.
+- Le système utilise FAISS pour la recherche vectorielle et OpenAI pour la génération de texte.
+
+## Ressources
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [LangChain Documentation](https://docs.langchain.com/)
+- [FAISS Documentation](https://faiss.ai/)
+- [OpenAI API](https://platform.openai.com/docs/)
 
