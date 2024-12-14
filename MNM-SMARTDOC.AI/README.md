@@ -85,7 +85,7 @@ La solution repose sur une approche hybride combinant la recherche d'information
 ## **Démo Vidéo**
 
 
-![APP](DEMO.mp4)
+![APP](./DEMO.mp4)
 
 
 ## Prérequis 
