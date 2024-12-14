@@ -85,7 +85,13 @@ La solution repose sur une approche hybride combinant la recherche d'information
 ## **Démo Vidéo**
 
 
-![APP](./DEMO.mp4)
+## Démo Vidéo
+
+<video width="640" height="360" controls>
+  <source src="./DEMO.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture des vidéos.
+</video>
+
 
 
 ## Prérequis 
