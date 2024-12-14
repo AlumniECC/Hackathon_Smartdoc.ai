@@ -82,11 +82,11 @@ La solution repose sur une approche hybride combinant la recherche d'information
 
 
 
-## **Ajouter une Démo Vidéo**
+## **Démo Vidéo**
 
-Pour illustrer le fonctionnement de l'application, vous pouvez insérer une vidéo de démonstration directement dans le README :
 
-[lien](./DEMO.mp4).
+![APP](DEMO.mp4)
+
 
 ## Prérequis 
 ### **1. Prérequis**
