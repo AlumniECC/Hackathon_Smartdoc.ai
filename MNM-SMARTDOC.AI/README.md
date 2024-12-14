@@ -1,3 +1,7 @@
+## L'Équipe 1 : Data Pioneers  
+- Hammale Mourad  
+- Nawfal Benhamdane  
+- Benkirane Mohamed  
 
 
 # Hackathon NLP: Analyse des Rapports SFCR avec RAG
