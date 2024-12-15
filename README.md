@@ -406,6 +406,8 @@ Ces données sont sauvegardées dans un fichier CSV (`bonus/extracted_tables/<no
 
 Cette application fournit une interface de chat interactive pour explorer et interroger des documents textuels à l'aide des modèles Gemini de Google Generative AI. Conçue pour gérer jusqu'à quatre fichiers texte simultanément, l'application permet des conversations intelligentes et contextuelles, simplifiant la recherche d'informations et l'analyse documentaire.  
 
+![RAG](imgs/rag.png)
+
 ## Fonctionnalités  
 
 L'application s'appuie sur les modèles SOTA Gemini de Google Generative AI, incluant Gemini Pro, Pro Vision et Ultra. Elle prend en charge le téléversement de plusieurs documents (jusqu'à 4 fichiers) et les transforme en indices vectoriels à l'aide de LlamaIndex. Le moteur de chat personnalisé interagit avec les documents, offrant des réglages configurables pour la créativité (température), la limite de tokens et d'autres paramètres. L'interface interactive Streamlit facilite l'utilisation, permettant de téléverser des fichiers, de configurer des paramètres et de discuter avec les documents.  
