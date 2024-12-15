@@ -1,0 +1,2 @@
+2024-12-14 21:37:48,236 - root - ERROR - Unhandled application error: st.session_state has no attribute "uploaded_files". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
+2024-12-14 22:10:00,972 - root - ERROR - Unhandled application error: st.session_state has no attribute "uploaded_files". Did you forget to initialize it? More info: https://docs.streamlit.io/library/advanced-features/session-state#initialization
