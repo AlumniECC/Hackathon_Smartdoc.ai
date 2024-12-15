@@ -406,7 +406,7 @@ Ces données sont sauvegardées dans un fichier CSV (`bonus/extracted_tables/<no
 
 Cette application fournit une interface de chat interactive pour explorer et interroger des documents textuels à l'aide des modèles Gemini de Google Generative AI. Conçue pour gérer jusqu'à quatre fichiers texte simultanément, l'application permet des conversations intelligentes et contextuelles, simplifiant la recherche d'informations et l'analyse documentaire.  
 
-![RAG](imgs/RAG.jpeg)
+![RAG](imgs/RAG.png)
 
 ## Fonctionnalités  
 
