@@ -69,7 +69,6 @@ class DocumentChatApp:
 
     def _initialize_models(self, selected_model):
         try:
-            # Select the appropriate model with correct prefix
             model_name = f"models/{AppConfig.GEMINI_MODELS.get(selected_model, 'gemini-1.0-pro')}"
             
             self.llm = Gemini(
@@ -81,33 +80,30 @@ class DocumentChatApp:
             
             self.embed_model = GeminiEmbedding(
                 api_key=self.GOOGLE_API_KEY,
-                model_name="models/embedding-001"  # Stable embedding model
+                model_name="models/embedding-001"
             )
         except Exception as e:
             self.logger.error(f"Model initialization error: {e}")
             st.error(f"Failed to initialize models: {e}")
             st.stop()
 
-    def _load_uploaded_documents(self, uploaded_files):
-        """Load documents from uploaded files"""
+    def _load_local_documents(self, selected_files):
+        """Load documents directly from the txt_files directory based on user selection."""
         self.documents = []
+        txt_dir = "txt_files"
+        if not os.path.exists(txt_dir):
+            st.error("Text directory not found. Please ensure txt_files directory is present.")
+            return []
+        
+        # Utiliser les fichiers sélectionnés par l'utilisateur
+        input_files = [os.path.join(txt_dir, f) for f in selected_files]
+
         try:
-            for uploaded_file in uploaded_files:
-                # Temporarily save the uploaded file
-                with open(uploaded_file.name, "wb") as f:
-                    f.write(uploaded_file.getbuffer())
-                
-                # Load documents using LlamaIndex
-                reader = SimpleDirectoryReader(input_files=[uploaded_file.name])
-                file_documents = reader.load_data()
-                
-                # Remove temporary file
-                os.unlink(uploaded_file.name)
-                
-                self.documents.extend(file_documents)
-            
+            reader = SimpleDirectoryReader(input_files=input_files)
+            self.documents = reader.load_data()
+
             if not self.documents:
-                st.warning("No documents were loaded. Please check the uploaded files.")
+                st.warning("No documents were loaded. Please check the selected files.")
             
             return self.documents
         except Exception as e:
@@ -153,8 +149,8 @@ class DocumentChatApp:
         # Initialize session state
         self._initialize_session_state()
         
-        # Handle document upload and processing
-        self._process_document_upload()
+        # Process selected documents
+        self._process_local_documents()
         
         # Display chat history
         self._display_chat_history()
@@ -182,20 +178,24 @@ class DocumentChatApp:
             step=0.1
         )
         
-        # Document upload section
-        st.sidebar.header('Upload Documents')
-        st.session_state.uploaded_files = st.sidebar.file_uploader(
-            "Upload up to 4 text documents", 
-            type=['txt'], 
-            accept_multiple_files=True,
-            help="Upload up to 4 text files for document chat"
+        st.sidebar.write("Select between 1 and 4 documents from the image:")
+
+        txt_dir = "txt_files"
+        if os.path.exists(txt_dir):
+            available_files = [f for f in os.listdir(txt_dir) if f.endswith(".txt")]
+        else:
+            available_files = []
+
+        st.session_state.selected_files = st.sidebar.multiselect(
+            "Select documents",
+            options=available_files,
+            help="Select between 1 and 4 documents."
         )
-        
+
         # Clear conversation button
         if st.sidebar.button('Clear Conversation'):
             st.session_state.messages = []
             st.session_state.conversation_context = None
-            st.session_state.uploaded_files = None
             st.session_state.vector_index = None
 
     def _initialize_session_state(self):
@@ -204,46 +204,49 @@ class DocumentChatApp:
             st.session_state.messages = []
         if "conversation_context" not in st.session_state:
             st.session_state.conversation_context = None
-        if "uploaded_files" not in st.session_state:
-            st.session_state.uploaded_files = None
         if "vector_index" not in st.session_state:
             st.session_state.vector_index = None
         if "selected_model" not in st.session_state:
             st.session_state.selected_model = "Gemini Pro"
         if "temperature" not in st.session_state:
             st.session_state.temperature = AppConfig.DEFAULT_TEMPERATURE
+        if "selected_files" not in st.session_state:
+            st.session_state.selected_files = []
 
-    def _process_document_upload(self):
-        """Process uploaded documents and create vector index"""
-        # Check if files are uploaded
-        if st.session_state.uploaded_files:
-            # Limit to 4 files
-            if len(st.session_state.uploaded_files) > 4:
-                st.warning("Maximum of 4 documents allowed. Only the first 4 will be processed.")
-                st.session_state.uploaded_files = st.session_state.uploaded_files[:4]
+    def _process_local_documents(self):
+        """Process local documents based on user selection and create vector index"""
+        selected_files = st.session_state.selected_files
+        
+        # Vérifier le nombre de fichiers sélectionnés
+        if selected_files:
+            if len(selected_files) > 4:
+                st.warning("You selected more than 4 documents. Only the first 4 will be considered.")
+                selected_files = selected_files[:4]
+        else:
+            st.info("Please select at least one document.")
+            return
+        
+        documents = self._load_local_documents(selected_files)
+        
+        if documents:
+            # Initialize models
+            self._initialize_models(st.session_state.selected_model)
             
-            # Load documents
-            documents = self._load_uploaded_documents(st.session_state.uploaded_files)
+            # Configure settings
+            Settings.llm = self.llm
+            Settings.embed_model = self.embed_model
+            Settings.chunk_size = AppConfig.CHUNK_SIZE
+            Settings.chunk_overlap = AppConfig.CHUNK_OVERLAP
             
-            if documents:
-                # Initialize models with selected model
-                self._initialize_models(st.session_state.selected_model)
-                
-                # Configure settings
-                Settings.llm = self.llm
-                Settings.embed_model = self.embed_model
-                Settings.chunk_size = AppConfig.CHUNK_SIZE
-                Settings.chunk_overlap = AppConfig.CHUNK_OVERLAP
-                
-                # Create vector index
-                st.session_state.vector_index = self._create_vector_index()
-                
-                # Initialize chat engine
-                if st.session_state.vector_index:
-                    st.session_state.chat_engine = self._initialize_chat_engine(st.session_state.vector_index)
-                    st.sidebar.success(f"{len(documents)} documents loaded successfully!")
-            else:
-                st.sidebar.error("Failed to load documents. Please try again.")
+            # Create vector index
+            st.session_state.vector_index = self._create_vector_index()
+            
+            # Initialize chat engine
+            if st.session_state.vector_index:
+                st.session_state.chat_engine = self._initialize_chat_engine(st.session_state.vector_index)
+                st.sidebar.success(f"{len(documents)} documents loaded successfully!")
+        else:
+            st.sidebar.error("Failed to load the selected documents. Please try again.")
 
     def _display_chat_history(self):
         """Display previous chat messages"""
@@ -255,10 +258,10 @@ class DocumentChatApp:
         """Process and respond to user input"""
         # Check if chat engine is ready
         if not hasattr(st.session_state, 'chat_engine') or not st.session_state.chat_engine:
-            st.info("Please upload documents to start chatting")
+            st.info("Please select and load documents to start chatting.")
             return
 
-        if prompt := st.chat_input("Ask me anything about the uploaded documents!"):
+        if prompt := st.chat_input("Ask me anything about the selected documents!"):
             # Add user message to chat history
             st.session_state.messages.append({"role": "user", "content": prompt})
             
@@ -304,3 +307,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
